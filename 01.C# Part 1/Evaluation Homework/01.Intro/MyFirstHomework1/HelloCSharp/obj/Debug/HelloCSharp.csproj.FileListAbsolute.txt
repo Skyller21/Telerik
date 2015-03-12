@@ -1,0 +1,9 @@
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\HelloCSharp\obj\Debug\HelloCSharp.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\HelloCSharp\obj\Debug\HelloCSharp.pdb

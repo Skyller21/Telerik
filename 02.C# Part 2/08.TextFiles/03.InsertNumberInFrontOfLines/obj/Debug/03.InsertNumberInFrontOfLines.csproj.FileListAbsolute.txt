@@ -1,0 +1,12 @@
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\03.InsertNumberInFrontOfLines\bin\Debug\03.InsertNumberInFrontOfLines.exe.config
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\03.InsertNumberInFrontOfLines\bin\Debug\03.InsertNumberInFrontOfLines.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\03.InsertNumberInFrontOfLines\bin\Debug\03.InsertNumberInFrontOfLines.pdb
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\03.InsertNumberInFrontOfLines\obj\Debug\03.InsertNumberInFrontOfLines.csprojResolveAssemblyReference.cache
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\03.InsertNumberInFrontOfLines\obj\Debug\03.InsertNumberInFrontOfLines.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\03.InsertNumberInFrontOfLines\obj\Debug\03.InsertNumberInFrontOfLines.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\03.InsertNumberInFrontOfLines\bin\Debug\03.InsertNumberInFrontOfLines.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\03.InsertNumberInFrontOfLines\obj\Debug\03.InsertNumberInFrontOfLines.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\03.InsertNumberInFrontOfLines\obj\Debug\03.InsertNumberInFrontOfLines.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\03.InsertNumberInFrontOfLines\bin\Debug\03.InsertNumberInFrontOfLines.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\03.InsertNumberInFrontOfLines\bin\Debug\03.InsertNumberInFrontOfLines.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\03.InsertNumberInFrontOfLines\obj\Debug\03.InsertNumberInFrontOfLines.csprojResolveAssemblyReference.cache

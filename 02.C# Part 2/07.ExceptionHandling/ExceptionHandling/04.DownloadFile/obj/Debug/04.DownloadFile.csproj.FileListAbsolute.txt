@@ -1,0 +1,12 @@
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\ExceptionHandling\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe.config
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\ExceptionHandling\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\ExceptionHandling\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.pdb
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\ExceptionHandling\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.csprojResolveAssemblyReference.cache
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\ExceptionHandling\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\ExceptionHandling\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\07.ExceptionHandling\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\07.ExceptionHandling\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\07.ExceptionHandling\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\07.ExceptionHandling\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\07.ExceptionHandling\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\07.ExceptionHandling\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.csprojResolveAssemblyReference.cache

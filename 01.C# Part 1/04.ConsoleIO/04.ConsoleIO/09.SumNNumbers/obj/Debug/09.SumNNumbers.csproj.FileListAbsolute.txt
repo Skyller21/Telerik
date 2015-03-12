@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\09.SumNNumbers\bin\Debug\09.SumNNumbers.exe.config
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\09.SumNNumbers\bin\Debug\09.SumNNumbers.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\09.SumNNumbers\bin\Debug\09.SumNNumbers.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\09.SumNNumbers\obj\Debug\09.SumNNumbers.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\09.SumNNumbers\obj\Debug\09.SumNNumbers.pdb

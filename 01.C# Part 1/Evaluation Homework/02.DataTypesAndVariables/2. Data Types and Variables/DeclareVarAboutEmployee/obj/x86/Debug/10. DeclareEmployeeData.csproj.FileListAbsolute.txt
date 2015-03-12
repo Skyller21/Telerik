@@ -1,0 +1,6 @@
+D:\C#1 projects\2. Data Types and Variables\DeclareVarAboutEmployee\obj\x86\Debug\DeclareVarAboutEmployee.exe
+D:\C#1 projects\2. Data Types and Variables\DeclareVarAboutEmployee\bin\Debug\DeclareVarAboutEmployee.exe
+D:\C#1 projects\2. Data Types and Variables\DeclareVarAboutEmployee\bin\Debug\DeclareVarAboutEmployee.pdb
+D:\C#1 projects\2. Data Types and Variables\DeclareVarAboutEmployee\obj\x86\Debug\DeclareVarAboutEmployee.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareVarAboutEmployee\obj\x86\Debug\DeclareVarAboutEmployee.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareVarAboutEmployee\obj\x86\Debug\DeclareVarAboutEmployee.pdb

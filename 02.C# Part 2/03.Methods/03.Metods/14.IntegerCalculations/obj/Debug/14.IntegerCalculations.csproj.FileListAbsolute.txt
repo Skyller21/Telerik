@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\14.IntegerCalculations\bin\Debug\14.IntegerCalculations.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\14.IntegerCalculations\bin\Debug\14.IntegerCalculations.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\14.IntegerCalculations\bin\Debug\14.IntegerCalculations.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\14.IntegerCalculations\obj\Debug\14.IntegerCalculations.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\14.IntegerCalculations\obj\Debug\14.IntegerCalculations.pdb

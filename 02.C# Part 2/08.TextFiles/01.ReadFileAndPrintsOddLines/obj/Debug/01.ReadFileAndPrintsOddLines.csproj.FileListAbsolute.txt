@@ -1,0 +1,12 @@
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\01.ReadFileAndPrintsOddLines\bin\Debug\01.ReadFileAndPrintsOddLines.exe.config
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\01.ReadFileAndPrintsOddLines\bin\Debug\01.ReadFileAndPrintsOddLines.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\01.ReadFileAndPrintsOddLines\bin\Debug\01.ReadFileAndPrintsOddLines.pdb
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\01.ReadFileAndPrintsOddLines\obj\Debug\01.ReadFileAndPrintsOddLines.csprojResolveAssemblyReference.cache
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\01.ReadFileAndPrintsOddLines\obj\Debug\01.ReadFileAndPrintsOddLines.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\01.ReadFileAndPrintsOddLines\obj\Debug\01.ReadFileAndPrintsOddLines.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\01.ReadFileAndPrintsOddLines\bin\Debug\01.ReadFileAndPrintsOddLines.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\01.ReadFileAndPrintsOddLines\obj\Debug\01.ReadFileAndPrintsOddLines.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\01.ReadFileAndPrintsOddLines\obj\Debug\01.ReadFileAndPrintsOddLines.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\01.ReadFileAndPrintsOddLines\bin\Debug\01.ReadFileAndPrintsOddLines.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\01.ReadFileAndPrintsOddLines\bin\Debug\01.ReadFileAndPrintsOddLines.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\01.ReadFileAndPrintsOddLines\obj\Debug\01.ReadFileAndPrintsOddLines.csprojResolveAssemblyReference.cache

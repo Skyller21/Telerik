@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\12.SubtractingPolynomials\bin\Debug\12.SubtractingPolynomials.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\12.SubtractingPolynomials\bin\Debug\12.SubtractingPolynomials.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\12.SubtractingPolynomials\bin\Debug\12.SubtractingPolynomials.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\12.SubtractingPolynomials\obj\Debug\12.SubtractingPolynomials.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\12.SubtractingPolynomials\obj\Debug\12.SubtractingPolynomials.pdb

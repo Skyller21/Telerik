@@ -1,0 +1,17 @@
+Our tools for agile project management, collaboration, development and testing 
+faster than ever before. Trusted by over 100,000 customers worldwide for our 
+professionals maximize their productivity and "deliver more than expected” every day.
+release tools that we can be proud of.
+
+Presentation layer technologies - RadControls, the industry’s leading UI component
+the Telerik Extensions for ASP.NET MVC
+decompiling, and memory and performance profiling
+reports for all .Net platforms.
+popular databases through a visual designer
+
+TeamPulse – the tool that helps teams organize their work, collaborate, share knowledge
+software team get things done.
+Automated Testing Tools
+WPF, ASP.NET AJAX and MVC applications
+Web Content Management
+trusted by over 8,000 customers.

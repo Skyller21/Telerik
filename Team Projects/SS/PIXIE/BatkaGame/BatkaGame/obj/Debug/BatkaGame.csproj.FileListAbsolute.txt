@@ -1,0 +1,18 @@
+D:\Telerik Academy\PIXIE\BatkaGame\BatkaGame\bin\Debug\BatkaGame.exe.config
+D:\Telerik Academy\PIXIE\BatkaGame\BatkaGame\bin\Debug\BatkaGame.exe
+D:\Telerik Academy\PIXIE\BatkaGame\BatkaGame\bin\Debug\BatkaGame.pdb
+D:\Telerik Academy\PIXIE\BatkaGame\BatkaGame\obj\Debug\BatkaGame.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\PIXIE\BatkaGame\BatkaGame\obj\Debug\BatkaGame.exe
+D:\Telerik Academy\PIXIE\BatkaGame\BatkaGame\obj\Debug\BatkaGame.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\CSharpIITeamWork\PIXIE\BatkaGame\BatkaGame\bin\Debug\BatkaGame.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\CSharpIITeamWork\PIXIE\BatkaGame\BatkaGame\obj\Debug\BatkaGame.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\CSharpIITeamWork\PIXIE\BatkaGame\BatkaGame\obj\Debug\BatkaGame.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\CSharpIITeamWork\PIXIE\BatkaGame\BatkaGame\bin\Debug\BatkaGame.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\CSharpIITeamWork\PIXIE\BatkaGame\BatkaGame\bin\Debug\BatkaGame.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\CSharpIITeamWork\PIXIE\BatkaGame\BatkaGame\obj\Debug\BatkaGame.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\Telerik Experience\Team Projects\PIXIE\BatkaGame\BatkaGame\bin\Debug\BatkaGame.exe.config
+D:\Marto\Google Drive\Telerik Experience\Team Projects\PIXIE\BatkaGame\BatkaGame\obj\Debug\BatkaGame.exe
+D:\Marto\Google Drive\Telerik Experience\Team Projects\PIXIE\BatkaGame\BatkaGame\obj\Debug\BatkaGame.pdb
+D:\Marto\Google Drive\Telerik Experience\Team Projects\PIXIE\BatkaGame\BatkaGame\bin\Debug\BatkaGame.exe
+D:\Marto\Google Drive\Telerik Experience\Team Projects\PIXIE\BatkaGame\BatkaGame\bin\Debug\BatkaGame.pdb
+D:\Marto\Google Drive\Telerik Experience\Team Projects\PIXIE\BatkaGame\BatkaGame\obj\Debug\BatkaGame.csprojResolveAssemblyReference.cache

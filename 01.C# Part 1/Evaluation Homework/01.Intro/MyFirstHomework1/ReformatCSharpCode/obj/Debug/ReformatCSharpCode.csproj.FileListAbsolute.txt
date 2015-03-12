@@ -1,0 +1,8 @@
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb

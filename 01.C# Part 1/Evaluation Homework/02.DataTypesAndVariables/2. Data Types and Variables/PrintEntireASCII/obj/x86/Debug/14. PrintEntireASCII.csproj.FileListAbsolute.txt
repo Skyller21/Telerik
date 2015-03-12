@@ -1,0 +1,8 @@
+D:\C#1 projects\2. Data Types and Variables\PrintEntireASCII\bin\Debug\PrintEntireASCII.exe
+D:\C#1 projects\2. Data Types and Variables\PrintEntireASCII\bin\Debug\PrintEntireASCII.pdb
+D:\C#1 projects\2. Data Types and Variables\PrintEntireASCII\obj\x86\Debug\PrintEntireASCII.exe
+D:\C#1 projects\2. Data Types and Variables\PrintEntireASCII\obj\x86\Debug\PrintEntireASCII.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\PrintEntireASCII\obj\x86\Debug\PrintEntireASCII.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\PrintEntireASCII\obj\x86\Debug\PrintEntireASCII.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\PrintEntireASCII\bin\Debug\PrintEntireASCII.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\PrintEntireASCII\bin\Debug\PrintEntireASCII.pdb

@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\01.TRES4Numbers\bin\Debug\01.TRES4Numbers.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\01.TRES4Numbers\bin\Debug\01.TRES4Numbers.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\01.TRES4Numbers\bin\Debug\01.TRES4Numbers.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\01.TRES4Numbers\obj\Debug\01.TRES4Numbers.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\01.TRES4Numbers\obj\Debug\01.TRES4Numbers.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\01.TRES4Numbers\obj\Debug\01.TRES4Numbers.pdb

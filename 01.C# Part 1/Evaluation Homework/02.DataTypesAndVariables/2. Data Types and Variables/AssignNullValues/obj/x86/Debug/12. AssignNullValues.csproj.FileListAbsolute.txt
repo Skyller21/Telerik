@@ -1,0 +1,8 @@
+D:\C#1 projects\2. Data Types and Variables\AssignNullValues\obj\x86\Debug\AssignNullValues.exe
+D:\C#1 projects\2. Data Types and Variables\AssignNullValues\obj\x86\Debug\AssignNullValues.pdb
+D:\C#1 projects\2. Data Types and Variables\AssignNullValues\bin\Debug\AssignNullValues.exe
+D:\C#1 projects\2. Data Types and Variables\AssignNullValues\bin\Debug\AssignNullValues.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\AssignNullValues\obj\x86\Debug\AssignNullValues.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\AssignNullValues\obj\x86\Debug\AssignNullValues.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\AssignNullValues\bin\Debug\AssignNullValues.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\AssignNullValues\bin\Debug\AssignNullValues.pdb

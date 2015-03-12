@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\02.SumOfDifferences\obj\Debug\02.SumOfDifferences.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\02.SumOfDifferences\bin\Debug\02.SumOfDifferences.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\02.SumOfDifferences\bin\Debug\02.SumOfDifferences.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\02.SumOfDifferences\bin\Debug\02.SumOfDifferences.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\02.SumOfDifferences\obj\Debug\02.SumOfDifferences.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\02.SumOfDifferences\obj\Debug\02.SumOfDifferences.pdb

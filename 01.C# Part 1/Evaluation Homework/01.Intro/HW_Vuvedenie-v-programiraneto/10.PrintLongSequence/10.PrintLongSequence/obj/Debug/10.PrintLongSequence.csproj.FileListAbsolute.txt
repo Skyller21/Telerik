@@ -1,0 +1,6 @@
+c:\users\ivoo\documents\visual studio 2013\Projects\10.PrintLongSequence\10.PrintLongSequence\bin\Debug\10.PrintLongSequence.exe.config
+c:\users\ivoo\documents\visual studio 2013\Projects\10.PrintLongSequence\10.PrintLongSequence\obj\Debug\10.PrintLongSequence.csprojResolveAssemblyReference.cache
+c:\users\ivoo\documents\visual studio 2013\Projects\10.PrintLongSequence\10.PrintLongSequence\bin\Debug\10.PrintLongSequence.exe
+c:\users\ivoo\documents\visual studio 2013\Projects\10.PrintLongSequence\10.PrintLongSequence\bin\Debug\10.PrintLongSequence.pdb
+c:\users\ivoo\documents\visual studio 2013\Projects\10.PrintLongSequence\10.PrintLongSequence\obj\Debug\10.PrintLongSequence.exe
+c:\users\ivoo\documents\visual studio 2013\Projects\10.PrintLongSequence\10.PrintLongSequence\obj\Debug\10.PrintLongSequence.pdb

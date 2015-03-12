@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\17.SubsetKWithSumS\bin\Debug\17.SubsetKWithSumS.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\17.SubsetKWithSumS\bin\Debug\17.SubsetKWithSumS.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\17.SubsetKWithSumS\bin\Debug\17.SubsetKWithSumS.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\17.SubsetKWithSumS\obj\Debug\17.SubsetKWithSumS.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\17.SubsetKWithSumS\obj\Debug\17.SubsetKWithSumS.pdb

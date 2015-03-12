@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.pdb

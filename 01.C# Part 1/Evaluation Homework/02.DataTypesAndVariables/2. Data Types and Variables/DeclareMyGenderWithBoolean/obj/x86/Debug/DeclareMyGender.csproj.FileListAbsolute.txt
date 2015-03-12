@@ -1,0 +1,7 @@
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareMyGenderWithBoolean\bin\Debug\DeclareMyGenderWithBoolean.exe
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareMyGenderWithBoolean\bin\Debug\DeclareMyGenderWithBoolean.pdb
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareMyGenderWithBoolean\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareMyGenderWithBoolean\obj\x86\Debug\DeclareMyGenderWithBoolean.exe
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareMyGenderWithBoolean\obj\x86\Debug\DeclareMyGenderWithBoolean.pdb
+D:\C#1 projects\2. Data Types and Variables\DeclareMyGenderWithBoolean\obj\x86\Debug\DeclareMyGenderWithBoolean.exe
+D:\C#1 projects\2. Data Types and Variables\DeclareMyGenderWithBoolean\obj\x86\Debug\DeclareMyGenderWithBoolean.pdb

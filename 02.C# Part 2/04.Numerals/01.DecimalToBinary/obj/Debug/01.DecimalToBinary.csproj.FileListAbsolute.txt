@@ -1,0 +1,9 @@
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe.config
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.pdb
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.csprojResolveAssemblyReference.cache
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\04.Numerals\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\04.Numerals\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\04.Numerals\01.DecimalToBinary\obj\Debug\01.DecimalToBinary.pdb

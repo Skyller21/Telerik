@@ -1,0 +1,12 @@
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\08.BinaryRepresentationOfSignedShort\bin\Debug\08.BinaryRepresentationOfSignedShort.exe.config
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\08.BinaryRepresentationOfSignedShort\obj\Debug\08.BinaryRepresentationOfSignedShort.csprojResolveAssemblyReference.cache
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\08.BinaryRepresentationOfSignedShort\bin\Debug\08.BinaryRepresentationOfSignedShort.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\08.BinaryRepresentationOfSignedShort\bin\Debug\08.BinaryRepresentationOfSignedShort.pdb
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\08.BinaryRepresentationOfSignedShort\obj\Debug\08.BinaryRepresentationOfSignedShort.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\08.BinaryRepresentationOfSignedShort\obj\Debug\08.BinaryRepresentationOfSignedShort.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\04.Numerals\08.BinaryRepresentationOfSignedShort\bin\Debug\08.BinaryRepresentationOfSignedShort.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\04.Numerals\08.BinaryRepresentationOfSignedShort\obj\Debug\08.BinaryRepresentationOfSignedShort.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\04.Numerals\08.BinaryRepresentationOfSignedShort\obj\Debug\08.BinaryRepresentationOfSignedShort.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\04.Numerals\08.BinaryRepresentationOfSignedShort\bin\Debug\08.BinaryRepresentationOfSignedShort.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\04.Numerals\08.BinaryRepresentationOfSignedShort\bin\Debug\08.BinaryRepresentationOfSignedShort.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\04.Numerals\08.BinaryRepresentationOfSignedShort\obj\Debug\08.BinaryRepresentationOfSignedShort.csprojResolveAssemblyReference.cache

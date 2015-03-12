@@ -1,0 +1,9 @@
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareQuotedString\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareQuotedString\bin\Debug\DeclareQuotedString.exe
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareQuotedString\bin\Debug\DeclareQuotedString.pdb
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareQuotedString\obj\x86\Debug\DeclareQuotedString.exe
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareQuotedString\obj\x86\Debug\DeclareQuotedString.pdb
+D:\C#1 projects\2. Data Types and Variables\DeclareQuotedString\obj\x86\Debug\DeclareQuotedString.exe
+D:\C#1 projects\2. Data Types and Variables\DeclareQuotedString\obj\x86\Debug\DeclareQuotedString.pdb
+D:\C#1 projects\2. Data Types and Variables\DeclareQuotedString\bin\Debug\DeclareQuotedString.exe
+D:\C#1 projects\2. Data Types and Variables\DeclareQuotedString\bin\Debug\DeclareQuotedString.pdb

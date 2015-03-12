@@ -1,0 +1,9 @@
+C:\Storage\Telerik\1st Introduction to Programming\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Storage\Telerik\1st Introduction to Programming\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Storage\Telerik\1st Introduction to Programming\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Storage\Telerik\1st Introduction to Programming\HelloWorld\obj\Debug\04. HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Storage\Telerik\1st Introduction to Programming\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Storage\Telerik\1st Introduction to Programming\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\01.Intro\1st Introduction to Programming\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\01.Intro\1st Introduction to Programming\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\01.Intro\1st Introduction to Programming\HelloWorld\obj\Debug\HelloWorld.pdb

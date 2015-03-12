@@ -1,0 +1,6 @@
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\06.BinaryToHex\bin\Debug\06.BinaryToHex.exe.config
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\06.BinaryToHex\obj\Debug\06.BinaryToHex.csprojResolveAssemblyReference.cache
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\06.BinaryToHex\bin\Debug\06.BinaryToHex.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\06.BinaryToHex\bin\Debug\06.BinaryToHex.pdb
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\06.BinaryToHex\obj\Debug\06.BinaryToHex.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\06.BinaryToHex\obj\Debug\06.BinaryToHex.pdb

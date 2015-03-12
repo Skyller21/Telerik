@@ -1,0 +1,6 @@
+D:\C#1 projects\2. Data Types and Variables\AssignToFloatAndDouble\bin\Debug\AssignToFloatAndDouble.exe
+D:\C#1 projects\2. Data Types and Variables\AssignToFloatAndDouble\bin\Debug\AssignToFloatAndDouble.pdb
+D:\C#1 projects\2. Data Types and Variables\AssignToFloatAndDouble\obj\x86\Debug\AssignToFloatAndDouble.exe
+D:\C#1 projects\2. Data Types and Variables\AssignToFloatAndDouble\obj\x86\Debug\AssignToFloatAndDouble.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\AssignToFloatAndDouble\obj\x86\Debug\AssignToFloatAndDouble.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\AssignToFloatAndDouble\obj\x86\Debug\AssignToFloatAndDouble.pdb

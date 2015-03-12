@@ -1,0 +1,9 @@
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\TypeCastingStringtoObject\bin\Debug\TypeCastingStringtoObject.exe
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\TypeCastingStringtoObject\bin\Debug\TypeCastingStringtoObject.pdb
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\TypeCastingStringtoObject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\TypeCastingStringtoObject\obj\x86\Debug\TypeCastingStringtoObject.exe
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\TypeCastingStringtoObject\obj\x86\Debug\TypeCastingStringtoObject.pdb
+D:\C#1 projects\2. Data Types and Variables\TypeCastingStringtoObject\obj\x86\Debug\TypeCastingStringtoObject.exe
+D:\C#1 projects\2. Data Types and Variables\TypeCastingStringtoObject\obj\x86\Debug\TypeCastingStringtoObject.pdb
+D:\C#1 projects\2. Data Types and Variables\TypeCastingStringtoObject\bin\Debug\TypeCastingStringtoObject.exe
+D:\C#1 projects\2. Data Types and Variables\TypeCastingStringtoObject\bin\Debug\TypeCastingStringtoObject.pdb

@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

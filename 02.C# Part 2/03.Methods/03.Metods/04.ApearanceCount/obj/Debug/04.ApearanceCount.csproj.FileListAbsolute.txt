@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\04.ApearanceCount\bin\Debug\04.ApearanceCount.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\04.ApearanceCount\bin\Debug\04.ApearanceCount.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\04.ApearanceCount\bin\Debug\04.ApearanceCount.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\04.ApearanceCount\obj\Debug\04.ApearanceCount.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\04.ApearanceCount\obj\Debug\04.ApearanceCount.pdb

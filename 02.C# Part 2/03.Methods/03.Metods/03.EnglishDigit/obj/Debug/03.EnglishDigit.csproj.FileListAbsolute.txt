@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\03.EnglishDigit\bin\Debug\03.EnglishDigit.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\03.EnglishDigit\obj\Debug\03.EnglishDigit.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\03.EnglishDigit\obj\Debug\03.EnglishDigit.pdb

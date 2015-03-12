@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\3.SaddyKopper\bin\Debug\3.SaddyKopper.exe.config
+D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\3.SaddyKopper\bin\Debug\3.SaddyKopper.exe
+D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\3.SaddyKopper\bin\Debug\3.SaddyKopper.pdb
+D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\3.SaddyKopper\obj\Debug\3.SaddyKopper.exe
+D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\3.SaddyKopper\obj\Debug\3.SaddyKopper.pdb
+D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\3.SaddyKopper\obj\Debug\3.SaddyKopper.csprojResolveAssemblyReference.cache

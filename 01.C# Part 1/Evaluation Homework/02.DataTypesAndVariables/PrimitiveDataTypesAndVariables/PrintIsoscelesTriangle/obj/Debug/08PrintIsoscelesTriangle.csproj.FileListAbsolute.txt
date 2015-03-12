@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\PrimitiveDataTypesAndVariables\PrintIsoscelesTriangle\bin\Debug\PrintIsoscelesTriangle.exe.config
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\PrimitiveDataTypesAndVariables\PrintIsoscelesTriangle\bin\Debug\PrintIsoscelesTriangle.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\PrimitiveDataTypesAndVariables\PrintIsoscelesTriangle\bin\Debug\PrintIsoscelesTriangle.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\PrimitiveDataTypesAndVariables\PrintIsoscelesTriangle\obj\Debug\08PrintIsoscelesTriangle.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\PrimitiveDataTypesAndVariables\PrintIsoscelesTriangle\obj\Debug\PrintIsoscelesTriangle.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\PrimitiveDataTypesAndVariables\PrintIsoscelesTriangle\obj\Debug\PrintIsoscelesTriangle.pdb

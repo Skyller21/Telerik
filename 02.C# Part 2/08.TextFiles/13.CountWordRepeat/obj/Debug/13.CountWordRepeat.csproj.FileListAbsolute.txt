@@ -1,0 +1,12 @@
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\13.CountWordRepeat\bin\Debug\13.CountWordRepeat.exe.config
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\13.CountWordRepeat\obj\Debug\13.CountWordRepeat.csprojResolveAssemblyReference.cache
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\13.CountWordRepeat\bin\Debug\13.CountWordRepeat.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\13.CountWordRepeat\bin\Debug\13.CountWordRepeat.pdb
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\13.CountWordRepeat\obj\Debug\13.CountWordRepeat.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\13.CountWordRepeat\obj\Debug\13.CountWordRepeat.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\13.CountWordRepeat\bin\Debug\13.CountWordRepeat.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\13.CountWordRepeat\obj\Debug\13.CountWordRepeat.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\13.CountWordRepeat\obj\Debug\13.CountWordRepeat.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\13.CountWordRepeat\bin\Debug\13.CountWordRepeat.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\13.CountWordRepeat\bin\Debug\13.CountWordRepeat.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\13.CountWordRepeat\obj\Debug\13.CountWordRepeat.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintFirstTenNumbers\bin\Debug\PrintFirstTenNumbers.exe.config
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintFirstTenNumbers\bin\Debug\PrintFirstTenNumbers.exe
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintFirstTenNumbers\bin\Debug\PrintFirstTenNumbers.pdb
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintFirstTenNumbers\obj\Debug\PrintFirstTenNumbers.exe
+C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintFirstTenNumbers\obj\Debug\PrintFirstTenNumbers.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\PrintFirstTenNumbers\bin\Debug\PrintFirstTenNumbers.exe.config
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\PrintFirstTenNumbers\obj\Debug\PrintFirstTenNumbers.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\PrintFirstTenNumbers\obj\Debug\PrintFirstTenNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\03.Trails3D\bin\Debug\03.Trails3D.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\03.Trails3D\bin\Debug\03.Trails3D.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\03.Trails3D\bin\Debug\03.Trails3D.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\03.Trails3D\obj\Debug\03.Trails3D.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\03.Trails3D\obj\Debug\03.Trails3D.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\03.Trails3D\obj\Debug\03.Trails3D.pdb

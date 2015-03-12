@@ -1,0 +1,15 @@
+c:\users\ivoo\documents\visual studio 2013\Projects\01.HelloWorld\01.HelloWorld\bin\Debug\01.HelloWorld.exe.config
+c:\users\ivoo\documents\visual studio 2013\Projects\01.HelloWorld\01.HelloWorld\bin\Debug\01.HelloWorld.exe
+c:\users\ivoo\documents\visual studio 2013\Projects\01.HelloWorld\01.HelloWorld\bin\Debug\01.HelloWorld.pdb
+c:\users\ivoo\documents\visual studio 2013\Projects\01.HelloWorld\01.HelloWorld\obj\Debug\01.HelloWorld.csprojResolveAssemblyReference.cache
+c:\users\ivoo\documents\visual studio 2013\Projects\01.HelloWorld\01.HelloWorld\obj\Debug\01.HelloWorld.exe
+c:\users\ivoo\documents\visual studio 2013\Projects\01.HelloWorld\01.HelloWorld\obj\Debug\01.HelloWorld.pdb
+D:\Projects\01.HelloWorld\01.HelloWorld\bin\Debug\01.HelloWorld.exe.config
+D:\Projects\01.HelloWorld\01.HelloWorld\obj\Debug\01.HelloWorld.exe
+D:\Projects\01.HelloWorld\01.HelloWorld\obj\Debug\01.HelloWorld.pdb
+D:\Projects\01.HelloWorld\01.HelloWorld\bin\Debug\01.HelloWorld.exe
+D:\Projects\01.HelloWorld\01.HelloWorld\bin\Debug\01.HelloWorld.pdb
+D:\Projects\01.HelloWorld\01.HelloWorld\obj\Debug\01.HelloWorld.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\HW_Vuvedenie-v-programiraneto\01.HelloWorld\01.HelloWorld\bin\Debug\01.HelloWorld.exe.config
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\HW_Vuvedenie-v-programiraneto\01.HelloWorld\01.HelloWorld\obj\Debug\01.HelloWorld.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\HW_Vuvedenie-v-programiraneto\01.HelloWorld\01.HelloWorld\obj\Debug\01.HelloWorld.pdb

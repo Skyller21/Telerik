@@ -1,0 +1,7 @@
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\PrintEntireASCII\bin\Debug\PrintEntireASCII.exe
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\PrintEntireASCII\bin\Debug\PrintEntireASCII.pdb
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\PrintEntireASCII\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\PrintEntireASCII\obj\x86\Debug\PrintEntireASCII.exe
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\PrintEntireASCII\obj\x86\Debug\PrintEntireASCII.pdb
+D:\C#1 projects\2. Data Types and Variables\PrintEntireASCII\obj\x86\Debug\PrintEntireASCII.exe
+D:\C#1 projects\2. Data Types and Variables\PrintEntireASCII\obj\x86\Debug\PrintEntireASCII.pdb

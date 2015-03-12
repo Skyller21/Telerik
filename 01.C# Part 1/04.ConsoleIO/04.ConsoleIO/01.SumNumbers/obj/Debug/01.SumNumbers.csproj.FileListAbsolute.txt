@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\01.SumNumbers\bin\Debug\01.SumNumbers.exe.config
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\01.SumNumbers\bin\Debug\01.SumNumbers.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\01.SumNumbers\bin\Debug\01.SumNumbers.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\01.SumNumbers\obj\Debug\01.SumNumbers.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\01.SumNumbers\obj\Debug\01.SumNumbers.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\01.SumNumbers\obj\Debug\01.SumNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\05.IncreasingSequence\bin\Debug\05.IncreasingSequence.exe.config
+D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\05.IncreasingSequence\bin\Debug\05.IncreasingSequence.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\05.IncreasingSequence\bin\Debug\05.IncreasingSequence.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\05.IncreasingSequence\obj\Debug\05.IncreasingSequence.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\05.IncreasingSequence\obj\Debug\05.IncreasingSequence.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\05.IncreasingSequence\obj\Debug\05.IncreasingSequence.pdb

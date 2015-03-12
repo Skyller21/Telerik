@@ -1,0 +1,16 @@
+	Visual Studio 	:C#, C++, VB - intellisense; it can be used for all .NET languages; Visual Studio has an advantage when it comes to programming. This IDE is mostly used by corporate programmers to produce .NET code. Sometimes people want to try the product without investing thousands of dollars first, so Microsoft has the Express editions for all of their products.
+
+
+	Eclipse  	:PHP, Java - This is the best alternative if you are not a big fan of Microsoft’s Visual Studio. The interface is a lot cleaner and concise than Visual Studio and the languages that are possible to use extend past the .Net Framework.The languages are not limited by Microsoft and anyone is free to develop plug-ins for different languages and to make the development environment easier to use. Also, the ability to use this on Linux is a great sway for many people who don’t like to be bound by Microsoft’s operating systems.Besides being fully customizable and extensible, the next best thing about eclipse is it’s free.
+
+
+	Xcode		:Objective C - Xcode is an integrated development environment (IDE) containing a suite of software development tools developed by Apple for developing software for OS X and iOS. First released in 2003, it is available via the Mac App Store free of charge for Mac OS X Lion, OS X Mountain Lion and OS X Mavericks users. Registered developers can download preview releases and previous versions of the suite through the Apple Developer website.
+
+
+	NetBeans	:PHP, Java - The is the number one alternative to Eclipse. This program is extensible and free, and it compiles code which is a bonus. When installing Netbeans it comes with a Java server called GlassFish that you could deploy on your computer for your testing environment. This server is the second biggest server for Java next to WebSphere.
+
+
+	Vim		:C, C++ - The Vim text editor is a favorite of many programmers and system administrators. Although it provides an exceptional amount of power and flexibility, it can be somewhat intimidating for new users. Programmers who transition to Vim from a conventional integrated development environment (IDE) tend to find the paradigm shift a bit disorienting.
+I often get e-mail from readers who are looking for ways to make Vim more developer-friendly. A common complaint is that the editor doesn't come with standard IDE features out of the box and it's not always clear how to configure it to provide equivalent functionality. The secret to unlocking Vim's real magic is to take advantage of its powerful plugin system and the large ecosystem of third-party scripts that offer editor augmentations for various tasks. 
+
+

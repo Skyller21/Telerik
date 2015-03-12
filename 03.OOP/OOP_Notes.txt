@@ -1,0 +1,13 @@
+1.Всички полета в класа са празни. -> всяко от тях се инциализира в конструктора на класа. 
+2.Ако namespace е различен класът или трябва да се извиква със (namespace).(class) или се използва using (namespace).
+3.Преизползване на конструктор: public Bunny(string bunnyName, string playerColor) : this(bunnyName) - извиква конструктора, който приема само име.
+4.value е стойността, която се задава на обекта. Property: get{return this.name}; set{this.name = value};
+5. var cat1 = new Cat();
+	cat1.name = "Kotangens";
+	ЕКВИВАЛЕНТНО
+	var cat2 = new Cat()
+	{
+	name = "Tangens";
+	}
+6.const иска задължително стойност. Не може да зададем public const string test = new string('-',40); или new Random();
+7. enum може да се каства в двете посоки. от int към enum или enum към int

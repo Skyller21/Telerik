@@ -1,0 +1,34 @@
+Telerik’s mission is to make software development easier and more enjoyable.
+Our  for agile project management, collaboration, development and testing 
+allow companies of all sizes to  richer, more stable and aesthetic software 
+faster than ever before. Trusted by over 100,000 customers worldwide for our 
+devotion to quality and customer care, Telerik helps technical and business 
+professionals maximize their productivity and "deliver more than expected” every day.
+As true craftsmen, we don't believe in compromises and our goal is to only 
+release  that we can be proud of.
+
+
+Developer 
+Presentation layer technologies - RadControls, the industry’s leading UI component
+suites for ASP.NET AJAX, Silverlight, Windows Phone 7, WPF and Windows Forms and
+the Telerik Extensions for ASP.NET MVC
+Productivity  – The essential  for code analysis, refactoring ,mocking,
+decompiling, and memory and performance profiling
+Reporting engine – Telerik Reporting, the easiest way to  embedded and printable
+reports for all .Net platforms.
+Data Access – OpenAccess, a convenient tool for building powerful data layers for all
+popular databases through a visual designer
+Kendo UI - everything you need to build sites and mobile apps with JavaScript and HTML5
+
+Agile Project Management
+TeamPulse – the tool that helps teams  their work, collaborate, share knowledge
+and ultimately deliver results every time. Agile or not, TeamPulse will help your
+software team get things done.
+
+Automated Testing 
+Test Studio - the industry’s premier tool for automated testing of 
+WPF, ASP.NET AJAX and MVC applications
+
+Web Content Management
+ – the next-generation web platform for public websites and intranets
+trusted by over 8,000 customers.

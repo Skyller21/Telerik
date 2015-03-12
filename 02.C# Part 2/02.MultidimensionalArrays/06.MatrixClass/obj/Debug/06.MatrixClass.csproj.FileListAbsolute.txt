@@ -1,0 +1,12 @@
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\06.MatrixClass\bin\Debug\06.MatrixClass.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\06.MatrixClass\obj\Debug\06.MatrixClass.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\06.MatrixClass\bin\Debug\06.MatrixClass.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\06.MatrixClass\bin\Debug\06.MatrixClass.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\06.MatrixClass\obj\Debug\06.MatrixClass.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\06.MatrixClass\obj\Debug\06.MatrixClass.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\06.MatrixClass\bin\Debug\06.MatrixClass.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\06.MatrixClass\obj\Debug\06.MatrixClass.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\06.MatrixClass\obj\Debug\06.MatrixClass.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\06.MatrixClass\obj\Debug\06.MatrixClass.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\06.MatrixClass\bin\Debug\06.MatrixClass.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\06.MatrixClass\bin\Debug\06.MatrixClass.pdb

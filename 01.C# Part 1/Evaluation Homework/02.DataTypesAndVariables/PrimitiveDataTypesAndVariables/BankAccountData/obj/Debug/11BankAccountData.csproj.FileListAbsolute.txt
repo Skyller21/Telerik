@@ -1,0 +1,1 @@
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\PrimitiveDataTypesAndVariables\BankAccountData\bin\Debug\BankAccountData.exe.config

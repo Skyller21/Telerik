@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\03.Circle\bin\Debug\03.Circle.exe.config
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\03.Circle\bin\Debug\03.Circle.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\03.Circle\bin\Debug\03.Circle.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\03.Circle\obj\Debug\03.Circle.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\03.Circle\obj\Debug\03.Circle.pdb

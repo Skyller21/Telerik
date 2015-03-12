@@ -1,0 +1,2 @@
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\Declare5Variables\obj\x86\Debug\Declare5Variables.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\Declare5Variables\obj\x86\Debug\Declare5Variables.pdb

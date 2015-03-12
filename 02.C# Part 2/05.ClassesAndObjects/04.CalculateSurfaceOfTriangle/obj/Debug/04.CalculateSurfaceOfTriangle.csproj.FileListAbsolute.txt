@@ -1,0 +1,12 @@
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\04.CalculateSurfaceOfTriangle\bin\Debug\04.CalculateSurfaceOfTriangle.exe.config
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\04.CalculateSurfaceOfTriangle\obj\Debug\04.CalculateSurfaceOfTriangle.csprojResolveAssemblyReference.cache
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\04.CalculateSurfaceOfTriangle\bin\Debug\04.CalculateSurfaceOfTriangle.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\04.CalculateSurfaceOfTriangle\bin\Debug\04.CalculateSurfaceOfTriangle.pdb
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\04.CalculateSurfaceOfTriangle\obj\Debug\04.CalculateSurfaceOfTriangle.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\04.CalculateSurfaceOfTriangle\obj\Debug\04.CalculateSurfaceOfTriangle.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\04.CalculateSurfaceOfTriangle\bin\Debug\04.CalculateSurfaceOfTriangle.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\04.CalculateSurfaceOfTriangle\obj\Debug\04.CalculateSurfaceOfTriangle.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\04.CalculateSurfaceOfTriangle\obj\Debug\04.CalculateSurfaceOfTriangle.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\04.CalculateSurfaceOfTriangle\bin\Debug\04.CalculateSurfaceOfTriangle.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\04.CalculateSurfaceOfTriangle\bin\Debug\04.CalculateSurfaceOfTriangle.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\04.CalculateSurfaceOfTriangle\obj\Debug\04.CalculateSurfaceOfTriangle.csprojResolveAssemblyReference.cache

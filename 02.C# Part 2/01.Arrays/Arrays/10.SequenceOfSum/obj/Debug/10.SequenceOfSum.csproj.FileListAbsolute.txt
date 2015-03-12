@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\10.SequenceOfSum\bin\Debug\10.SequenceOfSum.exe.config
+D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\10.SequenceOfSum\obj\Debug\10.SequenceOfSum.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\10.SequenceOfSum\bin\Debug\10.SequenceOfSum.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\10.SequenceOfSum\bin\Debug\10.SequenceOfSum.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\10.SequenceOfSum\obj\Debug\10.SequenceOfSum.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\10.SequenceOfSum\obj\Debug\10.SequenceOfSum.pdb

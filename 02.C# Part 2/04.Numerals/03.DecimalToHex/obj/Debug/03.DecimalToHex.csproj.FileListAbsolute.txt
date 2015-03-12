@@ -1,0 +1,6 @@
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\03.DecimalToHex\bin\Debug\03.DecimalToHex.exe.config
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\03.DecimalToHex\bin\Debug\03.DecimalToHex.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\03.DecimalToHex\bin\Debug\03.DecimalToHex.pdb
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\03.DecimalToHex\obj\Debug\03.DecimalToHex.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\03.DecimalToHex\obj\Debug\03.DecimalToHex.pdb
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\03.DecimalToHex\obj\Debug\03.DecimalToHex.csprojResolveAssemblyReference.cache

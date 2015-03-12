@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\11.AddPolynomials\bin\Debug\11.AddPolynomials.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\11.AddPolynomials\bin\Debug\11.AddPolynomials.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\11.AddPolynomials\bin\Debug\11.AddPolynomials.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\11.AddPolynomials\obj\Debug\11.AddPolynomials.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\11.AddPolynomials\obj\Debug\11.AddPolynomials.pdb

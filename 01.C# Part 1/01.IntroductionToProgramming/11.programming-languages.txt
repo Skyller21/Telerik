@@ -1,0 +1,36 @@
+Python vs C#
+Python is implemented as an interpreted language while C# is compiled. Both this implementations have their benefits and drawbacks.
+Performance-wise, C# is faster due to the optimizations provided by the Common Language Infrastructure (CLI) framework.
+While C# wins the performance race, writing and deploying code in C# is slower than Python
+Python is well-known for its easy learning curve and rapid development.
+
+
+Java vs C#
+The languages use very similar type systems.
+Both languages are statically typed with class-based object orientation. 
+In Java the primitive types are special in that they are not object-oriented and they could not have been defined using the language itself. 
+They also do not share a common ancestor with reference types. The Java reference types all derive from a common root type. 
+Both languages support a number of built-in types that are copied and passed by value rather than by reference
+Java calls these types primitive types, while they are called simple types in C#.
+
+
+C++ vs C#
+Inheritance: In C++, classes and structs are virtually identical whereas in C#,
+they are quite different. C# classes can implement any number of interfaces,
+but can inherit from only one base class. Furthermore, C# structs do not support inheritance,
+and do not support explicit default constructors (one is provided by default).
+Performance (speed and size): Applications built in C# may not perform as well when compared with native C++.
+C# has an intrusive garbage collector, reference tracking and other overheads with some of the framework services.
+The .NET framework alone has a big runtime footprint (~30 Mb of memory), and requires that several versions of the framework be installed.
+
+
+C vs C#
+C is one of the most widely used programming languages of all time and C compilers are available for the majority of available computer architectures and operating systems.
+
+JavaScript vs C#
+Client-side: Javascript runs in most browsers without a plugin. C# requires a browser plugin like Silverlight. 
+Even though it's running on a client machine, Javascript can't read and write files there. 
+C# in Silverlight may be able to read and write files depending on the Silverlight version and what the client allows. 
+Both Javascript and C#/Silverlight can talk to remote servers.
+Server-side: since you control this machine, you can do whatever you want - read files, write files, talk directly to databases, etc.
+Keep in mind there's nothing stopping you from running Javascript server-side.

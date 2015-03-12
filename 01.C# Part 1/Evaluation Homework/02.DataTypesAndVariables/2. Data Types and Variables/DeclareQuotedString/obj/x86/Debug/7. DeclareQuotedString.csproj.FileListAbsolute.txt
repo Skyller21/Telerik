@@ -1,0 +1,4 @@
+D:\C#1 projects\2. Data Types and Variables\DeclareQuotedString\obj\x86\Debug\DeclareQuotedString.exe
+D:\C#1 projects\2. Data Types and Variables\DeclareQuotedString\obj\x86\Debug\DeclareQuotedString.pdb
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareQuotedString\obj\x86\Debug\DeclareQuotedString.exe
+D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareQuotedString\obj\x86\Debug\DeclareQuotedString.pdb

@@ -1,0 +1,12 @@
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe.config
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.pdb
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.csprojResolveAssemblyReference.cache
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.exe
+D:\Marto\Dropbox\Telerik\C# Part II\Homework\TextFiles\TextFiles\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe.config
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.pdb
+D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\08.TextFiles\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.csprojResolveAssemblyReference.cache

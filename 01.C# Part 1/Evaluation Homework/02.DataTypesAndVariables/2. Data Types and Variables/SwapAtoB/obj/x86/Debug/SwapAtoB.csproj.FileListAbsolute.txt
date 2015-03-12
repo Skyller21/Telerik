@@ -1,0 +1,7 @@
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\SwapAtoB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\SwapAtoB\bin\Debug\SwapAtoB.exe
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\SwapAtoB\bin\Debug\SwapAtoB.pdb
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\SwapAtoB\obj\x86\Debug\SwapAtoB.exe
+C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\SwapAtoB\obj\x86\Debug\SwapAtoB.pdb
+D:\C#1 projects\2. Data Types and Variables\SwapAtoB\obj\x86\Debug\SwapAtoB.exe
+D:\C#1 projects\2. Data Types and Variables\SwapAtoB\obj\x86\Debug\SwapAtoB.pdb
