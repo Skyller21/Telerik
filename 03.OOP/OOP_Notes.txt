@@ -1,6 +1,7 @@
 1.Всички полета в класа са празни. -> всяко от тях се инциализира в конструктора на класа. 
 2.Ако namespace е различен класът или трябва да се извиква със (namespace).(class) или се използва using (namespace).
-3.Преизползване на конструктор: public Bunny(string bunnyName, string playerColor) : this(bunnyName) - извиква конструктора, който приема само име.
+3.Преизползване на конструктор: public Bunny(string bunnyName, string playerColor) : this(bunnyName) - извиква конструктора,
+  който приема само име.
 4.value е стойността, която се задава на обекта. Property: get{return this.name}; set{this.name = value};
 5. var cat1 = new Cat();
 	cat1.name = "Kotangens";
@@ -11,3 +12,37 @@
 	}
 6.const иска задължително стойност. Не може да зададем public const string test = new string('-',40); или new Random();
 7. enum може да се каства в двете посоки. от int към enum или enum към int
+8. В статичен клас всички методи трябва да са статични
+9. Статичните класове са helper класове. Вършат си някаква работа и връщат резултат. 
+10. В статичните методи мога да извикваме само статични променливи, пропъртита, методи.
+11. Структурата struct винаги има празен конструктор
+12. При структурата стойността на първоначалния обект не се променя при използване в метод. Стойността се копира.
+	При референтните типове (класовете) , стойността се променя.
+	при конструктора на струкурата трябва да се наследи празния default конструктор. :this()
+13.	GENERIC
+	public class CustomStack<T>(){
+
+		private const int InitialLenght = 4;
+		private T[] arr;
+	
+		public CustomStack(){
+			this.arr = new T[InitialLenght];
+		}
+		
+		
+	} 
+	
+14. Interface задължава имплементацията на всичките методи, пропъртита и полета. Всичко в interface-a е публично. Не се пишат access modifiers.
+15. public void Push(params T[] elements) - не ни задължава да имаме точен масив http://stackoverflow.com/questions/7580277/why-use-the-params-keyword
+16. public static int Compare<T (optional T2, T3)>(T first, T second) where T : IComparable<T>{
+		return first.CompareTo(second);
+	}
+	
+	Съответния клас трябва да наследява IComparable
+	
+	И си имплементираме методът за сравнение.
+	
+	
+17. #region Name
+	#endregion - колапсва регион 
+
