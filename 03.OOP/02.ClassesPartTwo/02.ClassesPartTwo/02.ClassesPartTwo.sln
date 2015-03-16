@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramPoints", "ProgramPoi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{35A88EC0-9493-4FEE-B741-476A5B02B729}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Matrix\Matrix.csproj", "{478F8EF0-0B56-4D74-8942-DDD92440F99B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionAttribute", "VersionAttribute\VersionAttribute.csproj", "{68D93419-C061-4BCB-8B1C-B33BF7651CF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,14 @@ Global
 		{35A88EC0-9493-4FEE-B741-476A5B02B729}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35A88EC0-9493-4FEE-B741-476A5B02B729}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35A88EC0-9493-4FEE-B741-476A5B02B729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478F8EF0-0B56-4D74-8942-DDD92440F99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478F8EF0-0B56-4D74-8942-DDD92440F99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478F8EF0-0B56-4D74-8942-DDD92440F99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478F8EF0-0B56-4D74-8942-DDD92440F99B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D93419-C061-4BCB-8B1C-B33BF7651CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D93419-C061-4BCB-8B1C-B33BF7651CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D93419-C061-4BCB-8B1C-B33BF7651CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D93419-C061-4BCB-8B1C-B33BF7651CF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,5 +42,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{09FADA2B-C5E9-4D7D-BBFA-212677E4E802} = {F83AA9FD-C2CB-4B7C-A1E8-5785B05DFAF0}
 		{35A88EC0-9493-4FEE-B741-476A5B02B729} = {F83AA9FD-C2CB-4B7C-A1E8-5785B05DFAF0}
+		{478F8EF0-0B56-4D74-8942-DDD92440F99B} = {F83AA9FD-C2CB-4B7C-A1E8-5785B05DFAF0}
+		{68D93419-C061-4BCB-8B1C-B33BF7651CF5} = {F83AA9FD-C2CB-4B7C-A1E8-5785B05DFAF0}
 	EndGlobalSection
 EndGlobal

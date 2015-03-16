@@ -1,6 +1,4 @@
-﻿
-
-namespace ProgramPoints
+﻿namespace ProgramPoints
 {
     using System;
     
