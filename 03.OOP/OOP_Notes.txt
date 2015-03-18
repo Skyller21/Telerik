@@ -45,4 +45,15 @@
 	
 17. #region Name
 	#endregion - колапсва регион 
+	
+	
+//Extension methods
+
+18. checked{....} хвърля exception при Overflow
+
+19. Extension методите приемат за първи параметър винаги типът който разширяват с ключова дума this.
+
+20.
+
+	
 
