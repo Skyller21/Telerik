@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\5.BitsToBits\bin\Debug\5.BitsToBits.exe.config
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\5.BitsToBits\bin\Debug\5.BitsToBits.exe
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\5.BitsToBits\bin\Debug\5.BitsToBits.pdb
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\5.BitsToBits\obj\Debug\5.BitsToBits.exe
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\5.BitsToBits\obj\Debug\5.BitsToBits.pdb
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\5.BitsToBits\obj\Debug\5.BitsToBits.csprojResolveAssemblyReference.cache

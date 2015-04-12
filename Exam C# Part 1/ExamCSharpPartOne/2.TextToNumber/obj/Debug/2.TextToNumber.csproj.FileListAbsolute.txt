@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\2.TextToNumber\bin\Debug\2.TextToNumber.exe.config
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\2.TextToNumber\obj\Debug\2.TextToNumber.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\2.TextToNumber\bin\Debug\2.TextToNumber.exe
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\2.TextToNumber\bin\Debug\2.TextToNumber.pdb
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\2.TextToNumber\obj\Debug\2.TextToNumber.exe
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\2.TextToNumber\obj\Debug\2.TextToNumber.pdb

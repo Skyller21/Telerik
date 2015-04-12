@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\4.Cube\bin\Debug\4.Cube.exe.config
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\4.Cube\bin\Debug\4.Cube.exe
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\4.Cube\bin\Debug\4.Cube.pdb
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\4.Cube\obj\Debug\4.Cube.exe
-D:\Marto\Google Drive\Telerik Experience\Exam C# Part 1\ExamCSharpPartOne\4.Cube\obj\Debug\4.Cube.pdb
