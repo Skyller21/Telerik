@@ -1,0 +1,10 @@
+body {
+  width: 50%; }
+  body table {
+    width: 50%; }
+    body table thead h2 {
+      font-style: italic; }
+    body table td {
+      width: 50%; }
+
+/*# sourceMappingURL=style.css.map */

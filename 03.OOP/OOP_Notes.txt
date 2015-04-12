@@ -53,7 +53,33 @@
 
 19. Extension методите приемат за първи параметър винаги типът който разширяват с ключова дума this.
 
-20.
+20. Virtual methods позволяват override
 
+21. Abstract classes - Не може да се прави инстанция от тях. Ако има абстрактен метод ни задължава класа да е абстрактен. 
+	Който и да е клас наследяващ абстрактен метод задължително трябва да го имплементира
 	
+	http://stackoverflow.com/questions/391483/what-is-the-difference-between-an-abstract-function-and-a-virtual-function
+An abstract function can have no functionality. You're basically saying, any child class MUST give their own version of this method, 
+however it's too general to even try to implement in the parent class.
 
+A virtual function, is basically saying look, here's the functionality that may or may not be good enough for the child class. 
+So if it is good enough, use this method, if not, then override me, and provide your own functionality.
+
+22.Abstract няма тяло. И ни задължава да го имплементираме.
+Virtual - ако искаш ползваш default-ния ако не си го override
+
+23. Като не знаем какво трябва да прави един метод го правим abstract. Така ще оставим имплементацията на наследниците
+	
+24. using да се сложат в namespace за изпита
+
+
+25. Клас за хвърляне на exception!!!
+public static class Validator{
+	public static void CheckIfNull(object obj, string message=null)
+	{
+		if(obj==null)
+		{
+		throw new ArgumentNullException(message);
+		}
+	}
+}

@@ -1,0 +1,22 @@
+body {
+  table {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    tr{
+      border: 1px solid black;
+      td{
+        border: 1px solid black;
+      }
+    }
+    .center {
+      text-align: center;
+    }
+    .right {
+      text-align: right;
+    }
+    .left {
+      text-align: left;
+    }
+  }
+}

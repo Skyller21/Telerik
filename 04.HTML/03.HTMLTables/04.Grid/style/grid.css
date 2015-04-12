@@ -1,0 +1,200 @@
+body
+table
+{
+
+border-style:solid;
+border-color:lightgrey;
+border-width:1px;
+border-spacing:0px;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:12px;
+font-weight:100;
+border-radius:7px;
+
+
+}
+thead td
+{
+border-style:solid;
+border-width:1px;
+border-spacing:0px;
+padding-left:7px;
+padding-right:7px;
+
+
+}
+.topRow
+{
+height:20px;
+background-color:#f0f9ff;
+border-top-left-radius:7px;
+border-top-right-radius:7px;
+}
+.headNames
+{
+height:20px;
+background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#f0f9ff), color-stop(47%,#cbebff), color-stop(100%,#a1dbff));
+}
+.inputText
+{
+height:30px;
+background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#f0f9ff), color-stop(47%,#cbebff), color-stop(100%,#a1dbff));
+padding-bottom:3px;
+padding-top:0px;
+}
+input[name="inputId"]
+{
+width:35px;
+margin-left:5px;
+}
+input[name="inputProduct"]
+{
+width:150px;
+margin-left:5px;
+margin-right:100px;
+}
+input[name="inputPrice"]
+{
+width:80px;
+margin-left:5px;
+margin-right:80px;
+}
+input[name="inputQuantity"]
+{
+width:105px;
+margin-left:5px;
+margin-right:50px;
+}
+input[name="inputUnits"]
+{
+width:85px;
+margin-left:5px;
+margin-right:80px;
+}
+tbody td
+{
+border-style:solid;
+border-width:1px;
+border-color:lightgrey;
+padding:3px;
+
+}
+tfoot td
+{
+background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#f0f9ff), color-stop(47%,#cbebff), color-stop(100%,#a1dbff));
+border-style:solid;
+border-color:lightgrey;
+border-bottom-left-radius:7px;
+border-bottom-right-radius:7px;
+
+}
+
+#footText
+{
+float: right;
+	position: relative;
+	display:block;
+	padding-top:3px;
+	padding-right:3px
+}
+
+
+input[type="image"]
+{
+    border:1px solid transparent;
+    border-radius: 3px;
+    vertical-align:middle;
+
+}
+
+
+input[name="prev"]:hover
+{	
+border:1px solid red;
+border-radius: 3px;
+}
+
+
+input[name="next"]:hover
+{	
+border:1px solid red;
+border-radius: 3px;
+}
+
+input[name="first"]:hover
+{	
+border:1px solid red;
+border-radius: 3px;
+}
+
+input[name="last"]:hover
+{	
+border:1px solid red;
+border-radius: 3px;
+}
+
+#page li{
+    border:1px solid transparent;
+}
+#page a{
+    border:1px solid transparent;
+    padding: 2px 6px;
+}
+
+#page li:hover>a,
+#page a:focus 
+
+{	
+border:1px solid red;
+border-radius: 3px;	
+}
+
+ul, li
+{
+text-align:left;
+	list-style-type:none;
+	display:inline;
+	padding:1px;
+	position:relative;
+}
+
+a
+{
+	text-decoration:none;
+	color: #000000;
+}
+
+#page, a
+{
+	padding:1px;
+    vertical-align: middle;
+}
+.pages
+{
+margin-bottom:10px;
+}
+
+input[name="filterPrice"]
+{
+position:fixed;
+left:448px;
+top:62px;
+}
+
+input[name="filterUnits"]
+{
+position:fixed;
+left:802px;
+top:62px;
+}
+
+input[name="filterCheck"]
+{
+position:fixed;
+left:907px;
+top:62px;
+}
+
+#pageSize{
+    vertical-align: middle;
+}

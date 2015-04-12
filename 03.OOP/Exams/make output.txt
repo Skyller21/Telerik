@@ -1,0 +1,1 @@
+D:\Marto\Google Drive\Telerik Experience\03.OOP\Exams\1. Furniture_Скелет на решението\FurnitureManufacturer\bin\Debug>furnitures < test-in.txt > test-out.txt

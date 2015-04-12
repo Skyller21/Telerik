@@ -1,0 +1,63 @@
+body {
+    width: 100%;
+    background-color: rgb(173, 216, 230);
+    font-size: 35px;
+    width: 80%;
+}
+
+header {
+    display: block;
+    font-size: 100%;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#header-profile {
+    padding: 15px 0px;
+    display: block;
+    font-size: 75%;
+    font-weight: bold;
+    margin: 20px 0px;
+    border-bottom:1px solid gray;
+    border-top: 1px solid gray;
+
+}
+
+#doge-pic {
+    border: 1px solid;
+    width: 13%;
+}
+
+nav {
+    font-family: Times, sans-serif;
+    font-size: 50%;
+    margin-top: 15px;
+}
+
+
+footer#footer-profile > p {
+    font-size: 50%;
+}
+
+footer#footer-friends > p:nth-child(odd) {
+    font-size: 50%;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+}
+
+footer#footer-friends > p:nth-child(even) {
+    font-size: 50%;
+    margin: 0.2% 0% 0.2% 4%;
+}
+
+footer#footer-info > p {
+    font-size: 50%;
+}
+
+p > span {
+    font-weight: bold;
+}
+
+
+

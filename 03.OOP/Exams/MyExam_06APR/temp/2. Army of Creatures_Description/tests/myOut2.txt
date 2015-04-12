@@ -1,0 +1,3 @@
+--- Creature added to army 1 - Angel (ATT:20; DEF:20; HP:200; DMG:50) [Hate(Devil),Hate(ArchDevil)]
+--- Creature added to army 1 - Devil (ATT:19; DEF:26; HP:160; DMG:35) [Hate(Angel),Hate(Archangel),ReduceEnemyDefenseByPercentage(100)]
+--- Creature added to army 2 - Archangel (ATT:30; DEF:30; HP:250; DMG:50) [Hate(Devil),Hate(ArchDevil),Resurrection]

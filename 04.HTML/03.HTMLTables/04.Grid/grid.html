@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Grid</title>
+<meta charset="utf-8"/>
+<link rel="stylesheet" href="style/grid.css" type="text/css" media="screen">
+</head>
+
+<body>
+	<div>
+	<section>
+	<table border="1">
+		<thead>
+			<tr><td colspan="6" class="topRow">Drag a column header and drop it here to group by that column</td></tr>
+			
+			<tr>
+				<td class="headNames">ProductID</td>
+				<td class="headNames">Product name</td>
+				<td class="headNames">Unit price</td>
+				<td class="headNames">Quantity per unit</td>
+				<td class="headNames">Units in stock</td>
+				<td class="headNames">Discontinued</td>
+			</tr>
+		</thead>
+		
+		<tbody>
+			<tr>
+				<td class="inputText"><input type="text" name="inputId"></td>
+				<td class="inputText"><input type="text" name="inputProduct"></td>
+				<td class="inputText"><input type="text" name="inputPrice"><input type="image" name="filterPrice" 
+																					src="img/filter.png" alt="filter"></td>
+				<td class="inputText"><input type="text" name="inputQuantity"></td>
+				<td class="inputText"><input type="text" name="inputUnits"><input type="image" name="filterUnits" 
+																					src="img/filter.png" alt="filter"></td>
+				<td class="inputText"><input type="checkbox"><input type="image" name="filterCheck" 
+																					src="img/filter.png" alt="filter"></td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>Chai</td>
+				<td>$18.00</td>
+				<td>10 boxes x 20 bags</td>
+				<td>39</td>
+				<td><input type="checkbox"></td>				
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Chang</td>
+				<td>$19.00</td>
+				<td>24 - 12 oz bottles</td>
+				<td>17</td>
+				<td><input type="checkbox"></td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>Aniseed Syrup</td>
+				<td>$10.00</td>
+				<td>12 - 550 ml bottles</td>
+				<td>13</td>
+				<td><input type="checkbox"></td>
+			</tr>
+			<tr>
+				<td>4</td>
+				<td>Chef Anton's Cajun Seasoning</td>
+				<td>$22.00</td>
+				<td>48 - 6 oz jars</td>
+				<td>53</td>
+				<td><input type="checkbox"></td>
+			</tr>
+			<tr>
+				<td>5</td>
+				<td>Chef Anton's Gumbo Mix</td>
+				<td>$21.35</td>
+				<td>36 boxes</td>
+				<td>0</td>
+				<td><input type="checkbox" disabled checked></td>
+			</tr>
+			<tr>
+				<td>6</td>
+				<td>Grandma's Boysenberry Spread</td>
+				<td>$25.00</td>
+				<td>12 - 8 oz jars</td>
+				<td>120</td>
+				<td><input type="checkbox"></td>
+			</tr>
+			<tr>
+				<td>7</td>
+				<td>Uncle Bob's Organic Dried Pears</td>
+				<td>$30.00</td>
+				<td>12 - 1 lb pkgs.</td>
+				<td>15</td>
+				<td><input type="checkbox"></td>
+			</tr>
+			<tr>
+				<td>8</td>
+				<td>Northwoods Cranberry Sauce</td>
+				<td>$40.00</td>
+				<td>12 - 12 oz jars</td>
+				<td>6</td>
+				<td><input type="checkbox"></td>
+			</tr>
+			<tr>
+				<td>9</td>
+				<td>Mishi Kobe Niku</td>
+				<td>$97.00</td>
+				<td>18 - 500 g pkgs.</td>
+				<td>29</td>
+				<td><input type="checkbox" disabled checked></td>
+			</tr>
+			<tr>
+				<td>10</td>
+				<td>Ikura</td>
+				<td>$31.00</td>
+				<td>12 - 200 ml jars</td>
+				<td>31</td>
+				<td><input type="checkbox"></td>
+			</tr>
+		
+		
+		</tbody>
+		
+		<tfoot>
+		
+			<tr>
+				<td colspan="6">
+					
+					<div id="footText"><span>335104 items in 33511 pages</span></div>
+					<ul id="page">
+					<li><input type="image" src="img/first.png" width="20" height="20" name="first" id="first_btn"
+								onclick="location.href ='#';" alt="First page"></li>
+					<li><input type="image" src="img/previous.png" width="20" height="20" name="prev" id="prev_btn"
+								onclick="location.href ='#';" alt="Previous page"></li>
+  
+					<li><a href="grid.html" class="current_page_item">1</a></li>
+					<li><a href="#" class="pages">2</a></li>
+					<li><a href="#" class="pages">4</a></li>
+					<li><a href="#" class="pages">5</a></li>
+					<li><a href="#" class="pages">6</a></li>
+					<li><a href="#" class="pages">7</a></li>
+					<li><a href="#" class="pages">8</a></li>
+					<li><a href="#" class="pages">9</a></li>
+					<li><a href="#" class="pages">10</a>...</li>
+					<li><input type="image" src="img/next.png" width="20" height="20" name="next" id="next_btn"
+								onclick="location.href ='#';" alt="Next page"></li>
+					<li><input type="image" src="img/last.png" width="20" height="20" name="last" id="last_btn"
+								onclick="location.href ='#';" alt="Last page"></li>
+  </ul>
+					
+					Page size: <select name="pageSize" id="pageSize">
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+					<option value="9">9</option>
+					<option value="10" selected>10</option>
+					</select>
+					
+				</td>
+			</tr>
+		
+		</tfoot>
+	
+	</table>
+	</section>
+</div>	
+</body>
+</html>

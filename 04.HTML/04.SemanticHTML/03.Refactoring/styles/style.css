@@ -1,0 +1,32 @@
+body
+{
+width:500px;
+border:solid black 2px;
+padding:30px;
+font-family:geneva, sans-serif
+}
+
+h1
+{
+	display:inline;
+
+}
+
+.welcomeText
+{
+	display:inline-block;
+	padding-left:100px;
+}
+
+
+.tableStyle
+{
+	border:solid black 1px;
+	border-spacing:0px;
+}
+
+td, th
+{
+	padding:5px;
+	text-align:center;
+}
