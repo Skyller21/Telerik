@@ -74,12 +74,12 @@ Virtual - ако искаш ползваш default-ния ако не си го override
 
 
 25. Клас за хвърляне на exception!!!
-public static class Validator{
-	public static void CheckIfNull(object obj, string message=null)
-	{
-		if(obj==null)
+	public static class Validator{
+		public static void CheckIfNull(object obj, string message=null)
 		{
-		throw new ArgumentNullException(message);
+			if(obj==null)
+			{
+			throw new ArgumentNullException(message);
+			}
 		}
 	}
-}
