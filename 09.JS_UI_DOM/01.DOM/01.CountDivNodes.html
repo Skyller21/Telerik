@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<div>
+    <div></div>
+</div>
+<div></div>
+<div>
+    <div>
+        <div>
+        </div>
+    </div>
+</div>
+<div></div>
+<script>
+    function countDivInDivQuerySelector() {
+        var count = document.querySelectorAll('div div');
+        console.log(count.length);
+    }
+
+    function countDivInDivGetElement() {
+        var count = document.getElementsByTagName('div');
+        var counter = 0;
+        var len = count.length;
+        for (var i = 0; i < len; i += 1)     {
+            if (count[i].parentNode) {
+                if (count[i].parentNode.nodeName.toLowerCase() === 'div') {
+                    counter += 1;
+                }
+            }
+        }
+        console.log(counter);
+    }
+    console.log('Count with querySelectorAll');
+    countDivInDivQuerySelector();
+    console.log('Count with getElementByTagName');
+    countDivInDivGetElement();
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<input id="input-value" type="text"/>
+<input type="button" value="CLICK ME" onclick="getInputValue(this)"/>
+<div id="div-info" style="display: none">LOOK AT THE CONSOLE MATE ;)</div>
+<script>
+    function getInputValue() {
+        var value = document.getElementById('input-value').value;
+        console.log(value);
+        document.getElementById('div-info').style.display='block';
+    }
+</script>
+</body>
+</html>

@@ -14,6 +14,9 @@ x64/
 build/
 [Bb]in/
 [Oo]bj/
+High-Quality-Code/
+JavaScript-OOP/
+
 
 # Enable "build/" folder in the NuGet Packages folder since NuGet packages use it for MSBuild targets
 !packages/*/build/
