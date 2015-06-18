@@ -1,0 +1,3 @@
+git rm $(git ls-files --deleted) -> Delete all files deleted from the explorer. Does not remove names with space!!!
+git add $(git ls-files --modified) -> Delete all files modified. Does not remove names with space!!!
+git add -u -> Updates the files in git.
