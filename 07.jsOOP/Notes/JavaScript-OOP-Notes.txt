@@ -1,0 +1,186 @@
+JS NOTES
+
+1. call и apply - разбери ги!
+2. IIFE functions - check it!
+3. Closure - Възможността на една функция да достъпва и запазва променливи от нейния scope.
+4. Не се връща this във функция.
+
+Classical OOP
+1.
+var arrObj = { length: 3}
+console.log([].slice.call(arrObj,0));   - call замества навсякъде в slice this със себе си.
+slice търси само length и затова работи.
+
+2.Закачане на методи към обект:
+
+function Person(name, age){
+this.name = name;
+this.age = age;
+};
+
+****не се закача с this.introduce = function(){//.....};
+
+****закача се с Person.prototype.introduce = function(){console.log(//....)};
+
+Когато закачим нещо към прототипа това означава, че инстанциите могат да го ползват.
+
+Person.isAdult = function(age){//..};
+Person p1 = new Person(//..);
+сега може да се ползва само от 
+Person.isAdult(p1.age);
+
+Ако е към прототипа:
+p1.isAdult();
+
+3. С this.method имаме data hiding
+През prototype винаги имаме достъп до полетата.
+В js няма private полета. Може да се направят с this._name = name; 
+Просто се знае че не се пипа.
+
+4.Getter\Setter
+Виж в MDN за съдържанието на къдравите скоби
+Object.defineProperty(Person.prototype,'name',{
+		get: function(){
+		return this._name;
+		},
+		set: function(){
+		if(typeof (value) !=='string'){
+			throw "Error";
+		}
+		this._name = value;
+		return this;
+		}
+		enumerable: true; - показва ни това пропърти при енумериране
+});
+
+Object.defineProperty(Person.prototype,'_name',{  - прочети как се маха от енумерирането, долното не работи
+		value:'',
+		enumerable: false, - показва ни това пропърти при енумериране
+		writeable:true
+});
+
+ECMA SCRIPT 6
+Може да се направи и 
+Person.prototype = {
+		get name(){
+			return this.name;
+		},
+		set name(n){
+			this.name = n;
+			
+		}
+};
+
+
+така пречим да направим p1.name = 3; 
+При създаването на Person няма да има проблем и по другия начин, но можем след това да го сменим. Със сетър няма да можем.
+
+5. this keyword
+
+Когато се вика var p = Person(//..) - без new 
+стойността на this е global(window за browser-a) scope-a
+
+Ако нещо е PascalCase трябва да се извиква с new. Конвенция :)
+
+function Person(name, age){
+if(!(this instanceof Person)){			- това ни пречи да напрвим горната грешка. Не се ползва много.
+return new Person(name, age);
+return new arguments.callee(name,age); - същото, но по абстрактно 'use strict'; забранява callee!
+}
+}
+
+6.Наследяване Student.prototype = Person.prototype;
+
+function Student(name,age,grade){
+Person.call(this,name,age);
+this.grade= grade;
+}
+
+PROTOTYPLE INHERITANCE
+----------------------
+1.dog.__proto__ = amimal - има и по-красив начин :)
+
+
+var animal = {
+//...
+}
+//Първи културен начин
+var dog = Object.create(animal);  //- културния начин. Прави нещо като shallow copy на обекта ни
+
+Object.defineProperty (dog, 'y',{
+		value: 'DOG Z';
+})
+
+//Втори културен начин
+var dog2 = Object.defineProperties(animal,{
+		y: {
+			value: 'DOG Z';
+		}
+})
+
+//Вариант за създаване на функция
+dog.bark = function(){
+	console.log(this.name + ' barks');
+};
+
+//Вариант за създаване на функция - еквивалентни начини за правене на функциите. При променливите не е така!
+Object.defineProperty(dog, 'bark'{
+	value: function(){
+	}
+})
+
+2. Създаване на нови обекти
+
+var johnyDog = Object.create(dog);
+johnyDog.name = 'Johny';
+var peshoDog = Object.create(dog);
+peshoDog.name = 'Pesho';
+
+johnyDog.bark .... работи
+
+
+3. Криене на пропъртита и функции
+Обвивка във функция, която връща обект!!!
+
+var dog = (function() {
+	var dog = Object.create(animal);   // -  не е хубаво да се дава директно animal
+	
+	return dog;
+}());
+
+var dog = (function(parent) {
+	var dog = Object.create(parent);    //-  не е хубаво да се дава директно animal
+	
+	dog.init = function (name){			//- инициализиране на обект с много пропъртита
+		parent.init.call(this,'dog');	//- така извикваме родитлеския метод
+		this.name  = name;
+		return this;   					//-дава ни chaining
+	}
+	
+	dog.toString = function(){
+		return parent.toString.call(this)
+	}
+	
+	return dog;
+}(animal));
+
+
+johnyDog.init('Johny');
+
+
+4. Duck typing  - интересува се от това обекта да има определени пропъртита а не дали са даден тип
+
+var arrObj = { length: 3}
+console.log([].slice.call(arrObj,0));
+
+
+MODULES AND PATTERNS
+--------------------
+
+
+
+
+
+
+
+
