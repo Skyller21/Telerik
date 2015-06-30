@@ -1,4 +1,0 @@
-JS NOTES
-
-1. call и apply - разбери ги!
-2. IIFE functions - check it!
