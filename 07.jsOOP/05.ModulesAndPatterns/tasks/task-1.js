@@ -45,11 +45,6 @@
  */
 
 
-
-
-
-
-
 function solve() {
     var Course = (function () {
         function isValidTitle(title) {
@@ -62,8 +57,8 @@ function solve() {
             }
         }
 
-        function isValidPresentationTitles(presentations){
-            if(!Array.isArray(presentations)||presentations.length===0){
+        function isValidPresentationTitles(presentations) {
+            if (!Array.isArray(presentations) || presentations.length === 0) {
                 throw new Error('It is not an array')
             }
             for (var obj in presentations) {
@@ -71,27 +66,47 @@ function solve() {
             }
         }
 
-        function isValidStudentName(name){
-            if(typeof (name) !='string'){
+        function isValidStudentName(name) {
+            if (typeof (name) != 'string') {
                 throw new Error('Not valid name')
             }
             var arrNames = name.split(/\s+/);
             var regexName = /^[A-Z]{1}[a-z]*$/;
-            if(!arrNames[0].match(regexName)||!arrNames[1].match(regexName)||arrNames.length!==2){
+            if (!arrNames[0].match(regexName) || !arrNames[1].match(regexName) || arrNames.length !== 2) {
                 throw new Error('Not valid name')
             }
             return arrNames;
         }
 
-        function isValidID(id,students){
-            if(isNaN(id)){
+        function isValidID(id, students) {
+            if (isNaN(id)) {
                 throw new Error("Not valid number")
             }
             id = +id;
 
-            if(id<=0||id%1!=0||id>students.length){
+            if (id <= 0 || id % 1 != 0 || id > students.length) {
                 throw new Error("Not valid id")
             }
+        }
+
+        function isValidScore(score) {
+            if (isNaN(score)) {
+                throw new Error('Score is not a number')
+            }
+            if (!score) {
+                throw new Error('Score does not exist')
+            }
+        }
+
+        function isStudentIdDuplicated(arr){
+            var uniqueArray = arr.filter(function(item, pos) {
+                return arr.indexOf(item) == pos;
+            })
+
+            if(arr.length!=uniqueArray.length){
+                throw new Error('Added student with the same StudentID')
+            }
+
         }
 
         var Course = {
@@ -105,24 +120,34 @@ function solve() {
             },
             addStudent: function (name) {
                 var arrNames = isValidStudentName(name);
-                this.students.push({firstname:arrNames[0].trim(),lastname:arrNames[1].trim(),id:++this.id});
+                this.students.push({firstname: arrNames[0].trim(), lastname: arrNames[1].trim(), id: ++this.id});
                 return this.id;
             },
             getAllStudents: function () {
-                return this.students.map(function(student){
+                return this.students.map(function (student) {
                     return {
-                        firstname:student.firstname,
-                        lastname:student.lastname,
-                        id:student.id
+                        firstname: student.firstname,
+                        lastname: student.lastname,
+                        id: student.id
                     }
                 }).slice();
             },
             submitHomework: function (studentID, homeworkID) {
-                isValidID(studentID,this.students);
-                isValidID(homeworkID,this.students);
+                isValidID(studentID, this.students);
+                isValidID(homeworkID, this.students);
 
             },
             pushExamResults: function (results) {
+                if (!Array.isArray(results)) {
+                    throw new Error('The results are not array')
+                }
+                var arr = [];
+                for (var obj in results) {
+                    isValidID(results[obj].StudentID,this.students );
+                    isValidScore(results[obj].score);
+                    arr.push(results[obj].StudentID);
+                }
+                isStudentIdDuplicated(arr);
             },
             getTopStudents: function () {
             },
@@ -138,7 +163,7 @@ function solve() {
             },
             set title(value) {
                 isValidTitle(value);
-                this._title=value;
+                this._title = value;
             }
 
         }
