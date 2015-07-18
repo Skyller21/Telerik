@@ -180,12 +180,25 @@ function solve() {
                 return resultedInnerHTML(this.type, attributes, children, content);
             }
     };
+
+
+
 		return domElement;
 
 	} ());
 
 
+    Object.defineProperty(domElement,'testMethod',{
+        //value: function(){
+        //    console.log("TEST ME");
+        //},
+        get: function(){
+            return console.log(5);;
+        }
 
+    })
+        
+    domElement.testMethod;
 
     //******************TESTS******************
     /*var meta = Object.create(domElement)
@@ -215,6 +228,9 @@ function solve() {
         .appendChild(body);
 
     console.log(root.innerHTML);*/
+
+    var p = Object.create(domElement.prototype);
+
 
     return domElement;
 

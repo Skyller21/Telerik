@@ -18,6 +18,7 @@ High-Quality-Code/
 JavaScript-OOP/
 JavaScrpit_Books/
 NotToGIT/
+JavaScript-UI-and-DOM/
 
 # Enable "build/" folder in the NuGet Packages folder since NuGet packages use it for MSBuild targets
 !packages/*/build/

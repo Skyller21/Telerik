@@ -1,54 +1,55 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.MathProblem
+﻿namespace _01.MathProblem
 {
-    class MathProblem
-    {
-        static void Main(string[] args)
-        {
-            string[] text = Console.ReadLine().Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries);
+    using System;
+    using System.Linq;
+    using System.Numerics;
 
-            //string numStr="";
-            
+    public class MathProblem
+    {
+        public static void Main(string[] args)
+        {
+            string[] textArray = Console.ReadLine().Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries);
+
+            var sum = ProcessCharsToDecimal(textArray, 23);
+
+            var numberToBaseSystem = ProcessToBase(sum, 23);
+
+            Console.WriteLine("{0} = {1}", numberToBaseSystem, sum);
+        }
+
+        private static string ProcessToBase(BigInteger sum, int systemBase)
+        {
+            BigInteger tempSum = sum;
+            string dec = string.Empty;
+
+            while (tempSum > 0)
+            {
+                dec = dec + (char)((tempSum % systemBase) + 'a');
+                tempSum = tempSum / systemBase;
+            }
+
+            return String.Join("",dec.Reverse()) ;
+        }
+
+        private static BigInteger ProcessCharsToDecimal(string[] text, int systemBase)
+        {
             BigInteger sum = new BigInteger();
 
             foreach (var item in text)
             {
-                BigInteger number = new BigInteger();
-                int multiply = 1;
+                BigInteger newNumToAdd = new BigInteger();
+                int factor = 1;
+
                 for (int i = item.Length - 1; i >= 0; i--)
                 {
-                    number = number + (item[i] - 'a') * multiply;
-                    multiply *= 19;
+                    newNumToAdd += (item[i] - 'a') * factor;
+                    factor *= systemBase;
                 }
-                sum += number;
+
+                sum += newNumToAdd;
             }
 
-            BigInteger numTemp = sum;
-            string dec = "";
-            while (numTemp>0)
-            {
-
-
-                dec = dec + (char)(numTemp % 19 + 'a');
-                numTemp = numTemp / 19;
-            }
-
-            string str = "";
-            for (int i = dec.Length - 1; i >= 0; i--)
-            {
-                str += dec[i];
-            }
-
-            Console.WriteLine("{0} = {1}", str, sum);
-            
-
-            
+            return sum;
         }
     }
 }

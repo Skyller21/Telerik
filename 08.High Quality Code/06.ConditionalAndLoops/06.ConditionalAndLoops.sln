@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MasterChef", "01.MasterChef\01.MasterChef.csproj", "{F62243D4-BDAF-4119-A538-A4B9384B59E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RefactorIfStatements", "02.RefactorCode\02.RefactorIfStatements.csproj", "{40D7ED4A-2F69-4E8C-925E-E0676F13B55C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RefactorLoop", "03.RefactorLoop\03.RefactorLoop.csproj", "{B9C4383D-82C7-4B8F-B279-9E41CC07F315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62243D4-BDAF-4119-A538-A4B9384B59E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62243D4-BDAF-4119-A538-A4B9384B59E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62243D4-BDAF-4119-A538-A4B9384B59E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62243D4-BDAF-4119-A538-A4B9384B59E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D7ED4A-2F69-4E8C-925E-E0676F13B55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D7ED4A-2F69-4E8C-925E-E0676F13B55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D7ED4A-2F69-4E8C-925E-E0676F13B55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D7ED4A-2F69-4E8C-925E-E0676F13B55C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C4383D-82C7-4B8F-B279-9E41CC07F315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C4383D-82C7-4B8F-B279-9E41CC07F315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C4383D-82C7-4B8F-B279-9E41CC07F315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C4383D-82C7-4B8F-B279-9E41CC07F315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

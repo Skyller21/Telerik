@@ -8,29 +8,168 @@
 <div id="kinetic-container"></div>
 <script src="bower_components/kineticjs/kinetic.min.js"></script>
 <script>
+    var familyMembers = [{
+        mother: 'Maria Petrova',
+        father: 'Georgi Petrov',
+        children: ['Teodora Petrova', 'Peter Petrov']
+    }
+        , {
+            mother: 'Petra Stamatova',
+            father: 'Todor Stamatov',
+            children: ['Maria Petrova', 'Ivan Stamatov']
+        },
+        {
+            mother: 'Minka Petrova',
+            father: 'Ivan Petrov',
+            children: ['Georgi Petrov']
+    }
+    ]
+
     var stage = new Kinetic.Stage({
-    container: 'kinetic-container',
-        width:500,
-        height:500
+        container: 'kinetic-container',
+        width: 1200,
+        height: 800
     });
 
     var layer = new Kinetic.Layer();
-
-    var rect = new Kinetic.Rect({
-       x:50,
-        y:50,
-        width:100,
-        height:150,
-        fill:'orange',
-        stroke:'purple',
-        strokeWidth:'15'
-    });
-
-    layer.add(rect);
-    stage.add(layer);
+    var x = 50;
+    var y = 400;
+    var deltaX = 0;
+    var deltaY = 0;
+    var currentMother = {name: '', x: 0, y: 0};
+    var currentFather = {name: '', x: 0, y: 0};
+    var currentChild = {name: '', x: 0, y: 0};
+    var parentsUsed = [];
+    var childrenUsed = [];
 
 
+    for (var obj in familyMembers) {
+        var next = false;
 
+        for (var obj1 in parentsUsed) {
+            for (var obj2 in familyMembers[obj].children) {
+                if(parentsUsed[obj1].name===familyMembers[obj].children[obj2]){
+                    x=parentsUsed[obj1].x;
+                    y=parentsUsed[obj1].y-150;
+                    next = true;
+                    break;
+                }
+            }
+            if(next){
+                break;
+            }
+        }
+//        if (familyMembers[obj].children.some(function (child) {
+//                    return child === currentMother.name;
+//                })) {
+//
+//            y = y - 150;
+//            x = x + 200;
+//            next = true;
+//        }
+//        if (familyMembers[obj].children.some(function (child) {
+//                    return child === currentFather.name;
+//                })) {
+//
+//            y = y - 150;
+//            x = x - 50;
+//            next = true;
+//        }
+
+//        if (childrenUsed.some(function (child) {
+//                    return child.name === currentFather.name
+//                })) {
+//
+//        }
+//        if (childrenUsed.some(function (child) {
+//                    return child.name === currentMother.name
+//                })) {
+//            y = y - 150;
+//            x = x + 200;
+//            next = true;
+//        }
+
+        currentFather = {
+            name: familyMembers[obj].father,
+            x: x,
+            y: y
+        };
+        drawMember(currentFather.name, currentFather.x, currentFather.y);
+        currentMother = {
+            name: familyMembers[obj].mother,
+            x: x + 150,
+            y: y
+        };
+        drawMember(currentMother.name, currentMother.x, currentMother.y);
+
+
+        parentsUsed.push(currentFather);
+        parentsUsed.push(currentMother);
+
+
+        if (!next) {
+
+
+
+            var deltaX = 0;
+            for (var obj1 in familyMembers[obj].children) {
+                currentChild = {
+                    name: familyMembers[obj].children[obj1],
+                    x: currentFather.x + deltaX,
+                    y: currentFather.y + 100
+                }
+                deltaX += 150;
+                childrenUsed.push(currentChild);
+                drawMember(currentChild.name, currentChild.x, currentChild.y);
+                drawLine(currentFather.x + 50, currentFather.y + 50, currentChild.x + 50, currentChild.y)
+                drawLine(currentMother.x + 50, currentMother.y + 50, currentChild.x + 50, currentChild.y)
+            }
+
+        }
+    }
+
+    function drawMember(name, x, y) {
+        var rect = new Kinetic.Rect({
+            x: x,
+            y: y,
+            width: 100,
+            height: 50,
+            fill: 'green',
+            stroke: 'black',
+            strokeWidth: 4
+
+        });
+
+        var simpleText = new Kinetic.Text({
+            x: rect.getX(),
+            y: rect.getY(),
+            text: name,
+            fontSize: 24,
+            fontFamily: 'Calibri',
+            width: rect.getWidth(),
+            align: 'center',
+            fill: 'white'
+        });
+        layer.add(rect);
+        layer.add(simpleText);
+        // add the shape to the layer
+
+
+        // add the layer to the stage
+        stage.add(layer);
+    }
+
+    function drawLine(startX, startY, endX, endY) {
+        var line = new Kinetic.Line({
+            points: [startX, startY, endX, endY],
+            stroke: 'red'
+
+        })
+
+        layer.add(line);
+        stage.add(layer);
+
+    }
 
 
 </script>

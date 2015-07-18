@@ -120,10 +120,13 @@ function solve() {
             }
         };
     }());
+
+
+    library.books.list();
     return library;
 
-
 }
+solve();
 module.exports = solve;
 
 
