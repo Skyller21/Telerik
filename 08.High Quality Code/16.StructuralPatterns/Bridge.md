@@ -4,7 +4,7 @@
 
 Целта на шаблона „Мост“ (Bridge) е да раздели дадена абстракция от нейната имплементация така, че да може да се правят независими промени и в двете без това да влияе на клиентите.
 
-![](https://github.com/vesheff/Telerik/blob/master/08.High%20Quality%20Code/16.StructuralPatterns/img/facade.jpg)
+![](https://github.com/vesheff/Telerik/blob/master/08.High%20Quality%20Code/16.StructuralPatterns/img/bridge.jpg)
 
 ### Приложимост ###
 
