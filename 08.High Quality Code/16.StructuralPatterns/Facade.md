@@ -5,7 +5,7 @@
 Целта на шаблона "Фасада" (Façade) е да предостави опростен интерфейс за взаимодействие със сложна подсистема или множество подсистеми.
 
 ### Цел на шаблона ###
-
+![](https://github.com/vesheff/Telerik/blob/master/08.High%20Quality%20Code/16.StructuralPatterns/img/facade.jpg)
 
 
 Give them a try:
