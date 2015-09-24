@@ -4,7 +4,7 @@
 
 Позволява разделянето на имплементацията на алгоритъм на 2 нива. Логиката на алгоритъма е реализирана в базов родителски клас. Конкретната имплементация е оставена за наследниците.
 
-![](https://github.com/vesheff/Telerik/blob/master/08.High%20Quality%20Code/16.StructuralPatterns/img/bridge.jpg)
+![](https://github.com/vesheff/Telerik/blob/master/08.High%20Quality%20Code/17.BehavioralPatterns/media/template.png)
 
 ### Приложимост ###
 
