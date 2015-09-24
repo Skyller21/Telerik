@@ -4,7 +4,7 @@
 
 Позволява добавяне на функционалност към структура от различни обекти, без да се налага модифициране на дефинициите на самите обекти.
 
-![](https://github.com/vesheff/Telerik/blob/master/08.High%20Quality%20Code/17.BehavioralPatterns/media/memento.png)
+![](https://github.com/vesheff/Telerik/blob/master/08.High%20Quality%20Code/17.BehavioralPatterns/media/visitor.jpg)
 
 ### Приложимост ###
 
