@@ -1,0 +1,46 @@
+<div class="nav navbar navbar-default navbar fixed">
+  <div class="navbar-form  nav-justified">
+    <p class="btn-group"><a id="logged-user">{{this.currentUser.username}}</a></p>
+
+    <p class="btn-group"><a id="login-btn" class="btn btn-md btn-primary" href="#/login" role="button">Sign in</a></p>
+
+    <p class="btn-group"><a id="register-btn" class="btn btn-md btn-success" href="#/register" role="button">Sign up
+      today</a></p>
+
+    <p class="btn-group"><a id="logout-btn" class="btn btn-md btn-success" href="#/logout" role="button">Logout</a></p>
+
+    <p class="btn-group"><a id="all-users-btn" class="btn btn-md btn-success" href="#/users" role="button">All users</a>
+    </p>
+    <p class="btn-group"><a id="all-categories-btn" class="btn btn-md btn-success" href="#/categories" role="button">All categories</a>
+    </p>
+    <p class="btn-group"><a id="my-cookie" class="btn btn-md btn-success" href="#/categories" role="button">My cookie</a>
+    </p>
+
+    <p class="btn-group"><a id="add-cookie" class="btn btn-md btn-primary" href="#/cookies/add" role="button">Add
+      Cookie</a>
+    </p>
+  </div>
+</div>
+
+<div id="cookies-container" class="container">
+
+
+    {{#if this.categories}}
+      <h3>Categories</h3>
+
+        {{#each this.categories}}
+
+              <h4><a href="#/home?category={{this}}">{{this}}</a></h4>
+
+
+        {{/each}}
+
+
+    {{else}}
+      <h3>No Categories</h3>
+    {{/if}}
+</div>
+
+
+
+

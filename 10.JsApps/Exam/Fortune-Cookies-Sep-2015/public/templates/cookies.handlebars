@@ -1,0 +1,69 @@
+<div class="nav navbar navbar-default navbar fixed">
+  <div class="navbar-form  nav-justified">
+    <p class="btn-group"><a id="logged-user">{{this.currentUser.username}}</a></p>
+
+    <p class="btn-group"><a id="login-btn" class="btn btn-md btn-primary" href="#/login" role="button">Sign in</a></p>
+
+    <p class="btn-group"><a id="register-btn" class="btn btn-md btn-success" href="#/register" role="button">Sign up
+      today</a></p>
+
+    <p class="btn-group"><a id="logout-btn" class="btn btn-md btn-success" href="#/logout" role="button">Logout</a></p>
+
+    <p class="btn-group"><a id="all-users-btn" class="btn btn-md btn-success" href="#/users" role="button">All users</a>
+    </p>
+    <p class="btn-group"><a id="all-categories-btn" class="btn btn-md btn-success" href="#/categories" role="button">All categories</a>
+    </p>
+    <p class="btn-group"><a id="my-cookie" class="btn btn-md btn-success" href="#/my-cookie" role="button">My cookie</a>
+    </p>
+
+    <p class="btn-group"><a id="add-cookie" class="btn btn-md btn-primary" href="#/cookies/add" role="button">Add
+      Cookie</a>
+    </p>
+  </div>
+</div>
+
+<div id="cookies-container" class="container">
+
+
+
+    {{#if this.groups}}
+      <h3>Cookies</h3>
+
+        {{#each this.groups}}
+          <div class="categories-container">
+            <h4><a href="#/home?category={{category}}" class="cookie-category">{{category}}</a></h4>
+            <ul class="list-group col-md-12 category-ul">
+                {{#each cookies}}
+                  <div class="single-cookie-container col-md-3" data-id="{{id}}">
+                    <li class="todo-item list-group-item col-md-12 " class="checkbox">
+
+                      <h4 class="cookie-text">{{text}}</h4>
+
+
+                      <img src="{{img}}" alt="" width="200" height="auto"/>
+
+                      <div class="navbar-form nav-justified btn-container-cookie">
+                        <p class="btn-group"><a id="share-cookie-btn" class="btn btn-sm btn-primary">Share</a></p>
+
+                        <p class="btn-group"><a id="like-cookie-btn" class="btn btn-sm btn-success ">Like</a></p>
+
+                        <p class="btn-group"><a id="dislike-cookie-btn" class="btn btn-sm btn-danger">Dislike</a>
+                        </p>
+                      </div>
+                    </li>
+                  </div>
+
+                {{/each}}
+            </ul>
+          </div>
+        {{/each}}
+
+
+    {{else}}
+      <h3>No Cookies</h3>
+    {{/if}}
+</div>
+
+
+
+

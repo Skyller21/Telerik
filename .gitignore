@@ -14,11 +14,19 @@ x64/
 build/
 [Bb]in/
 [Oo]bj/
+
+#My Folders
+
 High-Quality-Code/
 JavaScript-OOP/
 JavaScrpit_Books/
 NotToGIT/
 JavaScript-UI-and-DOM/
+JavaScript-Applications/
+DbTelerikRepo/
+node_modules/
+bower_components/
+.idea/
 
 # Enable "build/" folder in the NuGet Packages folder since NuGet packages use it for MSBuild targets
 !packages/*/build/

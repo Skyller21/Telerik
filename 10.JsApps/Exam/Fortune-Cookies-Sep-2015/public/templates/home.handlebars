@@ -1,0 +1,40 @@
+<div class="nav navbar navbar-default navbar fixed">
+  <div class="navbar-form  nav-justified">
+    <p class="btn-group"><a id="logged-user">{{this.currentUser.username}}</a></p>
+
+    <p class="btn-group"><a id="login-btn" class="btn btn-md btn-primary" href="#/login" role="button">Sign in</a></p>
+
+    <p class="btn-group"><a id="register-btn" class="btn btn-md btn-success" href="#/register" role="button">Sign up
+      today</a></p>
+
+    <p class="btn-group"><a id="logout-btn" class="btn btn-md btn-success" href="#/logout" role="button">Logout</a></p>
+
+    <p class="btn-group"><a id="all-users-btn" class="btn btn-md btn-success" href="#/users" role="button">All users</a>
+    </p>
+    <p class="btn-group"><a id="my-cookie" class="btn btn-md btn-success" href="#/categories" role="button">My cookie</a>
+    </p>
+
+    <p class="btn-group"><a id="add-todo" class="btn btn-md btn-primary" href="#/cookies/add" role="button">Add Cookie</a>
+    </p>
+  </div>
+</div>
+
+<div class="container">
+
+
+    {{#if this.cookies}}
+      <h3>Cookies</h3>
+
+        {{#each cookies}}
+          <h4><a href="#/home?category={{category}}">{{text}}</a></h4>
+
+        {{/each}}
+
+    {{else}}
+      <h3>No cookies</h3>
+    {{/if}}
+</div>
+
+
+
+

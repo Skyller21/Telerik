@@ -1,0 +1,180 @@
+{
+  "users": [
+    {
+      "username": "vesheff",
+      "passHash": "d5133f538b296c14674eb19ee4510aeb93c5cd47",
+      "usernameLower": "vesheff",
+      "authKey": "undefinedude-sqQrVclFkXZ)O$)PUxRM!xhNKOikJTTrM^dwAL+tqRmKPpu",
+      "id": "106812e5-78e8-4921-8c34-9a8ebcb5aad1",
+      "todos": [
+        {
+          "id": 388119,
+          "text": "Make sandwich",
+          "state": false,
+          "category": "home"
+        },
+        {
+          "id": 401402,
+          "text": "Write c#",
+          "state": true,
+          "category": "programming"
+        },
+        {
+          "id": 867509,
+          "text": "",
+          "state": true,
+          "category": "uncategorized"
+        },
+        {
+          "id": 142455,
+          "text": "Mine",
+          "state": false,
+          "category": "home"
+        },
+        {
+          "id": 333057,
+          "text": "new",
+          "state": false,
+          "category": "home"
+        },
+        {
+          "id": 338862,
+          "text": "test",
+          "state": false,
+          "category": "programming"
+        },
+        {
+          "id": 348658,
+          "text": "Test2",
+          "state": false,
+          "category": "home"
+        },
+        {
+          "id": 300307,
+          "text": "new todo",
+          "state": false,
+          "category": "uncategorized"
+        }
+      ]
+    },
+    {
+      "username": "marto",
+      "passHash": "e66a33ef1650ee3027493cd6d77c3e270d996fcc",
+      "usernameLower": "marto",
+      "authKey": "undefinedtG#tNSea=TfUYD*xFbLHYIur*tMZzmnhC#LosJRr@PaRInARrdG",
+      "id": "665eef8e-88fb-43da-9cc5-b2f47f2caf25"
+    },
+    {
+      "username": "marto0",
+      "passHash": "9767eb7a615a3711925a5c82b71fbc733709c02f",
+      "usernameLower": "marto0",
+      "authKey": "undefinedyh%mWGL!DCfEwofVmDMaxsjYYvkpV_Dw)S!hEVhdg_yuqyaPnpP",
+      "id": "af30cea5-782b-438f-ae7a-0742ec15d8da"
+    },
+    {
+      "username": "marto1",
+      "passHash": "df3f5f2022d405fc42617531500179c74ab2621a",
+      "usernameLower": "marto1",
+      "authKey": "undefineduAn=Kgq*!lRRB+FLrg!Mwe)CG^H)qKP--shSvX=IpdSPICzpBL&",
+      "id": "5f68e8b5-d5b6-40f2-a77b-5d3509db8eee"
+    },
+    {
+      "username": "ivan",
+      "passHash": "bc67e62ea1d75ae96a3329b4964b43471af16516",
+      "usernameLower": "ivan",
+      "authKey": "undefined+V-mVRfIR%doW_aX-i!aY&lKek-koZE$uMQEf@PYen(_(a=h_Rl",
+      "id": "a17497a3-af32-44b4-be25-e98b1274bc75"
+    },
+    {
+      "username": "pencho",
+      "passHash": "61aa5c8556fed82710573ed3f4749f966d39bee4",
+      "usernameLower": "pencho",
+      "authKey": "undefinedMQnHsVmgJBeNME-qzjV=JtK)mhZwV+A#twCp_dYX@Hcm!AJQ!^M",
+      "id": "c67832e6-e017-4ba8-a827-ed7e505b6df5"
+    },
+    {
+      "username": "milcho",
+      "passHash": "91a4ad875cd5dc3597c5be9b64b75f478260b50d",
+      "usernameLower": "milcho",
+      "authKey": "undefined#XmDJT%a)F-C!ibVDtG)qAiNUUpM@y^DRGmUp^k++qY@K-#vEdN",
+      "id": "fda60f9f-c479-46d3-9d77-7a1f7e2e4568"
+    },
+    {
+      "username": "minka",
+      "passHash": "b69ffe30589772c8359b0d053da28497f8db7a69",
+      "usernameLower": "minka",
+      "authKey": "undefinedcDLMNKEFXvR&AXHNTM@CpzaS=uz&d&jXsriGE!ccsLjdlDv$O(c",
+      "id": "c63e4fb1-0686-45d8-b47e-1316e545bc22"
+    },
+    {
+      "username": "eli",
+      "passHash": "ec0d138b31cb6ea17a7600bfb92f941e9e451178",
+      "usernameLower": "eli",
+      "authKey": "undefined__tZvFVKmw-=Gp@Mc+-+zK@MNGpYNNe%NVmNORUcB)HxEpfux*$",
+      "id": "94bceed8-3297-427f-8c02-40c85e06f16b"
+    },
+    {
+      "username": "milko",
+      "passHash": "e23310a6ddee83c4a55b018a57c77fa79b670812",
+      "usernameLower": "milko",
+      "authKey": "undefined*vod=z_KeglPjf__caOm=AQ=YD%$-P*q&ca_SD=)IfXFfzWfFv*",
+      "id": "58fd830b-62c8-4a22-8920-c4fa3b635d00"
+    },
+    {
+      "username": "minkoo",
+      "passHash": "8bcec46c86de163f7f77b5ad013b40444959cf69",
+      "usernameLower": "minkoo",
+      "authKey": "undefinedPztEE+pFHzQVi@&YHZChwhczaB_yQXd(X(tVfMX+iQMcr&eXh!S",
+      "id": "4d7a3e2b-d57e-4a5a-94a0-d6e97396b54a"
+    },
+    {
+      "username": "ivancho",
+      "passHash": "a690bceaed9e2ad5195ee26eeb924980087483bd",
+      "usernameLower": "ivancho",
+      "authKey": "undefinedsUrBS@RYRZ@BExoEqLIk*ddb&_kke$(kFq%E_t&gxzQ!SS*D(U_",
+      "id": "8a1b5702-e56a-4e7b-94f9-e9e556b819bb"
+    },
+    {
+      "username": "martooooo",
+      "passHash": "5a8a7764a0207a80efb751e474d4f76760492cef",
+      "usernameLower": "martooooo",
+      "authKey": "undefinedv@(lUp@PokxmlZs(@r_xcMuJOFwCM&E!WVLD&pmXvUexaAijFA+",
+      "id": "9f655c2a-ff52-4c91-b273-501f50b3c303"
+    },
+    {
+      "username": "marto111",
+      "passHash": "30af84ae111981c7b1310d4d095ae26a8a03d8fc",
+      "usernameLower": "marto111",
+      "authKey": "undefinedaQqNqGUSUpvMRFCU%#h#BUKGoqE&x)#mZ)iAQwlZLJUjSaXf^uU",
+      "id": "b499767e-2c1d-43e9-9c1b-f14ac5f45be6"
+    },
+    {
+      "username": "ivan1",
+      "passHash": "d703614eae996a2fe83a2f1c926a535f278f8728",
+      "usernameLower": "ivan1",
+      "authKey": "undefinedzmTf^drbeS@*sqEB&m+#%ikMyscrPfpNJfVB*cngP^kF-QHK-il",
+      "id": "89df1017-edb2-4b1c-a3c6-d23c1dd518b1"
+    },
+    {
+      "username": "ivan2",
+      "passHash": "ed8e13e17bea745b9c48f380a128a826267d029c",
+      "usernameLower": "ivan2",
+      "authKey": "undefinedh=LvPab+gTVY^TIvxGr*L+aRll-vZbYsQL^#jZOq&y*Kqv$$lBO",
+      "id": "c7f7a5f2-f3f4-4cde-ab8a-dc32af9e3ed7"
+    },
+    {
+      "username": "ivan3",
+      "passHash": "3c0393128b9af4b2153b539ef5f427ec5b413fa0",
+      "usernameLower": "ivan3",
+      "authKey": "undefinedJGONddJuAN=GBj&^jVHdobDN!v++clV#jFcoCxnoR$*XhWqAc^J",
+      "id": "0317edfe-ea36-4cee-84bd-3e06e4cfbcee"
+    },
+    {
+      "username": "veshko",
+      "passHash": "e57b77c3b0fa163679e537c857e406c6de259220",
+      "usernameLower": "veshko",
+      "authKey": "undefinedMaw)H#P!+awNSKS#p+qP^mFY#sRi@PbU!QlLIJKT*Ty%U^Og^c@",
+      "id": "baae966a-f077-433b-8beb-28a680648b30"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "username": "Minkov",
+      "passHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "usernameToLower": "minkov",
+      "id": "16655985-e510-43d4-ad1c-2388c76d1ef6",
+      "authKey": "16655985-e510-43d4-ad1c-2388c76d1ef6FwHCPd*bP:.;Fu&:evl)RPGg"
+    },
+    {
+      "username": "Minkov3",
+      "passHash": "1234567890123456789012345678901234567890",
+      "usernameToLower": "minkov3",
+      "id": "bd04b3b8-5586-47ad-bf8f-db6c531dbb73",
+      "authKey": "bd04b3b8-5586-47ad-bf8f-db6c531dbb73erxSIAJyVOzIEIrpMFbanscO"
+    },
+    {
+      "username": "vesheff",
+      "passHash": "d5133f538b296c14674eb19ee4510aeb93c5cd47",
+      "usernameToLower": "vesheff",
+      "id": "ca60ff20-795b-4f15-ad2f-611e8388f982",
+      "authKey": "ca60ff20-795b-4f15-ad2f-611e8388f982AKgzVmVRwLrmIhhcGhcDhTNC",
+      "myCookies": [
+        {
+          "text": "Test",
+          "category": "Home",
+          "userId": "16655985-e510-43d4-ad1c-2388c76d1ef6",
+          "likes": 11,
+          "dislikes": 16,
+          "img": "https://dayinthelifeofapurpleminion.files.wordpress.com/2014/12/batman-exam.jpg",
+          "shareDate": "2015-09-09T14:53:30.290Z",
+          "id": "2dae28aa-ee64-4bc1-8591-29284d88c9e9",
+          "hours": 1
+        }
+      ]
+    },
+    {
+      "username": "elina1",
+      "passHash": "d5133f538b296c14674eb19ee4510aeb93c5cd47",
+      "usernameToLower": "elina1",
+      "id": "6ba7e0dd-0554-4d3b-b864-f6e82da47e70",
+      "authKey": "6ba7e0dd-0554-4d3b-b864-f6e82da47e70CObyfxdgRAvHWyDtqacPaZJq"
+    }
+  ],
+  "cookies": [
+    {
+      "text": "Test",
+      "category": "Home",
+      "userId": "16655985-e510-43d4-ad1c-2388c76d1ef6",
+      "likes": 11,
+      "dislikes": 16,
+      "img": "https://dayinthelifeofapurpleminion.files.wordpress.com/2014/12/batman-exam.jpg",
+      "shareDate": "2015-09-09T14:53:30.290Z",
+      "id": "2dae28aa-ee64-4bc1-8591-29284d88c9e9",
+      "hours": 1
+    },
+    {
+      "text": "May the Force with you",
+      "category": "WOrk",
+      "userId": "16655985-e510-43d4-ad1c-2388c76d1ef6",
+      "likes": 25,
+      "dislikes": 6,
+      "img": "https://dayinthelifeofapurpleminion.files.wordpress.com/2014/12/batman-exam.jpg",
+      "shareDate": "2015-09-09T14:53:56.482Z",
+      "id": "e2fdbf82-54c3-488f-add4-9af3262c2572",
+      "hours": 9
+    },
+    {
+      "text": "Hello!",
+      "category": "Home",
+      "userId": "bd04b3b8-5586-47ad-bf8f-db6c531dbb73",
+      "likes": 13,
+      "dislikes": 9,
+      "img": "https://dayinthelifeofapurpleminion.files.wordpress.com/2014/12/batman-exam.jpg",
+      "shareDate": "2015-09-10T06:24:18.743Z",
+      "id": "ea91a233-bcf3-48b6-933f-05857f4aea87"
+    },
+    {
+      "text": "May the Force with you",
+      "category": "WOrk",
+      "img": "https://dayinthelifeofapurpleminion.files.wordpress.com/2014/12/batman-exam.jpg",
+      "userId": "a66de642-c355-4286-97ba-46c38c7a348a",
+      "likes": 2,
+      "dislikes": 2,
+      "shareDate": "2015-09-10T18:02:50.319Z",
+      "id": "888d6936-b7d3-4558-9563-a6868963bdbc"
+    },
+    {
+      "text": "Ludnicata Brato",
+      "category": "telerik",
+      "img": "http://vignette1.wikia.nocookie.net/lego/images/d/d1/Batman.png/revision/20141219224908",
+      "userId": "ca60ff20-795b-4f15-ad2f-611e8388f982",
+      "likes": 0,
+      "dislikes": 0,
+      "shareDate": "2015-09-10T22:45:17.826Z",
+      "id": "ce0e3485-ba75-4fc6-a0ed-f3eed2dcde2a"
+    },
+    {
+      "text": "Ludnicata Brato",
+      "category": "telerik",
+      "img": "http://vignette1.wikia.nocookie.net/lego/images/d/d1/Batman.png/revision/20141219224908",
+      "userId": "ca60ff20-795b-4f15-ad2f-611e8388f982",
+      "likes": 0,
+      "dislikes": 0,
+      "shareDate": "2015-09-10T22:45:31.059Z",
+      "id": "51bfa1f5-27ea-46a7-b5fb-84feea0d5128"
+    },
+    {
+      "text": "May the Force with you",
+      "category": "WOrk",
+      "img": "https://dayinthelifeofapurpleminion.files.wordpress.com/2014/12/batman-exam.jpg",
+      "userId": "6ba7e0dd-0554-4d3b-b864-f6e82da47e70",
+      "likes": 0,
+      "dislikes": 0,
+      "shareDate": "2015-09-11T08:16:20.233Z",
+      "id": "73c36072-6f5d-4b3c-8f9a-620864d401ed"
+    },
+    {
+      "text": "Ludnicata Brato",
+      "category": "telerik",
+      "img": "http://vignette1.wikia.nocookie.net/lego/images/d/d1/Batman.png/revision/20141219224908",
+      "userId": "6ba7e0dd-0554-4d3b-b864-f6e82da47e70",
+      "likes": 0,
+      "dislikes": 0,
+      "shareDate": "2015-09-11T08:16:44.806Z",
+      "id": "746e9c80-9fd7-47a9-b452-32df5e39a70f"
+    },
+    {
+      "text": "Ivancho",
+      "category": "telerik",
+      "img": "http://vignette1.wikia.nocookie.net/lego/images/d/d1/Batman.png/revision/20141219224908",
+      "userId": "6ba7e0dd-0554-4d3b-b864-f6e82da47e70",
+      "likes": 0,
+      "dislikes": 0,
+      "shareDate": "2015-09-11T08:17:03.422Z",
+      "id": "5957b30e-7102-4b74-8c05-20797f86f06f"
+    }
+  ]
+}

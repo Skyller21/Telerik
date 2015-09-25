@@ -1,0 +1,10 @@
+<div class="row">
+    {{#each this}}
+    <div class="col-md-8 col-md-offset-2">
+        <h2>{{title}}</h2>
+        <p>Created at: {{postDate}}</p>
+        <p>Author: {{user.username}}</p>
+        <p><a class="btn btn-primary" href="#/threads/{{id}}" role="button">View more »</a></p>
+    </div>
+    {{/each}}
+</div>

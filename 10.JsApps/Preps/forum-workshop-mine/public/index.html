@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Workshop: Simple Forum with Sammy.js, jQuery and Handlebars</title>
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css"/>
+  <link rel="stylesheet" href="styles/style.css"/>
+  <link rel="stylesheet" href="bower_components/toastr/toastr.css"/>
+</head>
+<body>
+<div id="root" class="col-md-10 col-md-offset-1">
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                data-target="#bs-example-navbar-collapse-3" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#/">Brand</a>
+
+      </div>
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-3">
+        <div>
+          <ul class="nav navbar-nav navbar-right ">
+                <li>
+                  <a id="btn-login-register" class="" href="#/login">
+                    <span class="">Login/Register</span>
+                    <span class="glyphicon glyphicon-log-in"></span>
+
+                  </a>
+                </li>
+                <li>
+
+                  <span class="navbar-text" id="user-logged"></span>
+                  <a id="btn-logout" class="" href="#/logout">
+
+                    <span class="glyphicon glyphicon-log-out" aria-hidden="true"></span>
+                  </a>
+                </li>
+
+
+
+
+          </ul>
+
+
+
+
+
+      </div>
+      <ul class="nav nav-pills">
+        <li id="btn-all-threads" role="presentation"><a class="pills-a" href="#/threads">Threads</a></li>
+        <li id="btn-threads-add" role="presentation"><a class="pills-a" href="#/threads/add">Add Thread</a></li>
+
+      </ul>
+    </div>
+  </nav>
+  <div id="content">
+
+  </div>
+</div>
+
+<!--LIBS-->
+<script src="bower_components/jquery/dist/jquery.js"></script>
+<script src="bower_components/sammy/lib/sammy.js"></script>
+<script src="bower_components/handlebars/handlebars.js"></script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+<script src="bower_components/sha1/index.js"></script>
+<script src="bower_components/toastr/toastr.js"></script>
+<script src="bower_components/underscore/underscore.js"></script>
+<script src="bower_components/moment/moment.js"></script>
+
+<script src="js/helpers.js"></script>
+<script src="js/templates.js"></script>
+<script src="js/data.js"></script>
+
+
+<script>
+  var sammyApp = Sammy('#content', function () {
+    var $content = $('#content');
+    var $userLogged = $('#user-logged');
+    this.get('#/', function () {
+      $userLogged.text(localStorage.getItem('USERNAME_STORAGE'));
+      $content.html('');
+      helpers.logBtnHide();
+    });
+
+    this.get('#/login', function (context) {
+      if (data.users.current()) {
+        context.redirect('#/');
+        return;
+      }
+      helpers.logBtnHide();
+      templates.get('login')
+        .then(function (template) {
+          $content.html(template());
+          $('#login-submit').on('click', function () {
+            var user = {
+              username: $('#username').val(),
+              password: $('#password').val()
+            }
+
+            data.users.login(user)
+              .then(function (user) {
+                $userLogged.text(localStorage.getItem('USERNAME_STORAGE'));
+                context.redirect('#/');
+
+                toastr.success(user.username + " logged in");
+
+              });
+          })
+        });
+    });
+
+    this.get('#/register', function (context) {
+
+      helpers.logBtnHide();
+      templates.get('register')
+        .then(function (template) {
+          $content.html(template());
+          $('#register-submit').on('click', function () {
+            var user = {
+              username: $('#username').val(),
+              password: $('#password').val()
+            }
+
+
+            data.users.register(user)
+              .then(function (user) {
+                $userLogged.text(localStorage.getItem('USERNAME_STORAGE'));
+                context.redirect('#/');
+              })
+
+            toastr.success(user.username + " registered")
+          })
+        })
+    });
+
+    this.get('#/logout', function (context) {
+      var username = localStorage.getItem('USERNAME_STORAGE');
+      $userLogged.text('');
+      data.users.logout();
+      toastr.success(username + " logged out");
+      context.redirect('#/');
+
+    })
+
+    this.get('#/threads', function (context) {
+      helpers.logBtnHide();
+
+      var threads;
+      $userLogged.text(localStorage.getItem('USERNAME_STORAGE'));
+      data.threads.all()
+        .then(function (res) {
+          threads = res.result;
+          return templates.get('threads');
+        })
+        .then(function (template) {
+          var threadsA = _.chain(threads)
+            .sortBy('postDate')
+            .reverse()
+            .map(function (item) {
+              item.postDate = moment(item.postDate).fromNow()
+              return item;
+            }).value()
+
+          $content.html(template(threadsA))
+        })
+    })
+
+    this.get('#/threads/add', function (context) {
+
+
+      templates.get('thread-add')
+        .then(function (template) {
+          $content.html(template());
+          $('#btn-add-thread').on('click', function () {
+            var title = $('#title').val()
+
+
+            data.threads.add(title)
+              .then(function () {
+                console.log(title);
+                context.redirect('#/threads');
+                toastr.success(title + " added")
+              });
+          })
+        })
+    });
+
+
+    this.get('#/threads/:id', function () {
+      var thread;
+
+      data.threads.getById(this.params.id)
+        .then(function (res) {
+          thread = res.result;
+          return templates.get('thread-single')
+        })
+        .then(function (template) {
+          $content.html(template(thread))
+        })
+    })
+  });
+
+  $(function () {
+    sammyApp.run('#/');
+    helpers.logBtnHide();
+    $('body').on('click', 'a, button', function (ev) {
+      var $target = $(ev.target);
+
+      $('.nav-pills').children().removeClass('active');
+      if ($target.hasClass('pills-a')) {
+        $target.parent().addClass('active')
+      }
+
+
+    })
+    $('#userLogged').text(localStorage.getItem('USERNAME_STORAGE'));
+    toastr.options = {
+      "closeButton": false,
+      "debug": false,
+      "newestOnTop": false,
+      "progressBar": false,
+      "positionClass": "toast-top-left",
+      "preventDuplicates": false,
+      "onclick": null,
+      "showDuration": "300",
+      "hideDuration": "1000",
+      "timeOut": "5000",
+      "extendedTimeOut": "1000",
+      "showEasing": "swing",
+      "hideEasing": "linear",
+      "showMethod": "fadeIn",
+      "hideMethod": "fadeOut"
+    }
+  })
+
+</script>
+</body>
+</html>
