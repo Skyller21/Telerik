@@ -1,6 +1,0 @@
-D:\C#1 projects\2. Data Types and Variables\DeclareMyGenderWithBoolean\bin\Debug\DeclareMyGenderWithBoolean.exe
-D:\C#1 projects\2. Data Types and Variables\DeclareMyGenderWithBoolean\bin\Debug\DeclareMyGenderWithBoolean.pdb
-D:\C#1 projects\2. Data Types and Variables\DeclareMyGenderWithBoolean\obj\x86\Debug\DeclareMyGenderWithBoolean.exe
-D:\C#1 projects\2. Data Types and Variables\DeclareMyGenderWithBoolean\obj\x86\Debug\DeclareMyGenderWithBoolean.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareMyGenderWithBoolean\obj\x86\Debug\DeclareMyGenderWithBoolean.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareMyGenderWithBoolean\obj\x86\Debug\DeclareMyGenderWithBoolean.pdb

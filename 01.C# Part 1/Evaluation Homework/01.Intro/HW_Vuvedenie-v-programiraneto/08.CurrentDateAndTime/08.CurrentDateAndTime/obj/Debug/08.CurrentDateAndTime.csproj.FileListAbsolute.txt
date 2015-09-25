@@ -1,6 +1,0 @@
-c:\users\ivoo\documents\visual studio 2013\Projects\08.CurrentDateAndTime\08.CurrentDateAndTime\bin\Debug\08.CurrentDateAndTime.exe.config
-c:\users\ivoo\documents\visual studio 2013\Projects\08.CurrentDateAndTime\08.CurrentDateAndTime\bin\Debug\08.CurrentDateAndTime.exe
-c:\users\ivoo\documents\visual studio 2013\Projects\08.CurrentDateAndTime\08.CurrentDateAndTime\bin\Debug\08.CurrentDateAndTime.pdb
-c:\users\ivoo\documents\visual studio 2013\Projects\08.CurrentDateAndTime\08.CurrentDateAndTime\obj\Debug\08.CurrentDateAndTime.csprojResolveAssemblyReference.cache
-c:\users\ivoo\documents\visual studio 2013\Projects\08.CurrentDateAndTime\08.CurrentDateAndTime\obj\Debug\08.CurrentDateAndTime.exe
-c:\users\ivoo\documents\visual studio 2013\Projects\08.CurrentDateAndTime\08.CurrentDateAndTime\obj\Debug\08.CurrentDateAndTime.pdb

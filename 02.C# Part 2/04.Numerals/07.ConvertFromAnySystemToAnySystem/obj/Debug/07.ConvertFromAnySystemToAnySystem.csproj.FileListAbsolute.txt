@@ -1,6 +1,0 @@
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\07.ConvertFromAnySystemToAnySystem\bin\Debug\07.ConvertFromAnySystemToAnySystem.exe.config
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\07.ConvertFromAnySystemToAnySystem\obj\Debug\07.ConvertFromAnySystemToAnySystem.csprojResolveAssemblyReference.cache
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\07.ConvertFromAnySystemToAnySystem\bin\Debug\07.ConvertFromAnySystemToAnySystem.exe
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\07.ConvertFromAnySystemToAnySystem\bin\Debug\07.ConvertFromAnySystemToAnySystem.pdb
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\07.ConvertFromAnySystemToAnySystem\obj\Debug\07.ConvertFromAnySystemToAnySystem.exe
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\07.ConvertFromAnySystemToAnySystem\obj\Debug\07.ConvertFromAnySystemToAnySystem.pdb

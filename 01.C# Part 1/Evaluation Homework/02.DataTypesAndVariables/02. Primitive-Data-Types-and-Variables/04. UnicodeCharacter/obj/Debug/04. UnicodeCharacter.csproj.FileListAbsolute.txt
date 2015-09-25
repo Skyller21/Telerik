@@ -1,8 +1,0 @@
-D:\Homeworks\C#\02. Primitive-Data-Types-and-Variables\04. UnicodeCharacter\bin\Debug\_04.UnicodeCharacter.exe.config
-D:\Homeworks\C#\02. Primitive-Data-Types-and-Variables\04. UnicodeCharacter\bin\Debug\_04.UnicodeCharacter.exe
-D:\Homeworks\C#\02. Primitive-Data-Types-and-Variables\04. UnicodeCharacter\bin\Debug\_04.UnicodeCharacter.pdb
-D:\Homeworks\C#\02. Primitive-Data-Types-and-Variables\04. UnicodeCharacter\obj\Debug\_04.UnicodeCharacter.exe
-D:\Homeworks\C#\02. Primitive-Data-Types-and-Variables\04. UnicodeCharacter\obj\Debug\_04.UnicodeCharacter.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\02. Primitive-Data-Types-and-Variables\04. UnicodeCharacter\bin\Debug\_04.UnicodeCharacter.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\02. Primitive-Data-Types-and-Variables\04. UnicodeCharacter\obj\Debug\_04.UnicodeCharacter.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\02. Primitive-Data-Types-and-Variables\04. UnicodeCharacter\obj\Debug\_04.UnicodeCharacter.pdb

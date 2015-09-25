@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\01.SayHello\bin\Debug\01.SayHello.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\01.SayHello\obj\Debug\01.SayHello.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\01.SayHello\bin\Debug\01.SayHello.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\01.SayHello\bin\Debug\01.SayHello.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\01.SayHello\obj\Debug\01.SayHello.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\01.SayHello\obj\Debug\01.SayHello.pdb

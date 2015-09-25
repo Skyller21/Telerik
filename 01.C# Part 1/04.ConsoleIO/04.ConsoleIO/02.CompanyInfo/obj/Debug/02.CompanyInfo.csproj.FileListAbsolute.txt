@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\02.CompanyInfo\bin\Debug\02.CompanyInfo.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\02.CompanyInfo\bin\Debug\02.CompanyInfo.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\02.CompanyInfo\bin\Debug\02.CompanyInfo.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\02.CompanyInfo\obj\Debug\02.CompanyInfo.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\02.CompanyInfo\obj\Debug\02.CompanyInfo.pdb

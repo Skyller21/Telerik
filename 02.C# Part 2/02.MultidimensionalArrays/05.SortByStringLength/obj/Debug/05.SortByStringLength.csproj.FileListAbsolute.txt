@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\05.SortByStringLength\bin\Debug\05.SortByStringLength.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\05.SortByStringLength\bin\Debug\05.SortByStringLength.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\05.SortByStringLength\bin\Debug\05.SortByStringLength.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\05.SortByStringLength\obj\Debug\05.SortByStringLength.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\05.SortByStringLength\obj\Debug\05.SortByStringLength.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\05.SortByStringLength\obj\Debug\05.SortByStringLength.pdb

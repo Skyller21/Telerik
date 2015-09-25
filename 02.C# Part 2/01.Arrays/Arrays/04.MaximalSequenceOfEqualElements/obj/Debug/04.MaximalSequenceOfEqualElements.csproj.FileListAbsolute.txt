@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.pdb

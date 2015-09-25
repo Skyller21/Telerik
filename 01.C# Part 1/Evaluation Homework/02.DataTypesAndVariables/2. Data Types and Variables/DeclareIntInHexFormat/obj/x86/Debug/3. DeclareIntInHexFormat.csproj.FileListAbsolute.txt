@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareIntInHexFormat\obj\x86\Debug\DeclareIntInHexFormat.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareIntInHexFormat\obj\x86\Debug\DeclareIntInHexFormat.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareIntInHexFormat\bin\Debug\DeclareIntInHexFormat.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareIntInHexFormat\bin\Debug\DeclareIntInHexFormat.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareIntInHexFormat\obj\x86\Debug\3. DeclareIntInHexFormat.csprojResolveAssemblyReference.cache

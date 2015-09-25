@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\04.EncodeEncrypt\bin\Debug\04.EncodeEncrypt.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\04.EncodeEncrypt\bin\Debug\04.EncodeEncrypt.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\04.EncodeEncrypt\bin\Debug\04.EncodeEncrypt.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\04.EncodeEncrypt\obj\Debug\04.EncodeEncrypt.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\04.EncodeEncrypt\obj\Debug\04.EncodeEncrypt.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\04.EncodeEncrypt\obj\Debug\04.EncodeEncrypt.csprojResolveAssemblyReference.cache

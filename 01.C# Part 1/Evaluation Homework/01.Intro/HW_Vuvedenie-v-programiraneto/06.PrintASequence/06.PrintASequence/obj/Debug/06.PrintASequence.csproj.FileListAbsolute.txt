@@ -1,6 +1,0 @@
-c:\users\ivoo\documents\visual studio 2013\Projects\06.PrintASequence\06.PrintASequence\bin\Debug\06.PrintASequence.exe.config
-c:\users\ivoo\documents\visual studio 2013\Projects\06.PrintASequence\06.PrintASequence\obj\Debug\06.PrintASequence.csprojResolveAssemblyReference.cache
-c:\users\ivoo\documents\visual studio 2013\Projects\06.PrintASequence\06.PrintASequence\bin\Debug\06.PrintASequence.exe
-c:\users\ivoo\documents\visual studio 2013\Projects\06.PrintASequence\06.PrintASequence\bin\Debug\06.PrintASequence.pdb
-c:\users\ivoo\documents\visual studio 2013\Projects\06.PrintASequence\06.PrintASequence\obj\Debug\06.PrintASequence.exe
-c:\users\ivoo\documents\visual studio 2013\Projects\06.PrintASequence\06.PrintASequence\obj\Debug\06.PrintASequence.pdb

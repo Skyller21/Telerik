@@ -1,1 +1,0 @@
-C:\Storage\Telerik\1st Introduction to Programming\HelloWorld\bin\Debug\HelloWorld.exe.config

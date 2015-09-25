@@ -1,1 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config

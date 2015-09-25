@@ -1,8 +1,0 @@
-C:\Storage\Telerik\1st Introduction to Programming\Print Long Sequence\bin\Debug\Print Long Sequence.exe.config
-C:\Storage\Telerik\1st Introduction to Programming\Print Long Sequence\bin\Debug\Print Long Sequence.exe
-C:\Storage\Telerik\1st Introduction to Programming\Print Long Sequence\bin\Debug\Print Long Sequence.pdb
-C:\Storage\Telerik\1st Introduction to Programming\Print Long Sequence\obj\Debug\Print Long Sequence.exe
-C:\Storage\Telerik\1st Introduction to Programming\Print Long Sequence\obj\Debug\Print Long Sequence.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\01.Intro\1st Introduction to Programming\Print Long Sequence\bin\Debug\Print Long Sequence.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\01.Intro\1st Introduction to Programming\Print Long Sequence\obj\Debug\Print Long Sequence.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\01.Intro\1st Introduction to Programming\Print Long Sequence\obj\Debug\Print Long Sequence.pdb

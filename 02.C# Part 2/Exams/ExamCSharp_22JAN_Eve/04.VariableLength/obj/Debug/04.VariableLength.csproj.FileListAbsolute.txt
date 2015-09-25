@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\04.VariableLength\bin\Debug\04.VariableLength.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\04.VariableLength\bin\Debug\04.VariableLength.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\04.VariableLength\bin\Debug\04.VariableLength.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\04.VariableLength\obj\Debug\04.VariableLength.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\04.VariableLength\obj\Debug\04.VariableLength.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\04.VariableLength\obj\Debug\04.VariableLength.pdb

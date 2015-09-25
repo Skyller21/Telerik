@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_2012-2013\04.ConsoleJustification\bin\Debug\04.ConsoleJustification.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_2012-2013\04.ConsoleJustification\obj\Debug\04.ConsoleJustification.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_2012-2013\04.ConsoleJustification\bin\Debug\04.ConsoleJustification.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_2012-2013\04.ConsoleJustification\bin\Debug\04.ConsoleJustification.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_2012-2013\04.ConsoleJustification\obj\Debug\04.ConsoleJustification.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_2012-2013\04.ConsoleJustification\obj\Debug\04.ConsoleJustification.pdb

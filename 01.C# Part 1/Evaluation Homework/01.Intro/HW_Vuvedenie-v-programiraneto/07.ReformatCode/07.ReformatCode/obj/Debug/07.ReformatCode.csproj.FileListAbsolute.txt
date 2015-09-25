@@ -1,6 +1,0 @@
-c:\users\ivoo\documents\visual studio 2013\Projects\07.ReformatCode\07.ReformatCode\bin\Debug\07.ReformatCode.exe.config
-c:\users\ivoo\documents\visual studio 2013\Projects\07.ReformatCode\07.ReformatCode\bin\Debug\07.ReformatCode.exe
-c:\users\ivoo\documents\visual studio 2013\Projects\07.ReformatCode\07.ReformatCode\bin\Debug\07.ReformatCode.pdb
-c:\users\ivoo\documents\visual studio 2013\Projects\07.ReformatCode\07.ReformatCode\obj\Debug\07.ReformatCode.csprojResolveAssemblyReference.cache
-c:\users\ivoo\documents\visual studio 2013\Projects\07.ReformatCode\07.ReformatCode\obj\Debug\07.ReformatCode.exe
-c:\users\ivoo\documents\visual studio 2013\Projects\07.ReformatCode\07.ReformatCode\obj\Debug\07.ReformatCode.pdb

@@ -1,9 +1,0 @@
-C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareIntInHexFormat\bin\Debug\DeclareIntInHexFormat.exe
-C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareIntInHexFormat\bin\Debug\DeclareIntInHexFormat.pdb
-C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareIntInHexFormat\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareIntInHexFormat\obj\x86\Debug\DeclareIntInHexFormat.exe
-C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\DeclareIntInHexFormat\obj\x86\Debug\DeclareIntInHexFormat.pdb
-D:\C#1 projects\2. Data Types and Variables\DeclareIntInHexFormat\obj\x86\Debug\DeclareIntInHexFormat.exe
-D:\C#1 projects\2. Data Types and Variables\DeclareIntInHexFormat\obj\x86\Debug\DeclareIntInHexFormat.pdb
-D:\C#1 projects\2. Data Types and Variables\DeclareIntInHexFormat\bin\Debug\DeclareIntInHexFormat.exe
-D:\C#1 projects\2. Data Types and Variables\DeclareIntInHexFormat\bin\Debug\DeclareIntInHexFormat.pdb

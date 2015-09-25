@@ -1,9 +1,0 @@
-D:\Homeworks\C#\02. Primitive-Data-Types-and-Variables\03. VariableInHexadecimalFormat\bin\Debug\_03.VariableInHexadecimalFormat.exe.config
-D:\Homeworks\C#\02. Primitive-Data-Types-and-Variables\03. VariableInHexadecimalFormat\bin\Debug\_03.VariableInHexadecimalFormat.exe
-D:\Homeworks\C#\02. Primitive-Data-Types-and-Variables\03. VariableInHexadecimalFormat\bin\Debug\_03.VariableInHexadecimalFormat.pdb
-D:\Homeworks\C#\02. Primitive-Data-Types-and-Variables\03. VariableInHexadecimalFormat\obj\Debug\03. VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
-D:\Homeworks\C#\02. Primitive-Data-Types-and-Variables\03. VariableInHexadecimalFormat\obj\Debug\_03.VariableInHexadecimalFormat.exe
-D:\Homeworks\C#\02. Primitive-Data-Types-and-Variables\03. VariableInHexadecimalFormat\obj\Debug\_03.VariableInHexadecimalFormat.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\02. Primitive-Data-Types-and-Variables\03. VariableInHexadecimalFormat\bin\Debug\_03.VariableInHexadecimalFormat.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\02. Primitive-Data-Types-and-Variables\03. VariableInHexadecimalFormat\obj\Debug\_03.VariableInHexadecimalFormat.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\02. Primitive-Data-Types-and-Variables\03. VariableInHexadecimalFormat\obj\Debug\_03.VariableInHexadecimalFormat.pdb

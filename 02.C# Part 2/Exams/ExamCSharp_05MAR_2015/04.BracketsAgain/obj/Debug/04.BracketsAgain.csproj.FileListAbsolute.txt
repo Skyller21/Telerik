@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\04.BracketsAgain\bin\Debug\04.BracketsAgain.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\04.BracketsAgain\bin\Debug\04.BracketsAgain.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\04.BracketsAgain\bin\Debug\04.BracketsAgain.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\04.BracketsAgain\obj\Debug\04.BracketsAgain.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\04.BracketsAgain\obj\Debug\04.BracketsAgain.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\04.BracketsAgain\obj\Debug\04.BracketsAgain.pdb

@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_24JAN_Eve\01.StrangeLandNumbers\bin\Debug\01.StrangeLandNumbers.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_24JAN_Eve\01.StrangeLandNumbers\obj\Debug\01.StrangeLandNumbers.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_24JAN_Eve\01.StrangeLandNumbers\bin\Debug\01.StrangeLandNumbers.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_24JAN_Eve\01.StrangeLandNumbers\bin\Debug\01.StrangeLandNumbers.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_24JAN_Eve\01.StrangeLandNumbers\obj\Debug\01.StrangeLandNumbers.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_24JAN_Eve\01.StrangeLandNumbers\obj\Debug\01.StrangeLandNumbers.pdb

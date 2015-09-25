@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\01.Intro\1st Introduction to Programming\Print a Sequence\bin\Debug\Print a Sequence.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\01.Intro\1st Introduction to Programming\Print a Sequence\bin\Debug\Print a Sequence.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\01.Intro\1st Introduction to Programming\Print a Sequence\bin\Debug\Print a Sequence.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\01.Intro\1st Introduction to Programming\Print a Sequence\obj\Debug\09. PrintASequence.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\01.Intro\1st Introduction to Programming\Print a Sequence\obj\Debug\Print a Sequence.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\01.Intro\1st Introduction to Programming\Print a Sequence\obj\Debug\Print a Sequence.pdb

@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\13.SolveTasks\bin\Debug\13.SolveTasks.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\13.SolveTasks\bin\Debug\13.SolveTasks.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\13.SolveTasks\bin\Debug\13.SolveTasks.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\13.SolveTasks\obj\Debug\13.SolveTasks.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\13.SolveTasks\obj\Debug\13.SolveTasks.pdb

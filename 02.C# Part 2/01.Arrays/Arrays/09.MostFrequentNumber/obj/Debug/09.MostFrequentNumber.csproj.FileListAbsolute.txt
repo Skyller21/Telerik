@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\09.MostFrequentNumber\bin\Debug\09.MostFrequentNumber.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\09.MostFrequentNumber\bin\Debug\09.MostFrequentNumber.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\09.MostFrequentNumber\bin\Debug\09.MostFrequentNumber.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\09.MostFrequentNumber\obj\Debug\09.MostFrequentNumber.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\09.MostFrequentNumber\obj\Debug\09.MostFrequentNumber.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\09.MostFrequentNumber\obj\Debug\09.MostFrequentNumber.pdb

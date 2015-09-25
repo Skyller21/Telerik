@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\05.TheCatAteIt\bin\Debug\05.TheCatAteIt.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\05.TheCatAteIt\obj\Debug\05.TheCatAteIt.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\05.TheCatAteIt\bin\Debug\05.TheCatAteIt.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\05.TheCatAteIt\bin\Debug\05.TheCatAteIt.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\05.TheCatAteIt\obj\Debug\05.TheCatAteIt.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\05.TheCatAteIt\obj\Debug\05.TheCatAteIt.pdb

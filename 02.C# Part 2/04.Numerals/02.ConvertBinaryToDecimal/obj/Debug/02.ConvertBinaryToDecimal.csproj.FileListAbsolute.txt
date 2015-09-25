@@ -1,6 +1,0 @@
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\02.ConvertBinaryToDecimal\obj\Debug\02.ConvertBinaryToDecimal.csprojResolveAssemblyReference.cache
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\02.ConvertBinaryToDecimal\bin\Debug\02.ConvertBinaryToDecimal.exe.config
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\02.ConvertBinaryToDecimal\bin\Debug\02.ConvertBinaryToDecimal.exe
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\02.ConvertBinaryToDecimal\bin\Debug\02.ConvertBinaryToDecimal.pdb
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\02.ConvertBinaryToDecimal\obj\Debug\02.ConvertBinaryToDecimal.exe
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\Numerals\02.ConvertBinaryToDecimal\obj\Debug\02.ConvertBinaryToDecimal.pdb

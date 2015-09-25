@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\01.MathProblem\bin\Debug\01.MathProblem.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\01.MathProblem\obj\Debug\01.MathProblem.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\01.MathProblem\bin\Debug\01.MathProblem.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\01.MathProblem\bin\Debug\01.MathProblem.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\01.MathProblem\obj\Debug\01.MathProblem.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_05MAR_2015\01.MathProblem\obj\Debug\01.MathProblem.pdb

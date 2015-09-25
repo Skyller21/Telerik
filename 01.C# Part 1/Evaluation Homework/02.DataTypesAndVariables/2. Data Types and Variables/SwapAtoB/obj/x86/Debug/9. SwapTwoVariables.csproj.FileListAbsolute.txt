@@ -1,8 +1,0 @@
-D:\C#1 projects\2. Data Types and Variables\SwapAtoB\obj\x86\Debug\SwapAtoB.exe
-D:\C#1 projects\2. Data Types and Variables\SwapAtoB\obj\x86\Debug\SwapAtoB.pdb
-D:\C#1 projects\2. Data Types and Variables\SwapAtoB\bin\Debug\SwapAtoB.exe
-D:\C#1 projects\2. Data Types and Variables\SwapAtoB\bin\Debug\SwapAtoB.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\SwapAtoB\obj\x86\Debug\SwapAtoB.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\SwapAtoB\obj\x86\Debug\SwapAtoB.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\SwapAtoB\bin\Debug\SwapAtoB.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\SwapAtoB\bin\Debug\SwapAtoB.pdb

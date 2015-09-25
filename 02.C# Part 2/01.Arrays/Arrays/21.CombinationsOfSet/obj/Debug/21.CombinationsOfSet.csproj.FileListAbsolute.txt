@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\21.CombinationsOfSet\obj\Debug\21.CombinationsOfSet.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\21.CombinationsOfSet\obj\Debug\21.CombinationsOfSet.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\21.CombinationsOfSet\obj\Debug\21.CombinationsOfSet.pdb

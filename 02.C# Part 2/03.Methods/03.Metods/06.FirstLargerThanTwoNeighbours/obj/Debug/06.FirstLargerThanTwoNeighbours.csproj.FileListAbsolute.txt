@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\06.FirstLargerThanTwoNeighbours\bin\Debug\06.FirstLargerThanTwoNeighbours.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\06.FirstLargerThanTwoNeighbours\bin\Debug\06.FirstLargerThanTwoNeighbours.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\06.FirstLargerThanTwoNeighbours\bin\Debug\06.FirstLargerThanTwoNeighbours.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\06.FirstLargerThanTwoNeighbours\obj\Debug\06.FirstLargerThanTwoNeighbours.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\06.FirstLargerThanTwoNeighbours\obj\Debug\06.FirstLargerThanTwoNeighbours.pdb

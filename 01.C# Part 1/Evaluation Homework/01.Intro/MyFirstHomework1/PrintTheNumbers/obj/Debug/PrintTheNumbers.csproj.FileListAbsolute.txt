@@ -1,8 +1,0 @@
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintTheNumbers\bin\Debug\PrintTheNumbers.exe.config
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintTheNumbers\bin\Debug\PrintTheNumbers.exe
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintTheNumbers\bin\Debug\PrintTheNumbers.pdb
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintTheNumbers\obj\Debug\PrintTheNumbers.exe
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintTheNumbers\obj\Debug\PrintTheNumbers.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\PrintTheNumbers\bin\Debug\PrintTheNumbers.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\PrintTheNumbers\obj\Debug\PrintTheNumbers.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\PrintTheNumbers\obj\Debug\PrintTheNumbers.pdb

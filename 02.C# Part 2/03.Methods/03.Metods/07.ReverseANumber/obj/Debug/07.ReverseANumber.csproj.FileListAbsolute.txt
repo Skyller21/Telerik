@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\07.ReverseANumber\bin\Debug\07.ReverseANumber.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\07.ReverseANumber\bin\Debug\07.ReverseANumber.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\07.ReverseANumber\bin\Debug\07.ReverseANumber.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\07.ReverseANumber\obj\Debug\07.ReverseANumber.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\07.ReverseANumber\obj\Debug\07.ReverseANumber.pdb

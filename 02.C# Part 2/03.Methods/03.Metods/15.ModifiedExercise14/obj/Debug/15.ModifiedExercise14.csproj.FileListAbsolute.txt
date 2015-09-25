@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\15.ModifiedExercise14\bin\Debug\15.ModifiedExercise14.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\15.ModifiedExercise14\bin\Debug\15.ModifiedExercise14.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\15.ModifiedExercise14\bin\Debug\15.ModifiedExercise14.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\15.ModifiedExercise14\obj\Debug\15.ModifiedExercise14.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\15.ModifiedExercise14\obj\Debug\15.ModifiedExercise14.pdb

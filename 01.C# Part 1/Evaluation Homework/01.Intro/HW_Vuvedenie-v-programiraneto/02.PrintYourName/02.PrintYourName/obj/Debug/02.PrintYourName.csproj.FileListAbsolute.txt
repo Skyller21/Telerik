@@ -1,6 +1,0 @@
-c:\users\ivoo\documents\visual studio 2013\Projects\02.PrintYourName\02.PrintYourName\bin\Debug\02.PrintYourName.exe.config
-c:\users\ivoo\documents\visual studio 2013\Projects\02.PrintYourName\02.PrintYourName\bin\Debug\02.PrintYourName.exe
-c:\users\ivoo\documents\visual studio 2013\Projects\02.PrintYourName\02.PrintYourName\bin\Debug\02.PrintYourName.pdb
-c:\users\ivoo\documents\visual studio 2013\Projects\02.PrintYourName\02.PrintYourName\obj\Debug\02.PrintYourName.csprojResolveAssemblyReference.cache
-c:\users\ivoo\documents\visual studio 2013\Projects\02.PrintYourName\02.PrintYourName\obj\Debug\02.PrintYourName.exe
-c:\users\ivoo\documents\visual studio 2013\Projects\02.PrintYourName\02.PrintYourName\obj\Debug\02.PrintYourName.pdb

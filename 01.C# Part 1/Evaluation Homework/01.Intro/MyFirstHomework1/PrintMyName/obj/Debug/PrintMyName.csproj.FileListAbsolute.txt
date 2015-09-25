@@ -1,9 +1,0 @@
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintMyName\bin\Debug\PrintMyName.exe.config
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintMyName\bin\Debug\PrintMyName.exe
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintMyName\bin\Debug\PrintMyName.pdb
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintMyName\obj\Debug\PrintMyName.exe
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\PrintMyName\obj\Debug\PrintMyName.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\PrintMyName\bin\Debug\PrintMyName.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\PrintMyName\obj\Debug\PrintMyName.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\PrintMyName\obj\Debug\PrintMyName.pdb

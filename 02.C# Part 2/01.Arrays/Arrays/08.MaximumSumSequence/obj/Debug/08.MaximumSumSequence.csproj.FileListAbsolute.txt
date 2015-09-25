@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\08.MaximumSumSequence\bin\Debug\08.MaximumSumSequence.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\08.MaximumSumSequence\bin\Debug\08.MaximumSumSequence.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\08.MaximumSumSequence\bin\Debug\08.MaximumSumSequence.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\08.MaximumSumSequence\obj\Debug\08.MaximumSumSequence.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\08.MaximumSumSequence\obj\Debug\08.MaximumSumSequence.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\08.MaximumSumSequence\obj\Debug\08.MaximumSumSequence.pdb

@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\PrimitiveDataTypesAndVariables\PrinttheASCIITable\bin\Debug\PrinttheASCIITable.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\PrimitiveDataTypesAndVariables\PrinttheASCIITable\bin\Debug\PrinttheASCIITable.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\PrimitiveDataTypesAndVariables\PrinttheASCIITable\bin\Debug\PrinttheASCIITable.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\PrimitiveDataTypesAndVariables\PrinttheASCIITable\obj\Debug\PrinttheASCIITable.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\PrimitiveDataTypesAndVariables\PrinttheASCIITable\obj\Debug\PrinttheASCIITable.pdb

@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\01.Zerg\bin\Debug\01.Zerg.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\01.Zerg\bin\Debug\01.Zerg.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\01.Zerg\bin\Debug\01.Zerg.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\01.Zerg\obj\Debug\01.Zerg.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\01.Zerg\obj\Debug\01.Zerg.pdb

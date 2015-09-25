@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.pdb

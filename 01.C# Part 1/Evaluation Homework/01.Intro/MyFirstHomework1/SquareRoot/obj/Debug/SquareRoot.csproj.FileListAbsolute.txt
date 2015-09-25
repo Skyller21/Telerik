@@ -1,8 +1,0 @@
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\SquareRoot\bin\Debug\SquareRoot.exe.config
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\SquareRoot\bin\Debug\SquareRoot.exe
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\SquareRoot\bin\Debug\SquareRoot.pdb
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\SquareRoot\obj\Debug\SquareRoot.exe
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\SquareRoot\obj\Debug\SquareRoot.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\SquareRoot\bin\Debug\SquareRoot.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\SquareRoot\obj\Debug\SquareRoot.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\MyFirstHomework1\SquareRoot\obj\Debug\SquareRoot.pdb

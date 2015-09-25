@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\08.AddIntegersAsArray\bin\Debug\08.AddIntegersAsArray.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\08.AddIntegersAsArray\bin\Debug\08.AddIntegersAsArray.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\08.AddIntegersAsArray\bin\Debug\08.AddIntegersAsArray.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\08.AddIntegersAsArray\obj\Debug\08.AddIntegersAsArray.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\03.Methods\03.Metods\08.AddIntegersAsArray\obj\Debug\08.AddIntegersAsArray.pdb

@@ -1,9 +1,0 @@
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\02.PrintRandomNumbers\bin\Debug\02.PrintRandomNumbers.exe.config
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\02.PrintRandomNumbers\bin\Debug\02.PrintRandomNumbers.exe
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\02.PrintRandomNumbers\bin\Debug\02.PrintRandomNumbers.pdb
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\02.PrintRandomNumbers\obj\Debug\02.PrintRandomNumbers.exe
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\02.PrintRandomNumbers\obj\Debug\02.PrintRandomNumbers.pdb
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\02.PrintRandomNumbers\obj\Debug\02.PrintRandomNumbers.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\02.PrintRandomNumbers\bin\Debug\02.PrintRandomNumbers.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\02.PrintRandomNumbers\obj\Debug\02.PrintRandomNumbers.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\02.PrintRandomNumbers\obj\Debug\02.PrintRandomNumbers.pdb

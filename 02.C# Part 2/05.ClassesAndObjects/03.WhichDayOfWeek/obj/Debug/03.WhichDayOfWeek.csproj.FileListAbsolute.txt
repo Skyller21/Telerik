@@ -1,9 +1,0 @@
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\03.WhichDayOfWeek\bin\Debug\03.WhichDayOfWeek.exe.config
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\03.WhichDayOfWeek\bin\Debug\03.WhichDayOfWeek.exe
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\03.WhichDayOfWeek\bin\Debug\03.WhichDayOfWeek.pdb
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\03.WhichDayOfWeek\obj\Debug\03.WhichDayOfWeek.exe
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\03.WhichDayOfWeek\obj\Debug\03.WhichDayOfWeek.pdb
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\03.WhichDayOfWeek\obj\Debug\03.WhichDayOfWeek.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\03.WhichDayOfWeek\bin\Debug\03.WhichDayOfWeek.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\03.WhichDayOfWeek\obj\Debug\03.WhichDayOfWeek.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\03.WhichDayOfWeek\obj\Debug\03.WhichDayOfWeek.pdb

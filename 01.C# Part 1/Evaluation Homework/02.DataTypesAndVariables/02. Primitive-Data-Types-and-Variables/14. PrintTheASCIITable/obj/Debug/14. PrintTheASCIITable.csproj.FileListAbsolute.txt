@@ -1,6 +1,0 @@
-D:\Homeworks\C#\02. Primitive-Data-Types-and-Variables\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\02. Primitive-Data-Types-and-Variables\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\02. Primitive-Data-Types-and-Variables\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\02. Primitive-Data-Types-and-Variables\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\02. Primitive-Data-Types-and-Variables\14. PrintTheASCIITable\obj\Debug\_14.PrintTheASCIITable.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\02. Primitive-Data-Types-and-Variables\14. PrintTheASCIITable\obj\Debug\_14.PrintTheASCIITable.pdb

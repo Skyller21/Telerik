@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\08.SequenceOneToN\bin\Debug\08.SequenceOneToN.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\08.SequenceOneToN\bin\Debug\08.SequenceOneToN.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\08.SequenceOneToN\bin\Debug\08.SequenceOneToN.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\08.SequenceOneToN\obj\Debug\08.SequenceOneToN.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\08.SequenceOneToN\obj\Debug\08.SequenceOneToN.pdb

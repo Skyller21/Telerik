@@ -1,6 +1,0 @@
-c:\users\ivoo\documents\visual studio 2013\Projects\04.PrintFirstAndLastName\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.exe.config
-c:\users\ivoo\documents\visual studio 2013\Projects\04.PrintFirstAndLastName\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.exe
-c:\users\ivoo\documents\visual studio 2013\Projects\04.PrintFirstAndLastName\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.pdb
-c:\users\ivoo\documents\visual studio 2013\Projects\04.PrintFirstAndLastName\04.PrintFirstAndLastName\obj\Debug\04.PrintFirstAndLastName.csprojResolveAssemblyReference.cache
-c:\users\ivoo\documents\visual studio 2013\Projects\04.PrintFirstAndLastName\04.PrintFirstAndLastName\obj\Debug\04.PrintFirstAndLastName.exe
-c:\users\ivoo\documents\visual studio 2013\Projects\04.PrintFirstAndLastName\04.PrintFirstAndLastName\obj\Debug\04.PrintFirstAndLastName.pdb

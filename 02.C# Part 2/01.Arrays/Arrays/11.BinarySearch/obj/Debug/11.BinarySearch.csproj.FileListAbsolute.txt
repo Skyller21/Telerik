@@ -1,9 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 2\01.Arrays\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\01.Arrays\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.pdb

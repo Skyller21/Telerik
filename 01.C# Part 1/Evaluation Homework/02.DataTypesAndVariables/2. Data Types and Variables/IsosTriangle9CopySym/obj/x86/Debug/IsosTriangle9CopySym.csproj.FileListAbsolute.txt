@@ -1,9 +1,0 @@
-C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\IsosTriangle9CopySym\bin\Debug\IsosTriangle9CopySym.exe
-C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\IsosTriangle9CopySym\bin\Debug\IsosTriangle9CopySym.pdb
-C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\IsosTriangle9CopySym\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\IsosTriangle9CopySym\obj\x86\Debug\IsosTriangle9CopySym.exe
-C:\Documents and Settings\Teodor\My Documents\Visual Studio 2010\Projects\2. Data Types and Variables\IsosTriangle9CopySym\obj\x86\Debug\IsosTriangle9CopySym.pdb
-D:\C#1 projects\2. Data Types and Variables\IsosTriangle9CopySym\obj\x86\Debug\IsosTriangle9CopySym.exe
-D:\C#1 projects\2. Data Types and Variables\IsosTriangle9CopySym\obj\x86\Debug\IsosTriangle9CopySym.pdb
-D:\C#1 projects\2. Data Types and Variables\IsosTriangle9CopySym\bin\Debug\IsosTriangle9CopySym.exe
-D:\C#1 projects\2. Data Types and Variables\IsosTriangle9CopySym\bin\Debug\IsosTriangle9CopySym.pdb

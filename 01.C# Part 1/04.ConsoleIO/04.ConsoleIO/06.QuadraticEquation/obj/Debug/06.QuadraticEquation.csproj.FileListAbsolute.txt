@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\04.ConsoleIO\04.ConsoleIO\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

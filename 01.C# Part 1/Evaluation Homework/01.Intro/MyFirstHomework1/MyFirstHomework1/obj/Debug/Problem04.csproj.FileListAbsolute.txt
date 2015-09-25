@@ -1,6 +1,0 @@
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\MyFirstHomework1\bin\Debug\MyFirstHomework1.exe.config
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\MyFirstHomework1\bin\Debug\MyFirstHomework1.exe
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\MyFirstHomework1\bin\Debug\MyFirstHomework1.pdb
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\MyFirstHomework1\obj\Debug\Problem04.csprojResolveAssemblyReference.cache
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\MyFirstHomework1\obj\Debug\MyFirstHomework1.exe
-C:\Users\Vasil\Desktop\FirstProject\MyFirstHomework1\MyFirstHomework1\obj\Debug\MyFirstHomework1.pdb

@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\03.Patterns\bin\Debug\03.Patterns.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\03.Patterns\bin\Debug\03.Patterns.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\03.Patterns\bin\Debug\03.Patterns.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\03.Patterns\obj\Debug\03.Patterns.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\03.Patterns\obj\Debug\03.Patterns.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_22JAN_Eve\03.Patterns\obj\Debug\03.Patterns.pdb

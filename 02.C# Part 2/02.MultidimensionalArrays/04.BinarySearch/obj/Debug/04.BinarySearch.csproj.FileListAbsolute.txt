@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\04.BinarySearch\bin\Debug\04.BinarySearch.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\04.BinarySearch\bin\Debug\04.BinarySearch.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\04.BinarySearch\bin\Debug\04.BinarySearch.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\04.BinarySearch\obj\Debug\04.BinarySearch.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\04.BinarySearch\obj\Debug\04.BinarySearch.pdb

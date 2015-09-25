@@ -1,4 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareCharInHexFormat\obj\x86\Debug\DeclareCharInHexFormat.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareCharInHexFormat\obj\x86\Debug\DeclareCharInHexFormat.pdb
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareCharInHexFormat\bin\Debug\DeclareCharInHexFormat.exe
-D:\Marto\Google Drive\Telerik Experience\C# Part 1\Evaluation Homework\02.DataTypesAndVariables\2. Data Types and Variables\DeclareCharInHexFormat\bin\Debug\DeclareCharInHexFormat.pdb

@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\05.TheyAreGreen\bin\Debug\05.TheyAreGreen.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\05.TheyAreGreen\bin\Debug\05.TheyAreGreen.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\05.TheyAreGreen\bin\Debug\05.TheyAreGreen.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\05.TheyAreGreen\obj\Debug\05.TheyAreGreen.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\05.TheyAreGreen\obj\Debug\05.TheyAreGreen.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_14SEP_Eve\05.TheyAreGreen\obj\Debug\05.TheyAreGreen.pdb

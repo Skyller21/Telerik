@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\02.MaximalSum\obj\Debug\02.MaximalSum.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\02.MaximalSum\obj\Debug\02.MaximalSum.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\02.MultidimensionalArrays\02.MultidimensionalArrays\02.MaximalSum\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache

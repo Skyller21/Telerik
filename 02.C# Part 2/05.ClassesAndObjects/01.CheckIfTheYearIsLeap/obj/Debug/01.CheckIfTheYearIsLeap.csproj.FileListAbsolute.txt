@@ -1,9 +1,0 @@
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\01.CheckIfTheYearIsLeap\bin\Debug\01.CheckIfTheYearIsLeap.exe.config
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\01.CheckIfTheYearIsLeap\obj\Debug\01.CheckIfTheYearIsLeap.csprojResolveAssemblyReference.cache
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\01.CheckIfTheYearIsLeap\bin\Debug\01.CheckIfTheYearIsLeap.exe
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\01.CheckIfTheYearIsLeap\bin\Debug\01.CheckIfTheYearIsLeap.pdb
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\01.CheckIfTheYearIsLeap\obj\Debug\01.CheckIfTheYearIsLeap.exe
-D:\Marto\Dropbox\Telerik\C# Part II\Homework\ClassesAndObjects\ClassesAndObjects\01.CheckIfTheYearIsLeap\obj\Debug\01.CheckIfTheYearIsLeap.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\01.CheckIfTheYearIsLeap\bin\Debug\01.CheckIfTheYearIsLeap.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\01.CheckIfTheYearIsLeap\obj\Debug\01.CheckIfTheYearIsLeap.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\05.ClassesAndObjects\01.CheckIfTheYearIsLeap\obj\Debug\01.CheckIfTheYearIsLeap.pdb

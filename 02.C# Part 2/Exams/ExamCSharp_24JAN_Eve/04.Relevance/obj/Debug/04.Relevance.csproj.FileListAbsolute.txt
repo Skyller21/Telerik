@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_24JAN_Eve\04.Relevance\bin\Debug\04.Relevance.exe.config
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_24JAN_Eve\04.Relevance\obj\Debug\04.Relevance.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_24JAN_Eve\04.Relevance\bin\Debug\04.Relevance.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_24JAN_Eve\04.Relevance\bin\Debug\04.Relevance.pdb
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_24JAN_Eve\04.Relevance\obj\Debug\04.Relevance.exe
-D:\Marto\Google Drive\Telerik Experience\02.C# Part 2\Exams\ExamCSharp_24JAN_Eve\04.Relevance\obj\Debug\04.Relevance.pdb
