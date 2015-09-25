@@ -1,2 +1,2 @@
 ### Telerik
-These are the projects associated with Telerik Software Academy 2015-2016.
+These are the homeworks associated with Telerik Software Academy 2015-2016.
