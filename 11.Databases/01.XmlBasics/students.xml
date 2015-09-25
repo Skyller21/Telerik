@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='students.xslt'?>
+<students xmlns:student="urn:students">
+  <student faculty-number="00121">
+    <name>Ivan Ivanoff</name>
+    <gender>Male</gender>
+    <birthday>05/05/1990</birthday>
+    <phone>0888888888</phone>
+    <email>ivan@abv.bg</email>
+    <course>ComputerScience</course>
+    <specialty>SoftwareEngineer</specialty>
+    <taken-exams>
+      <exam>
+        <name>JS Exam</name>
+        <tutor>Doncho Minkov</tutor>
+        <grade>6</grade>
+      </exam>
+    </taken-exams>
+  </student>
+  <student faculty-number="00123">
+    <name>Pesho Peshev</name>
+    <gender>Male</gender>
+    <birthday>13/02/1992</birthday>
+    <phone>0777777777</phone>
+    <email>pesho@gmail.com</email>
+    <course>Mathematics</course>
+    <specialty>Mathematician</specialty>
+    <taken-exams>
+      <exam>
+        <name>Discreet Mathematics</name>
+        <tutor>Batman</tutor>
+        <grade>6</grade>
+      </exam>
+      <exam>
+        <name>Linear Algebra</name>
+        <tutor>Superman</tutor>
+        <grade>5</grade>
+      </exam>
+    </taken-exams>
+  </student>
+  <student faculty-number="00125">
+    <name>Minka Minkova</name>
+    <gender>Female</gender>
+    <birthday>18/10/1991</birthday>
+    <phone>0666666666</phone>
+    <email>minka@gmail.com</email>
+    <course>ComputerScience</course>
+    <specialty>SystemAdministrator</specialty>
+    <taken-exams>
+      <exam>
+        <name>Linux Adminitsration</name>
+        <tutor>Wonder Woman</tutor>
+        <grade>6</grade>
+      </exam>
+      <exam>
+        <name>Windows Adminitsration</name>
+        <tutor>Bill Gates</tutor>
+        <grade>6</grade>
+      </exam>
+    </taken-exams>
+  </student>
+</students>
