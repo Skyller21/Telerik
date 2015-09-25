@@ -30,6 +30,7 @@ Save при игри.
 „Итератор“ (Iterator) 
 
 ### Имплементация ###
+Will be done soon...
 
 ```c#
     
