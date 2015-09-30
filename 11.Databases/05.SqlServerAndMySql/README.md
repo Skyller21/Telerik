@@ -4,6 +4,7 @@
 1.	Download and install SQL Server Express. Install also SQL Server Management Studio Express (this could take some effort but be persistent).
 1.	Connect to the SQL Server with SQL Server Management Studio
 	*	Use Windows authentication.
+	![](https://github.com/vesheff/Telerik/blob/master/11.Databases/05.SqlServerAndMySql/media/01-02.Connected.png)
 1.	Create a new database `Pubs` and create new login with permissions to connect to it. Execute the script `install_pubs.sql` to populate the DB contents (you may need slightly to edit the script before).
 1.	Attach the database `Northwind` (use the files `Northwind.mdf` and `Northwind.ldf`) to SQL Server and connect to it.
 1.	Backup the database `Northwind` into a file named `northwind-backup.bak` and restore it as database named `North`.
