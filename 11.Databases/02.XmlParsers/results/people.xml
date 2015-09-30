@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<people>
+  <person>
+    <name>Ivan Ivanov</name>
+    <address>Sofia, 48 "Al. Stamboliiski" blvd.</address>
+    <phone>0888888888</phone>
+  </person>
+  <person>
+    <name>Batman Batmanov</name>
+    <address>Sofia, "The Cave"</address>
+    <phone>0777777777</phone>
+  </person>
+  <person>
+    <name>Minka Minkova</name>
+    <address>Plovdiv, "Old Town"</address>
+    <phone>0666666666</phone>
+  </person>
+  <person>
+    <name>Doncho Minkov</name>
+    <address>Sofia,  "Telerik Academy"</address>
+    <phone>0555555555</phone>
+  </person>
+</people>

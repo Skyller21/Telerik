@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>The King of Limbs</name>
+    <artist>Radiohead</artist>
+  </album>
+  <album>
+    <name>OK Computer</name>
+    <artist>Radiohead</artist>
+  </album>
+  <album>
+    <name>Dummy</name>
+    <artist>Portishead</artist>
+  </album>
+  <album>
+    <name>Third</name>
+    <artist>Portishead</artist>
+  </album>
+</albums>

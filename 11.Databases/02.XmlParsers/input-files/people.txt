@@ -1,0 +1,12 @@
+Ivan Ivanov
+Sofia, 48 "Al. Stamboliiski" blvd.
+0888888888
+Batman Batmanov
+Sofia, "The Cave"
+0777777777
+Minka Minkova
+Plovdiv, "Old Town"
+0666666666
+Doncho Minkov
+Sofia,  "Telerik Academy"
+0555555555
