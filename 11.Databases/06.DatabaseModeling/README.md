@@ -3,7 +3,7 @@
 
 1.	Create the following database diagram in SQL Server:
 
-	![diagram](diagram.png)
+	![diagram](Diagram.png)
 
 1.	Fill some sample data in the tables with SQL Server Management Studio.
 	![01.PeopleAddresses.bak](01.PeopleAddresses.bak)
