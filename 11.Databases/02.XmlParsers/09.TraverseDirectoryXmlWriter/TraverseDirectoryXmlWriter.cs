@@ -13,7 +13,7 @@ namespace _09.TraverseDirectoryXmlWriter
         static void Main(string[] args)
         {
             var writer = XmlWriter.Create("../../../results/directories.xml", new XmlWriterSettings() { Indent = true, NewLineChars = Environment.NewLine });
-            string path = @"D:\Marto\Google Drive\Telerik Experience\11.Databases\02.XmlParsers";
+            string path = @"../../../../02.XmlParsers";
 
             using (writer)
             {

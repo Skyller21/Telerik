@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<dirs name="D:\Marto\Google Drive\Telerik Experience\11.Databases\02.XmlParsers">
+<dirs name="../../../../02.XmlParsers">
   <dir name="02.XmlParsers">
     <files>
       <file>
@@ -587,6 +587,9 @@
             <file>
               <name>09.TraverseDirectoryXmlWriter.vshost.exe.config</name>
             </file>
+            <file>
+              <name>09.TraverseDirectoryXmlWriter.vshost.exe.manifest</name>
+            </file>
           </files>
         </dir>
         <dir name="Release">
@@ -599,6 +602,9 @@
           <files>
             <file>
               <name>09.TraverseDirectoryXmlWriter.csproj.FileListAbsolute.txt</name>
+            </file>
+            <file>
+              <name>09.TraverseDirectoryXmlWriter.csprojResolveAssemblyReference.cache</name>
             </file>
             <file>
               <name>09.TraverseDirectoryXmlWriter.exe</name>
@@ -977,6 +983,9 @@
             <file>
               <name>16.ValidateXml.vshost.exe.config</name>
             </file>
+            <file>
+              <name>16.ValidateXml.vshost.exe.manifest</name>
+            </file>
           </files>
         </dir>
         <dir name="Release">
@@ -1039,17 +1048,7 @@
       </files>
     </dir>
     <dir name="Parsers">
-      <files>
-        <file>
-          <name>App.config</name>
-        </file>
-        <file>
-          <name>Parsers.csproj</name>
-        </file>
-        <file>
-          <name>Program.cs</name>
-        </file>
-      </files>
+      <files />
       <dir name="bin">
         <files />
         <dir name="Debug">
@@ -1108,13 +1107,6 @@
             <files />
           </dir>
         </dir>
-      </dir>
-      <dir name="Properties">
-        <files>
-          <file>
-            <name>AssemblyInfo.cs</name>
-          </file>
-        </files>
       </dir>
     </dir>
     <dir name="results">

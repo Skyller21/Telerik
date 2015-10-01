@@ -1,12 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<dir name="D:\Marto\Google Drive\Telerik Experience\11.Databases\02.XmlParsers">
+<dir name="../../../../02.XmlParsers">
   <files>
     <file>06.XMLParsers.sln</file>
     <file>06.XMLParsers.v12.suo</file>
-    <file>catalog-style.xslt</file>
-    <file>catalog.xml</file>
-    <file>catalog.xsd</file>
-    <file>people.txt</file>
   </files>
   <dir name="02.ExtractArtists">
     <files>
@@ -293,6 +289,7 @@
           <file>09.TraverseDirectoryXmlWriter.pdb</file>
           <file>09.TraverseDirectoryXmlWriter.vshost.exe</file>
           <file>09.TraverseDirectoryXmlWriter.vshost.exe.config</file>
+          <file>09.TraverseDirectoryXmlWriter.vshost.exe.manifest</file>
         </files>
       </dir>
       <dir name="Release" />
@@ -301,6 +298,7 @@
       <dir name="Debug">
         <files>
           <file>09.TraverseDirectoryXmlWriter.csproj.FileListAbsolute.txt</file>
+          <file>09.TraverseDirectoryXmlWriter.csprojResolveAssemblyReference.cache</file>
           <file>09.TraverseDirectoryXmlWriter.exe</file>
           <file>09.TraverseDirectoryXmlWriter.pdb</file>
           <file>DesignTimeResolveAssemblyReferencesInput.cache</file>
@@ -331,6 +329,7 @@
           <file>10.TraversDirectoryXDocument.pdb</file>
           <file>10.TraversDirectoryXDocument.vshost.exe</file>
           <file>10.TraversDirectoryXDocument.vshost.exe.config</file>
+          <file>10.TraversDirectoryXDocument.vshost.exe.manifest</file>
         </files>
       </dir>
       <dir name="Release" />
@@ -431,6 +430,11 @@
       </files>
     </dir>
   </dir>
+  <dir name="13.Style">
+    <files>
+      <file>catalogue-style.xslt</file>
+    </files>
+  </dir>
   <dir name="14.ApplyStyleToXml">
     <files>
       <file>14.ApplyStyleToXml.csproj</file>
@@ -470,12 +474,54 @@
       </files>
     </dir>
   </dir>
-  <dir name="Parsers">
+  <dir name="16.ValidateXml">
     <files>
+      <file>16.ValidateXml.csproj</file>
       <file>App.config</file>
-      <file>Parsers.csproj</file>
-      <file>Program.cs</file>
+      <file>ValidateXml.cs</file>
     </files>
+    <dir name="bin">
+      <dir name="Debug">
+        <files>
+          <file>16.ValidateXml.exe</file>
+          <file>16.ValidateXml.exe.config</file>
+          <file>16.ValidateXml.pdb</file>
+          <file>16.ValidateXml.vshost.exe</file>
+          <file>16.ValidateXml.vshost.exe.config</file>
+          <file>16.ValidateXml.vshost.exe.manifest</file>
+        </files>
+      </dir>
+      <dir name="Release" />
+    </dir>
+    <dir name="obj">
+      <dir name="Debug">
+        <files>
+          <file>16.ValidateXml.csproj.FileListAbsolute.txt</file>
+          <file>16.ValidateXml.exe</file>
+          <file>16.ValidateXml.pdb</file>
+          <file>DesignTimeResolveAssemblyReferencesInput.cache</file>
+          <file>TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</file>
+          <file>TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</file>
+          <file>TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</file>
+        </files>
+        <dir name="TempPE" />
+      </dir>
+    </dir>
+    <dir name="Properties">
+      <files>
+        <file>AssemblyInfo.cs</file>
+      </files>
+    </dir>
+  </dir>
+  <dir name="input-files">
+    <files>
+      <file>catalogue.xml</file>
+      <file>catalogue.xsd</file>
+      <file>invalid-catalogue.xml</file>
+      <file>people.txt</file>
+    </files>
+  </dir>
+  <dir name="Parsers">
     <dir name="bin">
       <dir name="Debug">
         <files>
@@ -503,19 +549,15 @@
         <dir name="TempPE" />
       </dir>
     </dir>
-    <dir name="Properties">
-      <files>
-        <file>AssemblyInfo.cs</file>
-      </files>
-    </dir>
   </dir>
   <dir name="results">
     <files>
       <file>albums.xml</file>
       <file>cheap-albums.xml</file>
+      <file>directories-xdocument.xml</file>
       <file>directories.xml</file>
       <file>people.xml</file>
-      <file>transformed-catalog.xml</file>
+      <file>transformed-catalogue.html</file>
     </files>
   </dir>
 </dir>

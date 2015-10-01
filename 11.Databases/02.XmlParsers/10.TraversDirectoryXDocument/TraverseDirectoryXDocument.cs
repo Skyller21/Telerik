@@ -12,7 +12,7 @@ namespace _10.TraversDirectoryXDocument
     {
         static void Main(string[] args)
         {
-            string path = @"D:\Marto\Google Drive\Telerik Experience\11.Databases\02.XmlParsers";
+            string path = @"../../../../02.XmlParsers";
 
             var doc = new XDocument();
             var el = new XElement("dir");
