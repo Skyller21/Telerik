@@ -30,7 +30,7 @@ Save при игри.
 „Итератор“ (Iterator) 
 
 ### Имплементация ###
-Will be done soon...
+[Examples](https://github.com/vesheff/Telerik/tree/master/08.High%20Quality%20Code/DesignPatterns-Examples)
 
 ```c#
     
