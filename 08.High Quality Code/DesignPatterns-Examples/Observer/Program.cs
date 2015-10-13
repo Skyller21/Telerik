@@ -1,18 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ObserverPattern
+﻿namespace ObserverPattern
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-
-            StockGrabber grabber = new StockGrabber();
-            StockObserver obsever1 =  new StockObserver(grabber);
+            var grabber = new StockGrabber();
+            var obsever1 = new StockObserver(grabber);
 
             grabber.SetIbmPrice(200);
             grabber.SetApplePrice(500);

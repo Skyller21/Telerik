@@ -1,8 +1,7 @@
-﻿using System;
-using AbstractFactory.Contracts;
-
-namespace AbstractFactory
+﻿namespace AbstractFactory
 {
+    using Contracts;
+
     public class UfoEngine : IEngine
     {
         public override string ToString()

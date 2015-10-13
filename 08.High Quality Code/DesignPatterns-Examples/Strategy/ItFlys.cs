@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Strategy
+﻿namespace Strategy
 {
+    using System;
+
     public class ItFlys : IFly
     {
         public void Fly()

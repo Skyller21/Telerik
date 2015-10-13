@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FactoryPattern
+﻿namespace FactoryPattern
 {
     public class EnemyShipFactory
     {
@@ -16,7 +10,7 @@ namespace FactoryPattern
             {
                 return new UfoEnemyShip();
             }
-            else if(type.ToLower()=="r")
+            else if (type.ToLower() == "r")
             {
                 return new RocketEnemyShip();
             }

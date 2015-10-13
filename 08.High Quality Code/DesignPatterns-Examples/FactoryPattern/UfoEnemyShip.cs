@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FactoryPattern
+﻿namespace FactoryPattern
 {
-    class UfoEnemyShip: EnemyShip
+    internal class UfoEnemyShip : EnemyShip
     {
         public UfoEnemyShip()
         {

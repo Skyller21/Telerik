@@ -1,23 +1,32 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using AbstractFactory.Contracts;
-
-namespace AbstractFactory
+﻿namespace AbstractFactory
 {
+    using System;
+    using Contracts;
+
     public abstract class EnemyShip
     {
-        protected string name;
+        private string name;
 
-        protected IWeapon weapon;
+        private IWeapon weapon;
 
-        protected IEngine engine;
+        private IEngine engine;
 
         public string Name
         {
             get { return this.name; }
             set { this.name = value; }
+        }
+
+        public IWeapon Weapon
+        {
+            get { return weapon; }
+            set { weapon = value; }
+        }
+
+        public IEngine Engine
+        {
+            get { return engine; }
+            set { engine = value; }
         }
 
         public abstract void MakeShip();
@@ -29,7 +38,7 @@ namespace AbstractFactory
 
         public void FollowHeroShip()
         {
-            Console.WriteLine("{0} followeing the hero at {1}", this.Name, this.engine );
+            Console.WriteLine("{0} followeing the hero at {1}", this.Name, this.engine);
         }
 
         public void EnemyShipShoots()
@@ -39,10 +48,10 @@ namespace AbstractFactory
 
         public override string ToString()
         {
-	        string infoOnShip = "The " + this.Name + " has a top speed of " + this.engine +
-	                " and an attack power of " + this.weapon;
-	         
-	        return infoOnShip;
-	    }
+            var infoOnShip = "The " + this.Name + " has a top speed of " + this.engine +
+                             " and an attack power of " + this.weapon;
+
+            return infoOnShip;
+        }
     }
 }

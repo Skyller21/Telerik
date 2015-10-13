@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FactoryPattern
+﻿namespace FactoryPattern
 {
+    using System;
+
     public abstract class EnemyShip
     {
         public string Name { get; set; }
@@ -20,7 +16,5 @@ namespace FactoryPattern
         {
             Console.WriteLine("{0} attacks and get {1} damage", this.Name, this.Damage);
         }
-
-
     }
 }

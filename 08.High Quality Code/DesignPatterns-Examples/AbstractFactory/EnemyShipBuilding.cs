@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AbstractFactory
+﻿namespace AbstractFactory
 {
     public abstract class EnemyShipBuilding
     {
         public EnemyShip OrderTheShip(string typeOfShip)
         {
-            EnemyShip enemyShip = MakeEnemyShip(typeOfShip);
+            var enemyShip = this.MakeEnemyShip(typeOfShip);
 
             enemyShip.MakeShip();
             enemyShip.DisplayEnemyShip();

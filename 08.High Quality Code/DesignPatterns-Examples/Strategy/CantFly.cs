@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Strategy
+﻿namespace Strategy
 {
-    public class CantFly:IFly
+    using System;
+
+    public class CantFly : IFly
     {
         public void Fly()
         {

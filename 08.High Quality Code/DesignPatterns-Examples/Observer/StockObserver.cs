@@ -1,22 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ObserverPattern
+﻿namespace ObserverPattern
 {
+    using System;
+
     public class StockObserver : IObserver
     {
+        private static int observerIdTracker = 0;
+
+        private readonly int observerId;
+        private readonly ISubject stockGrabber;
+
         private double ibmPrice;
         private double applePrice;
         private double googlePrice;
-
-        private static int observerIdTracker = 0;
-
-        private int observerId;
-
-        private ISubject stockGrabber;
+        
 
         public StockObserver(ISubject stockGrabber)
         {
@@ -34,14 +30,14 @@ namespace ObserverPattern
             this.applePrice = applePrice;
             this.googlePrice = googlePrice;
 
-            PrintPrices();
+            this.PrintPrices();
         }
 
         private void PrintPrices()
         {
-            Console.WriteLine("{0}\nIBM: {1}",observerId, ibmPrice);
-            Console.WriteLine("Apple: {0}", applePrice);
-            Console.WriteLine("Google: {0}", googlePrice);
+            Console.WriteLine("{0}\nIBM: {1}", this.observerId, this.ibmPrice);
+            Console.WriteLine("Apple: {0}", this.applePrice);
+            Console.WriteLine("Google: {0}", this.googlePrice);
         }
     }
 }

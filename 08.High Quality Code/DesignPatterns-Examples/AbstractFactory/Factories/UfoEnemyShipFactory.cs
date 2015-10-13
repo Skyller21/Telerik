@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using AbstractFactory.Contracts;
-
-namespace AbstractFactory.Factories
+﻿namespace AbstractFactory.Factories
 {
+    using Contracts;
+
     public class UfoEnemyShipFactory : IEnemyShipFactory
     {
         public IWeapon AddEsGun()

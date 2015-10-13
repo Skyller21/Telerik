@@ -1,24 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FactoryPattern
+﻿namespace FactoryPattern
 {
-    class Program
+    using System;
+
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Enter the type of ship");
             var input = Console.ReadLine();
 
-           EnemyShipFactory factory = new EnemyShipFactory();
+            var factory = new EnemyShipFactory();
 
             var ship = factory.MakeEnemyShip(input);
             if (ship != null)
             {
-                DoStuff(ship);    
+                DoStuff(ship);
             }
             else
             {

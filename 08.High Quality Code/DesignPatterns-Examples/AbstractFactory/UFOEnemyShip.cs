@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using AbstractFactory.Contracts;
-
-namespace AbstractFactory
+﻿namespace AbstractFactory
 {
+    using System;
+    using Contracts;
+
     public class UfoEnemyShip : EnemyShip
     {
         private readonly IEnemyShipFactory shipFactory;
@@ -14,11 +11,12 @@ namespace AbstractFactory
         {
             this.shipFactory = shipFactory;
         }
+
         public override void MakeShip()
         {
             Console.WriteLine("Making enemy ship {0}", this.Name);
-            this.weapon = shipFactory.AddEsGun();
-            this.engine = shipFactory.AddEsEngine();
+            this.Weapon = this.shipFactory.AddEsGun();
+            this.Engine = this.shipFactory.AddEsEngine();
         }
     }
 }
