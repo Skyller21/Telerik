@@ -7,7 +7,6 @@
         // The constructor initializes all objects
         public Bird()
         {
-       
             this.FlyingType = new ItFlys();
         }
 

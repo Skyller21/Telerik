@@ -12,7 +12,7 @@
         private double ibmPrice;
         private double applePrice;
         private double googlePrice;
-        
+
 
         public StockObserver(ISubject stockGrabber)
         {
