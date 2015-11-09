@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Students", "01.Students\01.Students.csproj", "{73FECFE5-3B96-49BE-885D-458512E0C46E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TradeCompany", "02.TradeCompany\02.TradeCompany.csproj", "{F39D83AC-B21A-4427-BD62-7C954685B07F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MultiKeyDictionary", "03.MultiKeyDictionary\03.MultiKeyDictionary.csproj", "{D26516BF-B713-4309-92D3-6A6F412E24CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73FECFE5-3B96-49BE-885D-458512E0C46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FECFE5-3B96-49BE-885D-458512E0C46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FECFE5-3B96-49BE-885D-458512E0C46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FECFE5-3B96-49BE-885D-458512E0C46E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39D83AC-B21A-4427-BD62-7C954685B07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39D83AC-B21A-4427-BD62-7C954685B07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39D83AC-B21A-4427-BD62-7C954685B07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39D83AC-B21A-4427-BD62-7C954685B07F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26516BF-B713-4309-92D3-6A6F412E24CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26516BF-B713-4309-92D3-6A6F412E24CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26516BF-B713-4309-92D3-6A6F412E24CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26516BF-B713-4309-92D3-6A6F412E24CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

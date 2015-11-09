@@ -1,0 +1,26 @@
+*SQL Server 2014 Developer edition is used
+
+Connection string for "PetStore" database:
+	<add name="PetStoreEntities" connectionString="metadata=res://*/PetShopContext.csdl|res://*/PetShopContext.ssdl|res://*/PetShopContext.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.;initial catalog=PetStore;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+
+Connection string for "SocialNetwork" database:
+	<add name="SocialNetworkContext" connectionString="data source=.;initial catalog=SocialNetwork;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
+
+Relationships for "PetStore" database: 
+	Colors -> Pets - one-to-many
+	Species -> Pets - one-to-many
+	Countries -> Species - one-to-many - strange :D
+	Species -> Products - many-to-many
+	Category -> Products - one-to-many
+	
+
+Relationships for "SocialNetwork" database: 
+	Users -> Images - one-to-many
+	Users -> Posts - many-to-many
+	Users -> Friendships - one-to-many
+	Friendships -> Messages - one-to-many
+	Users -> Friendships - one-to-many (this is actually two to many :D, because a friendship could have only two users. In the real application there should be unique 
+										constraint on the two columns (FirstUserId and SecondUserId) and should be only in one direction. 
+										Example: Pesho -> Gosho ... cannot repeat Pesho -> Gosho again. And cannot add Gosho -> Pesho.)
+	
+JSON Result files location: "Problem 5 6 7 - Code First\JSONResults"

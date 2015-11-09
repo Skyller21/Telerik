@@ -1,0 +1,1 @@
+Not enough time for the seed method. Ivaylo's importer is very nice. :)

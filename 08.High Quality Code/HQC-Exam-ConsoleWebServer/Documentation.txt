@@ -1,0 +1,38 @@
+Design pattern: Factory Method
+	* 
+
+Design pattern: Strategy
+	* In the WebServer there is IResponseProvider, which helps us to decide what kind of response provider we need.
+
+Design pattern: Template Method
+	* 
+	* 
+
+Design pattern: Chain of Responsibility
+	* 
+
+Design pattern: Decorator
+	* Implemented in IActionResult and his subclasses. It is decorated in HomeController.
+
+Found bugs:
+	* File not found error missing ! at the end in StaticFileHandler class
+	* In ResponseProvider major version should be only <3 not <=3.
+	* When input empty line should returninternal server error.
+
+Found bottleneck:
+	* When checks for the file existance in StaticFileHandler it is a recursive call. We don't need to check all the directories for the file. It is in Files folder in the project or does not exist at all.
+
+Single responsibility principle
+	* All the classes are with single purposes.
+
+Open/closed principle
+	* Web server could be easily changed or extended.
+
+Liskov substitution principle
+	* Easily can replace ActionResult classes without this to lead to errors.
+
+Interface segregation principle
+	* The interfaces are small and does not have many methods.
+
+Dependency inversion principle
+	* In the WebServer class there is dependency inversion. In the ContentActionResult class there is dependency inversion.

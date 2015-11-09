@@ -1,0 +1,16 @@
+USE PetStore
+GO
+CREATE PROCEDURE dbo.usp_CheckAndAddColors
+AS
+BEGIN
+	IF (SELECT COUNT(*) FROM Colors) = 0  
+	BEGIN  
+		INSERT INTO Colors (Name)
+		VALUES('black'),('white'),('red'),('mixed')
+	END
+END
+GO
+
+
+EXEC dbo.usp_CheckAndAddColors
+GO

@@ -24,6 +24,7 @@ NotToGIT/
 JavaScript-UI-and-DOM/
 JavaScript-Applications/
 DbTelerikRepo/
+TelerikRepo/
 node_modules/
 bower_components/
 .idea/
@@ -111,7 +112,7 @@ publish/
 
 # NuGet Packages Directory
 ## TODO: If you have NuGet Package Restore enabled, uncomment the next line
-#packages/
+packages/
 
 # Windows Azure Build Output
 csx
