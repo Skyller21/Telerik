@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"EditorConfig",
+		"Emmet",
+		"Gulp",
+		"HTML-CSS-JS Prettify",
+		"Javascript Beautify",
+		"JSHint",
+		"JSLint"
+	]
+}
