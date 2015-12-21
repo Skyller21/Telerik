@@ -16,7 +16,7 @@
 
         drivers.getPublicDrivers()
             .then(function (publicDrivers) {
-                vm.publicDrivers = publicDrivers;
+                vm.drivers = publicDrivers;
             });
     }
 

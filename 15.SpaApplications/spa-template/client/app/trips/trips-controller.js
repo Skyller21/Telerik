@@ -1,4 +1,5 @@
-﻿(function () {
+﻿
+(function () {
     'use strict';
 
     function TripsController(trips, cities, identity) {
@@ -34,7 +35,7 @@
         }
 
         trips.getPublicTrips()
-            .then(function (publicTrips) { 
+            .then(function (publicTrips) {
                 vm.trips = publicTrips;
             });
 

@@ -1,0 +1,30 @@
+<table class="table table-bordered">
+    <tr>
+        <th class="text-center">
+            Driver ID
+        </th>
+        <th class="text-center">
+            Driver Name
+        </th>
+        <th class="text-center">
+            Upcoming Trips
+        </th>
+        <th class="text-center">
+            Total Trips
+        </th>    
+    </tr>
+    <tr ng-class-even="'even-class'" ng-class-odd="'odd-class'" ng-repeat="driver in vm.drivers">
+        <td class="text-center">
+            <a ng-href="#/drivers/{{driver.id}}">{{driver.id}}</a>
+        </td>
+        <td class="text-center">
+            {{driver.name}}
+        </td>
+        <td class="text-center">
+            {{driver.numberOfUpcomingTrips}}
+        </td>
+        <td class="text-center">
+            {{driver.numberOfTotalTrips}}
+        </td>
+    </tr>
+</table>

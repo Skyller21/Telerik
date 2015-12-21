@@ -31,8 +31,8 @@
                             </label>
                         </div>
                     </div>
-                </div> 
-                
+                </div>
+
                 <div ng-show="user.isDriver" class="form-group">
                     <label for="car" class="col-md-2 control-label">Car</label>
                     <div class="col-md-10">
@@ -41,7 +41,7 @@
                 </div>
 
                 <div class="pull-right">
-                    <button ng-click="signup(user)" ng-disabled="signUpForm.$invalid || (user.isDriver && (!user.car || user.car.length == 0 ))" class="btn btn-primary">
+                    <button ng-click="vm.signup(user)" ng-disabled="signUpForm.$invalid || (vm.user.isDriver && (!vm.user.car || vm.user.car.length == 0 ))" class="btn btn-primary">
                         Create
                     </button>
                     <a href="#/" class="btn btn-primary">Cancel</a>

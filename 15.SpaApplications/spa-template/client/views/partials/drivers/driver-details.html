@@ -1,0 +1,43 @@
+<div class="container">
+    <h3>User: {{vm.driver.name}}</h3>
+    <table class="table table-bordered">
+        <tr>
+            <th class="text-center">
+                Driver
+            </th>
+            <th class="text-center">
+                From
+            </th>
+            <th class="text-center">
+                To
+            </th>
+            <th class="text-center">
+                Departure Time
+            </th>
+            <th class="text-center" ng-if="vm.identity && vm.identity.isAuthenticated()">
+                Driver/Passanger
+            </th>
+        </tr>
+        <tr ng-repeat="trip in vm.driver.trips" ng-class-even="'even-class'" ng-class-odd="'odd-class'">
+            <td class="text-center">
+                <a href="#/trips/details/{{trip.id}}/{{trip.driverName}}">{{trip.driverName}}</a>
+            </td>
+            <td class="text-center">
+                {{trip.from}}
+            </td>
+            <td class="text-center">
+                {{trip.to}}
+            </td>
+            <td class="text-center">
+                {{trip.departureDate | beautifulDate}}
+            </td>
+            <td ng-show="'{{trip.driverId}}'==='{{vm.driver.id}}'" class="text-center">
+                Driver
+            </td>
+            <td ng-hide="'{{trip.driverId}}'==='{{vm.driver.id}}'" class="text-center">
+                Passenger
+            </td>
+        </tr>
+    </table>
+
+</div>

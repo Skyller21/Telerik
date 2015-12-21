@@ -6,18 +6,18 @@
             // check if input is date
 
             var monthNames = [
-              "January",
-              "February",
-              "March",
-              "April",
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
               "May",
-              "June",
-              "July",
-              "August",
-              "September",
-              "October",
-              "November",
-              "December"
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
             ];
 
             var date = new Date(input);

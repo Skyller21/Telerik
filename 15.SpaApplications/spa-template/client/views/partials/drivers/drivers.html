@@ -1,0 +1,34 @@
+<div class="container">
+
+    <div class="row" ng-show="vm.identity.isAuthenticated()">
+
+<div class="col-md-3 ">
+        <div class="input-group">
+            <input class="form-control" type="text" ng-model="vm.request.username" placeholder="username">
+            <div class="input-group-btn">
+                <button class="btn btn-primary" type="button" ng-click="vm.filterDrivers()">Filter</button>
+            </div>
+        </div>
+    </div>
+        <div class="col-md-3 col-md-offset-6">
+            <div class="col-md-3">
+                <button class="btn btn-primary" ng-click="vm.prevPage()">&lt;&lt;</button>
+            </div>
+            <div class="col-md-6">
+                <input class="form-control" ng-model="vm.request.page" type="number"/>
+            </div>
+            <div class="col-md-3">
+                <button class="btn btn-primary" ng-click="vm.nextPage()">&gt;&gt;</button>
+            </div>
+        </div>
+    </div>
+
+    <br/>
+
+    <div ng-show="vm.drivers && vm.drivers.length > 0">
+        <div all-drivers/>
+    </div>
+    <div ng-hide="vm.drivers && vm.drivers.length > 0">
+        <h2 class="text-center">No results!</h2>
+    </div>
+</div>
