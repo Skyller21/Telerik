@@ -1,8 +1,9 @@
 (function () {
     'use strict';
 
-    function RegisterController($scope, $location, auth, notifier) {
-        $scope.signup = function (user) {
+    function RegisterController($location, auth, notifier) {
+        var vm = this;
+        vm.signup = function (user) {
             auth.signup(user).then(function () {
                 notifier.success('Registration successful!');
                 $location.path('/');
@@ -12,5 +13,5 @@
         }
     }
 
-    angular.module('myApp.controllers').controller('SignUpCtrl', ['$scope', '$location', 'auth', 'notifier', RegisterController]);
+    angular.module('myApp.controllers').controller('SignUpCtrl', ['$location', 'auth', 'notifier', RegisterController]);
 }());

@@ -9,7 +9,7 @@
         <th class="text-center">
             To
         </th>
-        <th class="text-center">
+        <th class="text-center text-nowrap">
             Departure Time
         </th>
         <th class="text-center" ng-if="vm.identity && vm.identity.isAuthenticated()">
@@ -20,10 +20,10 @@
         <td class="text-center">
             <a href="#/trips/details/{{trip.id}}/{{trip.driverName}}">{{trip.driverName}}</a>
         </td>
-        <td class="text-center">
+        <td class="text-center text-nowrap">
             {{trip.from}}
         </td>
-        <td class="text-center">
+        <td class="text-center text-nowrap">
             {{trip.to}}
         </td>
         <td class="text-center">

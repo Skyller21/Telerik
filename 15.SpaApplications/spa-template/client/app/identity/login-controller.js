@@ -2,13 +2,14 @@
     'use strict';
 
     function LoginController($scope, $location, notifier, identity, auth) {
+
         $scope.identity = identity;
 
         $scope.login = function (user, loginForm) {
             if (loginForm.$valid) {
                 auth.login(user).then(function (success) {
                     if (success) {
-                        notifier.success('Successful login!');
+                        notifier.success(user.username + ' successfully logged in!');
                     }
                     else {
                         notifier.error('Username/Password combination is not valid!');
