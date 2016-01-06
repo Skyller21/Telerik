@@ -1,0 +1,24 @@
+{
+  "name": "file-uploader",
+  "version": "1.0.0",
+  "description": "upload files ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ME",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "fs-extra": "^0.26.4",
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.0.6",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "jade": "^1.11.0",
+    "node-uuid": "^1.4.7",
+    "url": "^0.11.0",
+    "util": "^0.10.3"
+  }
+}
