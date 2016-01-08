@@ -1,1 +1,8 @@
-h1 Welcome to Jade
+extends  ./layout.jade
+block header
+  include ./header.html
+  if filesList.length === 0
+    h1 No files
+  else
+    each val in filesList
+      h3= val

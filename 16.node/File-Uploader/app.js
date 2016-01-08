@@ -1,50 +1,108 @@
-(function() {
-    'use strict';
+(function () {
+  'use strict';
 
-    let formidable = require('formidable'),
-        http = require('http'),
-        util = require('util'),
-        fs = require('fs-extra'),
-        url = require('url'),
-        uuid = require('node-uuid'),
-        jade = require('jade'),
-        port = 12000;
+  let formidable = require('formidable'),
+    http = require('http'),
+    util = require('util'),
+    fs = require('fs-extra'),
+    url = require('url'),
+    uuid = require('node-uuid'),
+    jade = require('jade'),
+    port = 12000;
 
-// create server
-    http.createServer(function(req, res) {
-        var queryData = url.parse(req.url, true);
+  // create server
+  http.createServer(function (req, res) {
+    var queryData = url.parse(req.url, true);
 
-        if(req.url = '/test'){
+    if (req.url === '/') {
 
-
-                var output = jade.compileFile('./views/index.jade');
-                //var html = output();
-                res.end(output());
-
-            };
+      var dir = __dirname + '/uploads/';
 
 
-        var fileId = uuid.v4();
-        if (req.url == '/upload' && req.method.toLowerCase() == 'post') {
-            // parse a file upload
-            var form = new formidable.IncomingForm();
+      var files = fs.readdirSync(dir);
+      var filesList = [];
 
-            form.parse(req, function(err, fields, files) {
-                res.writeHead(200, {'content-type': 'text/plain'});
-                res.write('received upload:\n\n');
-                res.end(util.inspect({fields: fields, files: files}));
-            });
+      for (var i in files) {
+        var file = fs.readdirSync(__dirname + '/uploads/' + files[i]);
+        filesList.push(file[0]);
+      }
 
-            return;
+      console.log(filesList);
+      var html = jade.compileFile('./views/index.jade');
+      res.end(html({
+        filesList
+      }));
+
+      return;
+    };
+
+    if (req.url === '/upload') {
+      var html = jade.compileFile('./views/upload.jade');
+      res.end(html());
+
+      return;
+    }
+
+    if (req.url === '/404') {
+      var html = jade.compileFile('./views/404.jade');
+      res.writeHead(404,{});
+      res.end(html());
+
+      return;
+    }
+
+    if (req.url == '/upload-file' && req.method.toLowerCase() == 'post') {
+      // parse a file upload
+      var form = new formidable.IncomingForm();
+      var fileId = uuid.v4();
+
+      form.parse(req, function (err, fields, files) {
+        if (!files.up.name) {
+          res.writeHead(302, {
+            'Location': 'http://localhost:12000/404'
+          });
+
+          res.end();
+          return;
+        }
+        res.writeHead(302, {
+          'content-type': 'text/plain',
+          'Location': 'http://localhost:12000/'
+        });
+        res.write('received upload:\n\n');
+        res.end();
+      });
+
+      form.on('end', function (fields, files) {
+        if (this.openedFiles.name === '') {
+          res.end();
+          return;
         }
 
+        var temp_path = this.openedFiles[0].path;
+        var file_name = this.openedFiles[0].name;
+        var new_location = __dirname + '/uploads/' + fileId + '/';
+        fs.copy(temp_path, new_location + file_name, function (err) {
+          if (err) {
+            console.error(err);
+          } else {
+            console.log("success!")
+          }
+        });
+      });
 
-        console.log(3);
+      // Great way to keep a track on the progress of the upload for bigger files :)
+      form.on('progress', function (bytesReceived, bytesExpected) {
+        var percent_complete = (bytesReceived / bytesExpected) * 100;
+        console.log(percent_complete.toFixed(2));
+      });
 
-        res.end();
+      return;
+    }
 
-    }).listen(port);
-    console.info('App running on localhost:' + port);
+    res.end();
+  }).listen(port);
+  console.info(`Server listening on http://localhost:${port}`);
 }());
 
 

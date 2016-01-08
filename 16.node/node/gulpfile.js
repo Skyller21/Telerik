@@ -12,7 +12,7 @@ gulp.task('default', function () {
     nodemon({
             script: 'app.js',
             ext: 'js',
-            exec: 'nodemon --debug',
+            exec: 'node --debug',
         })
         .on('restart', function () {
             setTimeout(function () {
