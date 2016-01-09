@@ -14,37 +14,68 @@
   http.createServer(function (req, res) {
     var queryData = url.parse(req.url, true);
 
+    let dir = __dirname + '/uploads/';
+
+    if (!fs.existsSync(dir)){
+        fs.mkdirSync(dir);
+    }
+
     if (req.url === '/') {
 
-      var dir = __dirname + '/uploads/';
+      let dir = __dirname + '/uploads/';
 
 
-      var files = fs.readdirSync(dir);
-      var filesList = [];
+      let files = fs.readdirSync(dir);
+      let filesList = [];
 
-      for (var i in files) {
+      for (let i in files) {
         var file = fs.readdirSync(__dirname + '/uploads/' + files[i]);
-        filesList.push(file[0]);
+        var fileData = {name: file[0], id: files[i]};
+        filesList.push(fileData);
       }
 
-      console.log(filesList);
-      var html = jade.compileFile('./views/index.jade');
-      res.end(html({
-        filesList
-      }));
+      let html = jade.compileFile('./views/index.jade');
+
+      res.write(html({filesList}));
+      res.end();
 
       return;
-    };
+    }
+
+    if(queryData.pathname ==='/download'){
+      let dir = __dirname + '/uploads/' + queryData.query.id + '/';
+
+         try {
+             if (fs.statSync(dir)) {
+                 var files = fs.readdirSync(dir),
+                     file;
+
+                 for (var i in files) {
+                     file = files[i];
+                     break;
+                 }
+
+                 res.writeHead(200, {
+                     'Content-disposition': 'attachment; filename=' + file,
+                     'content-type': 'text/html'
+                 });
+                 res.write(file, 'binary');
+                 res.end();
+             }
+         } catch(e) {
+             console.error('No such file exists');
+         }
+    }
 
     if (req.url === '/upload') {
-      var html = jade.compileFile('./views/upload.jade');
+      let html = jade.compileFile('./views/upload.jade');
       res.end(html());
 
       return;
     }
 
     if (req.url === '/404') {
-      var html = jade.compileFile('./views/404.jade');
+      let html = jade.compileFile('./views/404.jade');
       res.writeHead(404,{});
       res.end(html());
 
@@ -74,8 +105,8 @@
       });
 
       form.on('end', function (fields, files) {
-        if (this.openedFiles.name === '') {
-          res.end();
+        if (this.openedFiles[0].name === '') {
+          res.writeHead(404,{});
           return;
         }
 
@@ -86,7 +117,7 @@
           if (err) {
             console.error(err);
           } else {
-            console.log("success!")
+            console.log("success!");
           }
         });
       });

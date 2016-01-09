@@ -2,7 +2,18 @@ extends  ./layout.jade
 block header
   include ./header.html
   if filesList.length === 0
-    h1 No files
+    div.container.col-md-8.col-md-offset-2.text-center
+      a(href="/upload" class="btn btn-lg btn-primary non-decorated") No files uploaded.
   else
-    each val in filesList
-      h3= val
+    div.container.col-md-8.col-md-offset-2
+      table#example.table.table-hover
+        thead
+          tr.success
+            th File Name
+            th Link
+        tbody
+          each file in filesList
+            tr
+              td(id=file.id)= file.name
+              td
+                a(href='download?id='+file.id) Download
