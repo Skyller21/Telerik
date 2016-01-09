@@ -1,0 +1,18 @@
+<div class="nav navbar-nav navbar-right" ng-controller="LoginCtrl">
+    <form class="navbar-form" name="loginForm" ng-hide="identity.isAuthenticated()">
+        <a class="btn btn-success" href="#/users/login">Login</a>
+        <a class="btn btn-primary" href="#/users/register">Register</a>
+    </form>
+    <ul class="nav navbar-nav navbar-right" ng-show="identity.isAuthenticated()">
+        <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="">{{ identity.getCurrentUser().userName }}
+                <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="#/users/logout">Sign Out</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>

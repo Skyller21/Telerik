@@ -1,0 +1,41 @@
+<!-- {"Id":278,"UserName":"stamat@stamat.com","SourceCode":"123","CreatedOn":"2015-12-22T16:00:34.95","ProjectName":"the coolest project"} -->
+<div class="container">
+        <table class="table table-bordered">
+        <tr>
+            <th class="text-center">
+                Created by
+            </th>
+            <th class="text-center">
+                Id
+            </th>
+            <th class="text-center">
+                Source Code
+            </th>
+            <th class="text-center">
+                Project Name
+            </th>
+            <th class="text-center" ng-if="vm.identity && vm.identity.isAuthenticated()">
+                Created On
+            </th>
+            
+        </tr>
+        <tr ng-class-even="'even-class'" ng-class-odd="'odd-class'">
+            <td class="text-center">
+                <a href="">{{vm.commit.UserName}}</a>
+            </td>
+            <td class="text-center">
+                {{vm.commit.Id}}
+            </td>
+            <td class="text-center">
+                {{vm.commit.SourceCode}}
+            </td>
+            <td class="text-center">
+                {{vm.commit.ProjectName}}
+            </td>
+            <td class="text-center">
+                {{vm.commit.CreatedOn | beautifulDate}}
+            </td>
+        </tr>
+    </table>
+
+</div>

@@ -10,6 +10,7 @@ namespace _01.NestedLoopRecursive
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter a number n:");
             n = int.Parse(Console.ReadLine());
             k = n;
             arr = new int[k];
@@ -21,13 +22,13 @@ namespace _01.NestedLoopRecursive
         {
             if (index >= k)
             {
-                Console.WriteLine(string.Join(",", arr));
+                Console.WriteLine(string.Join(" ", arr));
             }
             else
             {
                 for (int i = 0; i < n; i++)
                 {
-                    arr[index] = i;
+                    arr[index] = i + 1;
                     Generate(index + 1);
                 }
             }

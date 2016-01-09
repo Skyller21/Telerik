@@ -1,0 +1,16 @@
+<div class="container">
+    <h2 class="text-center"> Collaborators</h2>
+    <table class="table table-bordered">
+        <tr>
+            <th class="text-center">
+                Username
+            </th>
+        </tr>
+        <tr ng-repeat="collaborator in vm.collaborators" ng-class-even="'even-class'" ng-class-odd="'odd-class'">
+            <td class="text-center">
+                <a href="">{{collaborator}}</a>
+            </td>
+
+        </tr>
+    </table>
+</div>

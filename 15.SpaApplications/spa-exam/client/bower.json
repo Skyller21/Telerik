@@ -1,0 +1,27 @@
+{
+  "name": "spa-app",
+  "description": "exam spa",
+  "main": "index.js",
+  "authors": [
+    "me&you"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "angular-cookies": "~1.4.8",
+    "bootstrap": "~3.3.6",
+    "toastr": "~2.1.2",
+    "kendo-ui": "~2015.3.1214"
+  }
+}

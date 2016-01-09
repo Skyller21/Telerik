@@ -1,0 +1,43 @@
+<table class="table table-bordered">
+    <tr>
+        <th class="text-center">
+            Project Name
+        </th>
+        <th class="text-center">
+            License Type
+        </th>
+        <th class="text-center">
+            Total Users
+        </th>
+        <th class="text-center text-nowrap">
+            Created On
+        </th>
+        <th class="text-center text-nowrap">
+            Collaborators
+        </th>
+        <th class="text-center text-nowrap">
+            Commits
+        </th>
+    </tr>
+    <tr ng-class-even="'even-class'" ng-class-odd="'odd-class'" ng-repeat="project in vm.projects">
+
+        <td class="text-center">
+            <a ng-href="#/projects/{{project.Id}}">{{project.Name}}</a>
+        </td>
+        <td class="text-center text-nowrap">
+            {{project.License}}
+        </td>
+        <td class="text-center text-nowrap">
+            {{project.TotalUsers}}
+        </td>
+        <td class="text-center">
+            {{project.CreatedOn | beautifulDate}}
+        </td>
+        <td class="text-center">
+            <a ng-href="#/projects/collaborators/{{project.Id}}">Collaborators</a>
+        </td>
+        <td class="text-center">
+            <a ng-href="#/commits/byProject/{{project.Id}}">Commits</a>
+        </td>
+    </tr>
+</table>

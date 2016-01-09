@@ -1,0 +1,36 @@
+﻿
+(function () {
+    'use strict';
+
+    function HomeController(statistics, projects, commits) {
+        var vm = this;
+
+        statistics.getStats()
+            .then(function (stats) {
+                vm.stats = stats;
+            });
+
+        projects.getPublicProjects()
+            .then(function (publicProjects) {
+                vm.projects = publicProjects;
+            })
+
+        commits.getPublicCommits()
+            .then(function (publicCommits) {
+                vm.commits = publicCommits;
+            })
+
+        // trips.getPublicTrips()
+        //     .then(function (publicTrips) {
+        //         vm.trips = publicTrips;
+        //     });
+        //
+        // drivers.getPublicDrivers()
+        //     .then(function (publicDrivers) {
+        //         vm.drivers = publicDrivers;
+        //     });
+    }
+
+    angular.module('myApp.controllers')
+        .controller('HomeController', ['statistics', 'projects', 'commits', HomeController])
+}());

@@ -1,6 +1,6 @@
 /* globals $ */
 
-/* 
+/*
 
  Create a function that takes an id or DOM element and an array of contents
 
@@ -18,15 +18,15 @@
  */
 
 module.exports = function () {
-
+    'use strict';
     return function (element, contents) {
 
-        if (typeof (element) !== 'string' && element.nodeType !== 1) {
+        if (typeof element !== 'string' && element.nodeType !== 1) {
             throw new Error();
         }
 
 
-        if (typeof (element) === 'string') {
+        if (typeof element === 'string') {
             if (!document.getElementById(element)) {
                 throw new Error();
             }
@@ -44,23 +44,23 @@ module.exports = function () {
             throw new Error();
         }
 
+
         contents.forEach(function (item) {
-            if (typeof (item) !== 'string' && isNaN(item)) {
+            if (typeof item !== 'string' && isNaN(item)) {
                 throw new Error();
             }
-
-            if (typeof (item) === 'object') {
+            
+            if (typeof item === 'object') {
                 throw new Error();
             }
         });
 
-
         var el;
 
-        if (typeof (element) === 'string') {
+        if (typeof element === 'string') {
             var el = document.getElementById(element);
         } else {
-            var el = document.getElementById(element.id);
+            el = document.getElementById(element.id);
         }
 
         while (el.firstChild) {

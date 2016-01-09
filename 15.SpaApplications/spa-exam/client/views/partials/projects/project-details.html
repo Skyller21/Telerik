@@ -1,0 +1,60 @@
+<div class="container">
+
+    <!-- {"Id":515,"Name":"testtest","CreatedOn":"2015-12-22T14:38:45.11","TotalUsers":1,"License":"MIT"} -->
+    <form class="form-horizontal col-md-8" name="addCollaboratorForm">
+    <div class="form-group ">
+        <div class="">
+            <label class="control-label" for="username">Username</label>
+        </div>
+        <div>
+            <input class="form-control col-md-6" id="username" ng-model="vm.collaborator" type="email" required="required"/>
+        </div>
+    </div>
+    <div class="pull-right">
+        <button class="btn btn-primary" ng-click="vm.addCollaborator(vm.id, 'vm.collaborator')" ng-disabled="addCollaboratorForm.$invalid">
+            Add Collaborator
+        </button>
+    </div>
+</form>
+</br>
+</br>
+</br>
+</br>
+<table class="table table-bordered">
+<tr>
+<th class="text-center">
+Created by
+</th>
+<th class="text-center">
+Id
+</th>
+<th class="text-center">
+Total Users
+</th>
+<th class="text-center">
+License Type
+</th>
+<th class="text-center" ng-if="vm.identity && vm.identity.isAuthenticated()">
+Created On
+</th>
+</tr>
+<tr ng-class-even="'even-class'" ng-class-odd="'odd-class'">
+<td class="text-center">
+<a href="">{{vm.project.Name}}</a>
+</td>
+<td class="text-center">
+{{vm.project.Id}}
+</td>
+<td class="text-center">
+{{vm.project.TotalUsers}}
+</td>
+<td class="text-center">
+{{vm.project.License}}
+</td>
+<td class="text-center">
+{{vm.project.CreatedOn | beautifulDate}}
+</td>
+</tr>
+</table>
+
+</div>

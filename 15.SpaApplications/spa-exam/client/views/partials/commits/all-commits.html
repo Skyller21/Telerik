@@ -1,0 +1,23 @@
+<div class="container">
+    <div ng-show="vm.identity.isAuthenticated()">
+        <div class="col-md-12">
+            <a class="btn btn-md btn-success col-md-2" href="#/commits/create" ng-show="vm.identity.isAuthenticated()">Create New Commit</a>
+        </div>
+    </div>
+    </br>
+    </br>
+    </br>
+    <div class="panel panel-primary text-center" ng-show="vm.commits && vm.commits.length > 0">
+        <div class="panel-heading">
+            <h2 class="panel-title">Latest Commits</h2>
+        </div>
+        <div class="panel-body">
+            <div all-commits></div>
+
+        </div>
+    </div>
+
+    <div ng-hide="vm.commits && vm.commits.length > 0">
+        <h2 class="text-center">No results!</h2>
+    </div>
+</div>

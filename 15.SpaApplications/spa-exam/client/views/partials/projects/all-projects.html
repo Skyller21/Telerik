@@ -1,0 +1,31 @@
+<div class="container">
+    <div ng-show="vm.identity.isAuthenticated()">
+        <div class="col-md-12">
+            <button class="btn btn-primary btn-md col-md-2" name="button" ng-click="vm.showHideFilters()" type="button">Show Filters</button>
+
+            <a class="btn btn-md btn-success col-md-2 col-md-offset-1" href="#/projects/create" ng-show="vm.identity.isAuthenticated()">Create New Project</a>
+        </div>
+    </br>
+</br>
+</br>
+</br>
+<div class="row" filter-projects ng-show="vm.visible"></div>
+</div>
+</br>
+
+</br>
+
+<div class="panel panel-primary text-center" ng-show="vm.projects && vm.projects.length > 0">
+<div class="panel-heading">
+<h2 class="panel-title">Latest Projects</h2>
+</div>
+<div class="panel-body">
+<div all-projects></div>
+
+</div>
+</div>
+
+<div ng-hide="vm.projects && vm.projects.length > 0">
+<h2 class="text-center">No results!</h2>
+</div>
+</div>

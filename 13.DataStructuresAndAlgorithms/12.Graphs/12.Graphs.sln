@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salaries", "Salaries\Salaries.csproj", "{7EEE8FD2-301D-475B-AA31-E595CCC1AAA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Friends", "Friends\Friends.csproj", "{17947BC1-27AF-483B-A583-F3357E04F9F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstraLINQ", "DijkstraLINQ\DijkstraLINQ.csproj", "{6800E38A-BBA8-4D17-A6AA-75690A3016CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EEE8FD2-301D-475B-AA31-E595CCC1AAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEE8FD2-301D-475B-AA31-E595CCC1AAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEE8FD2-301D-475B-AA31-E595CCC1AAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEE8FD2-301D-475B-AA31-E595CCC1AAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17947BC1-27AF-483B-A583-F3357E04F9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17947BC1-27AF-483B-A583-F3357E04F9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17947BC1-27AF-483B-A583-F3357E04F9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17947BC1-27AF-483B-A583-F3357E04F9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6800E38A-BBA8-4D17-A6AA-75690A3016CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6800E38A-BBA8-4D17-A6AA-75690A3016CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6800E38A-BBA8-4D17-A6AA-75690A3016CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6800E38A-BBA8-4D17-A6AA-75690A3016CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
