@@ -1,6 +1,7 @@
 extends  ./layout.jade
 block header
   include ./header.html
+  div
   if filesList.length === 0
     div.container.col-md-8.col-md-offset-2.text-center
       a(href="/upload" class="btn btn-lg btn-primary non-decorated") No files uploaded.

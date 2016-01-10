@@ -31,9 +31,11 @@
       for (let i in files) {
         var file = fs.readdirSync(__dirname + '/uploads/' + files[i]);
         var fileData = {name: file[0], id: files[i]};
+		
         filesList.push(fileData);
       }
 
+	  //console.log(filesList);
       let html = jade.compileFile('./views/index.jade');
 
       res.write(html({filesList}));
