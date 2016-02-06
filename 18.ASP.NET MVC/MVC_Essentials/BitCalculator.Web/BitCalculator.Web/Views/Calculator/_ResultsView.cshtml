@@ -1,0 +1,23 @@
+﻿@using BitCalculator.Web.Models
+@model BitCalculator.Web.Models.CalculatorViewModel
+
+@if ((int)Model.Kilo == 1000)
+{
+    <div id="kilo">Bandwidth (Kilo = 1000 bits)</div>
+}
+else
+{
+    <div id="kilo">Storage (Kilo = 1024 bits)</div>
+}
+
+<table class="table table-responsive table-striped">
+    <tbody>
+        @foreach (Unit item in Model.Units)
+        {
+            <tr>
+                <td class="col-md-6">@Html.DisplayFor(i => item.Type)</td>
+                <td class="col-md-6">@Html.DisplayFor(i => item.CalculatedValue)</td>
+            </tr>
+        }
+    </tbody>
+</table>
