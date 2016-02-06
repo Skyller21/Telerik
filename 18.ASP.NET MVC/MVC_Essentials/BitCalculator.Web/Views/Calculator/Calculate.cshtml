@@ -1,18 +1,19 @@
 ﻿@model BitCalculator.Web.Models.CalculatorViewModel
 
-@{ 
+@{
     ViewBag.Title = "Bit Calculator";
 }
 
 <h3 class="modal-content text-center">@ViewBag.Title</h3>
 
-@using (@Ajax.BeginForm("Calculate",null, new AjaxOptions
+@using (@Ajax.BeginForm("Calculate", null, new AjaxOptions
 {
     UpdateTargetId = "result",
     InsertionMode = InsertionMode.Replace
 }, new
 {
-    @class="col-md-6"
+    @class = "col-md-6",
+    id = "calc-form"
 }))
 {
     <div class="form-group">
@@ -21,7 +22,7 @@
     </div>
     <div class="form-group">
         <h3>Type:</h3>
-        @Html.Kendo().DropDownListFor(m => m.Type).BindTo(Model.Units.Select(u=> new { text=u.Type + " - " + u.Symbol, value=u.Type })).DataTextField("text").DataValueField("value").Value(Model.Type).Events(e => e.Change("postForm"))
+        @Html.Kendo().DropDownListFor(m => m.Type).BindTo(Model.Units.Select(u => new { text = u.Type + " - " + u.Symbol, value = u.Type })).DataTextField("text").DataValueField("value").Value(Model.Type).Events(e => e.Change("postForm"))
     </div>
     <div class="form-group">
         <h3>Kilo:</h3>
@@ -35,10 +36,9 @@
 
 }
 <div id="result" class="col-md-6">
-    @if (!this.Request.IsAjaxRequest())
-    {
-        @Html.Action("ResultsView", Model)
-    }
+
+    @Html.Partial("_ResultsView", Model)
+
 </div>
 @section scripts {
     <script>
@@ -47,7 +47,7 @@
             $.ajax({
                 url: "/Calculator/Calculate",
                 method: "post",
-                data: $('#form0').serialize(),
+                data: $('#calc-form').serialize(),
                 success: function (response) {
                     $('#result').html(response);
                 }

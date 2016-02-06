@@ -17,7 +17,6 @@ namespace BitCalculator.Web.Controllers
             this.dbContext = new CalculatorDbContext();
         }
 
-
         [HttpGet]
         public ActionResult Calculate()
         {
@@ -51,17 +50,6 @@ namespace BitCalculator.Web.Controllers
                 }
             }
 
-            if (this.Request.IsAjaxRequest())
-            {
-                return this.PartialView("_ResultsView", model);
-            }
-
-            return this.View(model);
-        }
-
-        [ChildActionOnly]
-        public ActionResult ResultsView(CalculatorViewModel model)
-        {
             return this.PartialView("_ResultsView", model);
         }
     }
