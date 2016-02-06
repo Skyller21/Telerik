@@ -126,5 +126,5 @@
         .config(['$routeProvider', config])
         .run(['$http', '$cookies', '$rootScope', '$location', 'auth', run])
         .value('toastr', toastr)
-        .constant('baseServiceUrl', 'http://spa.bgcoder.com');
+        .constant('baseServiceUrl', 'http://localhost:3001');
 }());
